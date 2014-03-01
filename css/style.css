@@ -1,3 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: #222;
+}
 #main {
 	background: #000;
 }
@@ -94,6 +100,12 @@
 /*FONT COLOR*/
 .red {
 	color: #ec1869;
+}
+.blue {
+	color: #23aadc;
+}
+.yellow {
+	color: #efa300;
 }
 
 .box_content .jdl_program,
