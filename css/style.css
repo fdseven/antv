@@ -66,6 +66,13 @@
 	display: block;
 	padding-top: 100%;
 }
+.gantung {
+	position: absolute;
+	top: 0;
+}
+.gantung.kanan {
+	right: 0;
+}
 .box_content {
 	position: absolute;
 	top: 0;
@@ -81,7 +88,7 @@
 }
 .cover {
 	width: 100%;
-	height: 100%;
+	height: auto;
 }
 
 /*FONT COLOR*/
