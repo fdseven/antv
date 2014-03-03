@@ -57,6 +57,65 @@ a,
 		width: 162px;
 		height: auto;
 	}
+	#activator {
+		display: none;
+	}
+}
+
+@media (max-width: 750px) {
+	/* Style for overlay and box */
+        
+		#activator {
+			display: block;
+			float: right;
+		}
+        a.activator {
+
+            z-index:1;
+            cursor:pointer;
+        }
+        
+        #menu_area{
+			float:right;        
+            position:fixed;
+            right:-50%;
+            top:0px;
+            display:none;
+			z-index: 3;
+        }
+        
+        #menu_area p {
+        	padding:30px;
+        }
+        
+        #menu_area{
+        	width:50%;
+        	height:100%;
+			overflow: auto;
+        }
+        
+        a.boxclose{
+        
+        	font-size: 1.5em;
+			font-family: 'futura_book';
+			float:right;
+			width:40px;
+			height:40px;
+			position:absolute;
+			right:30px;
+			top:30px;
+			color:#fff;
+			background-color:#00b698;
+			cursor:pointer;
+			z-index:120;
+        }
+        
+        a.boxclose:hover {
+        	background-color:#00857f;
+			cursor:pointer;
+        }
+        
+/* Style for overlay and box end*/ 
 }
 
 @media (min-width: 500px) {

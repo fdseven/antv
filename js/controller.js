@@ -7,3 +7,19 @@ $("#slider").responsiveSlides({
 	speed: 500,
 	namespace: "callbacks"
 });
+
+$(function() {
+	$('#activator').click(function(){ 
+		$('#main').animate({'margin-left':'-10%'},300,function(){});                       		
+		$("#menu_area").show();
+		$('#menu_area').animate({'right':'0px'},300,function(){
+		});            
+	});
+	
+	$('#close').click(function(){
+		$('#main').animate({'margin-left':'0px'},300,function(){});
+	    $('#menu_area').animate({'right':'-50%'},300,function(){  
+	    $("#menu_area").hide();
+	    });
+	});
+});
