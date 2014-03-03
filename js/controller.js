@@ -9,7 +9,7 @@ $("#slider").responsiveSlides({
 });
 
 $(function() {
-	$('#activator').click(function(){ 
+	$('#menu').click(function(){ 
 		$('#main').animate({'margin-left':'-10%'},300,function(){});                       		
 		$("#menu_area").show();
 		$('#menu_area').animate({'right':'0px'},300,function(){

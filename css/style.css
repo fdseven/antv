@@ -57,63 +57,52 @@ a,
 		width: 162px;
 		height: auto;
 	}
-	#activator {
+	#menu {
 		display: none;
 	}
 }
 
 @media (max-width: 750px) {
-	/* Style for overlay and box */
+/*MOBILE SITE MENU*/
         
-		#activator {
-			display: block;
-			float: right;
-		}
-        a.activator {
-
-            z-index:1;
-            cursor:pointer;
-        }
-        
-        #menu_area{
-			float:right;        
-            position:fixed;
-            right:-50%;
-            top:0px;
-            display:none;
-			z-index: 3;
-        }
-        
-        #menu_area p {
-        	padding:30px;
-        }
-        
-        #menu_area{
-        	width:50%;
-        	height:100%;
-			overflow: auto;
-        }
-        
-        a.boxclose{
-        
-        	font-size: 1.5em;
-			font-family: 'futura_book';
-			float:right;
-			width:40px;
-			height:40px;
-			position:absolute;
-			right:30px;
-			top:30px;
-			color:#fff;
-			background-color:#00b698;
-			cursor:pointer;
-			z-index:120;
-        }
-        
-        a.boxclose:hover {
-        	background-color:#00857f;
-			cursor:pointer;
-        }
+	#menu {
+		display: block;
+		float: right;
+	}
+	a.menu {
+		z-index:1;
+		cursor:pointer;
+	}
+	#menu_area {
+		background: rgba(0,0,0,0.85);
+		float:right;        
+		position:fixed;
+		right:-50%;
+		top:0px;
+		display:none;
+		z-index: 3;
+		width:50%;
+		height:100%;
+		overflow: auto;
+	}
+	a.boxclose{
+		font-size: 1.5em;
+		font-family: 'futura_book';
+		float:right;
+		width:40px;
+		height:40px;
+		position:absolute;
+		right:30px;
+		top:30px;
+		color:#fff;
+		background-color:#00b698;
+		cursor:pointer;
+		z-index:120;
+	}
+	a.boxclose:hover {
+		background-color:#00857f;
+		cursor:pointer;
+	}
         
 /* Style for overlay and box end*/ 
 }
@@ -237,14 +226,14 @@ a,
 	letter-spacing: -3px;
 	word-wrap: break-word;
 	margin-top: 0;
-	font-family: "Gotham-Bold";
+	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
 }
 .box_content .jam p {
 	margin-top: -7px;
 	letter-spacing: 0;
 	font-size: 14px;
 	font-weight: normal;
-	font-family: "Gotham-Medium";
+	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
 }
 .box_content .jdl_program {
 	font-size: 18px;
@@ -378,6 +367,19 @@ a,
 	.scroll {
 		height: 170px;
 	}
+}
+
+/*FOOTER*/
+footer {
+	padding: 20px 10px;
+	font-size: 12px;
+}
+#member {
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+	color: #acacac;
+}
+#member img {
+	vertical-align: middle;
 }
 	
 /*SLIDER*/
