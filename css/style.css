@@ -18,6 +18,8 @@ a,
 }
 #logo_area img {
 	margin: 20px 0;
+	width: 100px;
+	height: auto;
 }
 #menu_area {
 	background: #242b3d;
@@ -52,6 +54,8 @@ a,
 	}
 	#logo_area img {
 		margin: 70px 0 67px 60px;
+		width: 162px;
+		height: auto;
 	}
 }
 
@@ -73,6 +77,10 @@ a,
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
+	#logo_area img {
+		width: 125px;
+		height: auto;
+	}
 	#row4 .col-sm-4,
 	#row4 .col-sm-8 {
 		width: 50%;
