@@ -10,6 +10,9 @@ a,
 .icon {
 	transition: color 200ms linear 0s, background-color 300ms cubic-bezier(0.23, 1, 0.32, 1) 0s;
 }
+a:hover {
+	text-decoration: none;
+}
 #main {
 	background: #000;
 }
@@ -33,6 +36,23 @@ a,
 }
 #menu_area {
 	background: #242b3d;
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+}
+#menu_area ul {
+	margin: 30px 0 0 14%;
+	padding: 0;
+}
+#menu_area ul li {
+	list-style: none;
+	padding: 0;
+}
+#menu_area ul li a {
+	padding: 2px 0;
+	color: #fff;
+	display: inline-block;
+}
+#menu_area ul li a:hover {
+	color: #ffca23;
 }
 #menu_area2 {
 	background: #000;
@@ -57,7 +77,8 @@ a,
 		width: 162px;
 		height: auto;
 	}
-	#menu {
+	#menu,
+	#close {
 		display: none;
 	}
 }
@@ -65,13 +86,17 @@ a,
 @media (max-width: 750px) {
 /*MOBILE SITE MENU*/
         
-	#menu {
+	#menu,
+	#close {
+		position: fixed;
+		top: 10px;
+		right: 10px;
+		background: #db3332;
+		color: #fff;
 		display: block;
-		float: right;
-	}
-	a.menu {
-		z-index:1;
-		cursor:pointer;
+		padding: 3px 5px;
+		z-index: 3;
+		font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 	}
 	#menu_area {
 		background: rgba(0,0,0,0.85);
@@ -371,15 +396,76 @@ a,
 
 /*FOOTER*/
 footer {
-	padding: 20px 10px;
+	padding: 25px 10px 20px;
 	font-size: 12px;
 }
 #member {
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
-	color: #acacac;
+	margin: 0 0 0 7.3%;
 }
 #member img {
-	vertical-align: middle;
+	padding: 0 12px 10px;
+}
+#member,
+#menu_foot a {
+	color: #acacac;
+}
+#menu_foot {
+	margin: 10px 0;
+}
+#menu_foot a {
+	margin: 0 5px;
+}
+footer, #menu_foot a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+#menu_foot span {
+	display: block;
+	padding: 0 5px;
+	font-size: 11px;
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+}
+
+@media (min-width: 767px) and (max-width: 950px) {
+	footer {
+		font-size: 10px;
+	}
+	#member {
+		margin: 0;
+	}
+}
+
+@media (min-width: 480px) and (max-width: 766px) {
+	footer {
+		text-align: center;
+	}
+	#member {
+		margin: 0;
+		width: 100%;
+	}
+	#member img {
+		width: 15%;
+	}
+	#menu_foot {
+		width: 100%;
+	}
+}
+	
+@media (max-width: 479px) {
+	footer {
+		text-align: center;
+	}
+	#member {
+		margin: 0;
+		width: 100%;
+	}
+	#member img {
+		width: 30%;
+	}
+	#menu_foot span {
+		padding: 5px;
+	}
 }
 	
 /*SLIDER*/
