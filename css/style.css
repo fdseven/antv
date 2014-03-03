@@ -3,6 +3,11 @@
 
 body {
 	background: #222;
+	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
+}
+a,
+.icon {
+	transition: color 200ms linear 0s, background-color 300ms cubic-bezier(0.23, 1, 0.32, 1) 0s;
 }
 #main {
 	background: #000;
@@ -26,6 +31,16 @@ body {
 	bottom: 0;
 }
 
+/*HELPER*/
+#whats_on ul {
+	padding: 0;
+	margin: 0;
+}
+#whats_on ul li {
+	padding: 0;
+	list-style: none;
+}
+
 @media (min-width: 768px) {
 	#main_nav,
 	#logo_area,
@@ -44,14 +59,35 @@ body {
 	#row1 .col-sm-6,
 	#row2 .col-sm-6,
 	#row3 .col-sm-6 {
-    width: 50%;
-  }
-  .col-sm-pull-6 {
-    right: 50%;
-  }
-  .col-sm-push-6 {
-    left: 50%;
-  }
+    	width: 50%;
+  	}
+  	.col-sm-pull-6 {
+    	right: 50%;
+  	}
+  	.col-sm-push-6 {
+    	left: 50%;
+  	}
+	#banner_bottom {
+		display: none;
+	}
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+	#row4 .col-sm-4,
+	#row4 .col-sm-8 {
+		width: 50%;
+	}
+	.hidden-xs {
+		display: none;
+	}
+	#banner_bottom {
+		display: block;
+	}
+}
+@media (max-width: 479px) {
+	#row4 .col-xs-6 {
+		width: 100%;
+	}
 }
 
 #header {
@@ -127,20 +163,25 @@ body {
 	margin-bottom: 0;
 }
 .box_content .jam {
-	width: 70px;
+	width: 75px;
 	font-size: 45px;
-	line-height: 34px;
+	line-height: 35px;
+	letter-spacing: -3px;
 	word-wrap: break-word;
 	margin-top: 0;
+	font-family: "Gotham-Bold";
 }
 .box_content .jam p {
+	margin-top: -7px;
+	letter-spacing: 0;
 	font-size: 14px;
 	font-weight: normal;
-	margin-top: -7px;
+	font-family: "Gotham-Medium";
 }
 .box_content .jdl_program {
 	font-size: 18px;
-	margin-bottom: 5px;
+	line-height: 18px;
+	margin-bottom: 0;
 	margin-top: 15%;
 }
 
@@ -233,6 +274,47 @@ body {
 	}
 	.box_content .jam p {
 		margin-top: -5px;
+	}
+}
+
+#row4, #row4 .box {
+	background: #fff;
+}
+
+/*BOX*/
+.box_title {
+	background: #000;
+	color: #fff;
+	text-align: center;
+}
+
+#kiri {
+	background: #fff;
+}
+#kiri .fixed_height,
+#kanan .fixed_height {
+	height: 310px;
+}
+
+/*JADWAL*/
+#jadwal {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#jadwal td {
+	padding: 2px 5px;
+}
+.scroll {
+	margin: 10px 0;
+	height: 233px;
+	overflow: auto;
+}
+@media (min-width: 767px) and (max-width: 800px) {
+	#kiri #jadwal.fixed_height {
+		height: 238px;
+	}
+	.scroll {
+		height: 170px;
 	}
 }
 	
