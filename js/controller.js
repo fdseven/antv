@@ -18,7 +18,7 @@ $(function() {
 	
 	$('#close').click(function(){
 		$('#main').animate({'margin-left':'0px'},300,function(){});
-	    $('#menu_area').animate({'right':'-200px'},300,function(){  
+	    $('#menu_area').animate({'right':'-300px'},300,function(){  
 	    $("#menu_area").hide();
 	    });
 	});
