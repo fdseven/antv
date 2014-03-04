@@ -3,7 +3,6 @@
 
 /*MAIN*/
 body {
-	background: #222;
 	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
 }
 a,
@@ -102,11 +101,11 @@ a:hover {
 		background: rgba(0,0,0,0.85);
 		float:right;        
 		position:fixed;
-		right:-50%;
+		right:-200px;
 		top:0px;
 		display:none;
 		z-index: 3;
-		width:50%;
+		width:200px;
 		height:100%;
 		overflow: auto;
 	}
@@ -549,7 +548,6 @@ footer, #menu_foot a:hover {
 	text-decoration: none;
 	height: 61px;
 	width: 38px;
-	background: transparent url("themes/themes.gif") no-repeat left top;
 	margin-top: -45px;
 }
 .callbacks_nav:active {
