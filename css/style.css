@@ -19,11 +19,11 @@ a:hover {
 	overflow: hidden;
 }
 .tutup {
-	background: rgba(0,0,0,0.5);
+	background: rgba(236, 24, 105, 0.5);
 	position: fixed;
 	top: 0;
     bottom: 0;
-	z-index: 3;
+	z-index: 5;
     width: 100%;
 }
 
@@ -35,26 +35,18 @@ a:hover {
 }
 
 /*HEADER*/
-#logo_area {
-	height:auto;
-	text-align:center;
-}
-#logo_area img {
-	margin: 20px 0;
-	width: 100px;
-	height: auto;
-}
 #menu_area {
 	background: #242b3d;
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 #menu_area ul {
 	margin: 30px 0 0 14%;
 	padding: 0;
 }
-#menu_area ul li {
+#menu_area ul li,
+#kanal_menu li {
 	list-style: none;
 	padding: 0;
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 #menu_area ul li a {
 	padding: 2px 0;
@@ -64,45 +56,96 @@ a:hover {
 #menu_area ul li a:hover {
 	color: #ffca23;
 }
-#menu_area2 {
-	background: #000;
+#share {
+	float: left;
+}
+#share div {
+	display: table-cell;
+	vertical-align: middle;
 	position: absolute;
-	width: 100%;
-	left: 0;
-	top: 0;
-	bottom: 0;
+	top: 58%;
+	width: 50%;
+	text-align: right;
+}
+#share a {
+	padding-top: 0;
+	height: 32px;
+}
+#kanal_menu {
+	float: right;
+	margin: 13% 70px 0 0;
+}
+#kanal_menu li a {
+	padding: 3px 0;
+	font-size: 13px;
+	display: inline-block;
+	color: #ddd;
+}
+#kanal_menu li a.female,
+#menu_area li a.female {
+	color: #802c89;
+}
+#kanal_menu li a.kids,
+#menu_area li a.kids {
+	color: #ffca23;
+}
+#kanal_menu li a.family,
+#menu_area li a.family {
+	color: #ec1869;
+}
+#kanal_menu li a.male,
+#menu_area li a.male {
+	color: #1fa9db;
+}
+#kanal_menu li a:hover {
+	color: #fff;
+}
+#main_nav,
+#logo_area,
+#menu_area {
+	height: 200px;
+}
+#logo_area {
+	text-align:left;
+}
+#logo_area img {
+	margin: 70px 0 67px 60px;
+	width: 162px;
+	height: auto;
+}
+#menu,
+#close {
+	display: none;
 }
 
-@media (min-width: 768px) {
-	#main_nav,
+@media (max-width: 767px) {
+/*MOBILE SITE MENU*/
+	header {
+		margin-bottom: 29px;
+	}
+    #main_nav,
 	#logo_area,
 	#menu_area {
-		height: 200px;
-	}
-	#logo_area {
-		text-align:left;
-	}
-	#logo_area img {
-		margin: 70px 0 67px 60px;
-		width: 162px;
 		height: auto;
 	}
-	#menu,
-	#close {
-		display: none;
+	#logo_area {
+		position: fixed;
+		background: #000;
+		z-index: 3;
+		text-align: center;
 	}
-}
-
-@media (max-width: 750px) {
-/*MOBILE SITE MENU*/
-        
+	#logo_area img {
+		margin: 15px 0;
+		width: 125px;
+		height: auto;
+	}
 	#menu,
 	#close {
 		position: fixed;
 		top: 23px;
 		right: 10px;
 		background: #fff;
-		color: #db3332;
+		color: #405067;
 		display: block;
 		z-index: 3;
 	}
@@ -118,10 +161,18 @@ a:hover {
 		right:-270px;
 		top:0px;
 		display:none;
-		z-index: 3;
+		z-index: 6;
 		width:270px;
 		height:100%;
 		overflow: auto;
+	}
+	#menu_area ul {
+		margin-right: 14%;
+	}
+	#menu_area ul li a {
+		display: block;
+		padding: 5px 0;
+		border-bottom: 1px dotted #333;
 	}
 	a.boxclose{
 		font-size: 1.5em;
@@ -140,6 +191,9 @@ a:hover {
 	a.boxclose:hover {
 		background-color:#00857f;
 		cursor:pointer;
+	}
+	#row1 #kanal_menu {
+		display: none;
 	}
         
 /* Style for overlay and box end*/ 
@@ -163,19 +217,6 @@ a:hover {
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
-	header {
-		margin-bottom: 29px;
-	}
-	#logo_area {
-		position: fixed;
-		background: #000;
-		z-index: 3;
-	}
-	#logo_area img {
-		margin: 15px 0;
-		width: 125px;
-		height: auto;
-	}
 	#row4 .col-sm-4,
 	#row4 .col-sm-8 {
 		width: 50%;
@@ -185,6 +226,26 @@ a:hover {
 	}
 	#banner_bottom {
 		display: block;
+	}
+	#share {
+		float: none;
+	}
+	#share div {
+		display: block;
+		height: 100%;
+		margin: 17% 0;
+		text-align: center;
+		top: 0;
+		width: 100%;
+		position: relative;
+	}
+	#share div .icon {
+		font-size: 40px;
+	}
+}
+@media (max-width: 499px) {
+	#share div {
+		margin: 12px 0 20px;
 	}
 }
 @media (max-width: 479px) {
@@ -319,6 +380,7 @@ a:hover {
 	}
 	.box_content .hari {
 		font-size: 12px;
+		margin-right: 0;
 	}
 	.box_content .jam {
 		line-height: 30px;

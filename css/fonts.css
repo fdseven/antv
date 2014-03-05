@@ -63,24 +63,30 @@
     padding: 13px 5px 0;
     vertical-align: middle;
 }
-
+a.icon {
+	color: #fff;
+}
 .icon-close:before {
   content: "a";
 }
 .icon-facebook:before {
   content: "b";
 }
-a:hover .icon-facebook {
+a.icon-facebook:hover {
 	color: #3B5998;
 }
 .icon-gplus:before {
   content: "c";
 }
-a:hover .icon-gplus {
+a.icon-gplus:hover {
 	color: #DA3838;
 }
 .icon-menu:before {
   content: "d";
+}
+.icon-pen {
+	font-size: 40px;
+	padding-top: 8px;
 }
 .icon-pen:before {
   content: "e";
@@ -91,13 +97,13 @@ a:hover .icon-gplus {
 .icon-twitter:before {
   content: "g";
 }
-a:hover .icon-twitter,
-a:hover .icon-twitter2 {
+a.icon-twitter:hover,
+a.icon-twitter2:hover {
 	color: #1AB1E7;
 }
 .icon-youtube:before {
   content: "h";
 }
-a:hover .icon-youtube {
+a.icon-youtube:hover {
 	color: #C3110B;
 }

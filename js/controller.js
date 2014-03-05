@@ -10,7 +10,7 @@ $("#slider").responsiveSlides({
 
 $(function() {
 	$('#menu').click(function(){ 
-		$('#main').animate({'margin-left':'-50px'},300,function(){});  
+		//$('#main').animate({'margin-left':'-50px'},300,function(){});  
 		$("body").addClass("no_scroll");
 		$("#overlay").addClass("tutup");                   		
 		$("#menu_area").show();
@@ -21,7 +21,7 @@ $(function() {
 	$('#close').click(function(){
 		$("body").removeClass("no_scroll");  
 		$("#overlay").removeClass("tutup"); 
-		$('#main').animate({'margin-left':'0px'},300,function(){});
+		//$('#main').animate({'margin-left':'0px'},300,function(){});
 	    $('#menu_area').animate({'right':'-270px'},300,function(){  
 	    $("#menu_area").hide();
 	    });
@@ -29,7 +29,7 @@ $(function() {
 	$('#overlay').click(function(){
 		$("body").removeClass("no_scroll");  
 		$("#overlay").removeClass("tutup"); 
-		$('#main').animate({'margin-left':'0px'},300,function(){});
+		//$('#main').animate({'margin-left':'0px'},300,function(){});
 	    $('#menu_area').animate({'right':'-270px'},300,function(){  
 	    $("#menu_area").hide();
 	    });
