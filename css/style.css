@@ -113,10 +113,6 @@ a:hover {
 	width: 162px;
 	height: auto;
 }
-#menu,
-#close {
-	display: none;
-}
 
 @media (max-width: 767px) {
 /*MOBILE SITE MENU*/
@@ -145,14 +141,14 @@ a:hover {
 		top: 23px;
 		right: 10px;
 		background: #fff;
-		color: #405067;
-		display: block;
+		color: #242b3d;
 		z-index: 3;
 	}
 	#menu .icon,
 	#close .icon {
 		padding: 0;
-		height: 32px;
+		width: 31px;
+		height: 31px;
 	}
 	#menu_area {
 		background: rgba(0,0,0,0.85);
