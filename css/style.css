@@ -19,7 +19,7 @@ a:hover {
 	overflow: hidden;
 }
 .tutup {
-	background: rgba(236, 24, 105, 0.5);
+	/*background: rgba(236, 24, 105, 0.5);*/
 	position: fixed;
 	top: 0;
     bottom: 0;
@@ -192,9 +192,6 @@ a:hover {
 		background-color:#00857f;
 		cursor:pointer;
 	}
-	#row1 #kanal_menu {
-		display: none;
-	}
         
 /* Style for overlay and box end*/ 
 }
@@ -211,21 +208,12 @@ a:hover {
   	.col-sm-push-6 {
     	left: 50%;
   	}
-	#banner_bottom {
-		display: none;
-	}
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
 	#row4 .col-sm-4,
 	#row4 .col-sm-8 {
 		width: 50%;
-	}
-	.hidden-xs {
-		display: none;
-	}
-	#banner_bottom {
-		display: block;
 	}
 	#share {
 		float: none;
