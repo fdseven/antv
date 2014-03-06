@@ -15,10 +15,10 @@
         <li><a href="hubungi.php">HUBUNGI</a></li>
       </ul>
       <ul class="visible-xs">
-        <li><a class="female" href="female.php">FEMALE</a></li>
-        <li><a class="kids" href="kids.php">KIDS & TEEN</a></li>
-        <li><a class="family" href="family.php">FAMILY</a></li>
-        <li><a class="male" href="male.php">MALE</a></li>
+        <li><a href="female.php">FEMALE</a></li>
+        <li><a href="kids.php">KIDS & TEEN</a></li>
+        <li><a href="family.php">FAMILY</a></li>
+        <li><a href="male.php">MALE</a></li>
         <li><a href="antvlovers.php">ANTVLOVERS</a></li>
       </ul>
     </nav>
