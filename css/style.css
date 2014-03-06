@@ -141,8 +141,11 @@ a:hover {
 		top: 23px;
 		right: 10px;
 		background: #fff;
-		color: #242b3d;
+		color: #1F2430;
 		z-index: 3;
+	}
+	#close {
+		position: absolute;
 	}
 	#menu .icon,
 	#close .icon {
@@ -151,7 +154,7 @@ a:hover {
 		height: 31px;
 	}
 	#menu_area {
-		background: rgba(0,0,0,0.85);
+		background: rgba(36, 43, 61, 0.95);
 		float:right;        
 		position:fixed;
 		right:-270px;
@@ -168,7 +171,7 @@ a:hover {
 	#menu_area ul li a {
 		display: block;
 		padding: 5px 0;
-		border-bottom: 1px dotted #333;
+		border-bottom: 1px dotted #354255;
 	}
 	a.boxclose{
 		font-size: 1.5em;
