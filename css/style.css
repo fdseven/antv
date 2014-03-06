@@ -145,6 +145,13 @@ a:hover {
 		z-index: 3;
 	}
 	#close {
+		color: #EC1869;
+	}
+	#menu:hover,
+	#close:hover {
+		color: #242b3d;
+	}
+	#close {
 		position: absolute;
 	}
 	#menu .icon,
