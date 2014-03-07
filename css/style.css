@@ -237,20 +237,13 @@ a:hover {
 		cursor:pointer;
 	}
 	
-	/*tentang kami*/
-	#about .box {
-		background: none;
-	}
-	#about .box:after {
+	/*tentang kami*/	#about .box:after {
 		padding-top: 0;
 	}
 	#about .box_content {
 		position: relative;
 	}
-	#about .box_content img {
-		margin: 20px 0;
-	}
-	
+		
 	/*helper*/
 	.row_3 {
 		height: auto;

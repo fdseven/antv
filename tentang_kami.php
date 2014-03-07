@@ -51,9 +51,13 @@
           
             <div class="height"></div>
             
+            <div class="col-xs-12 visible-xs box">
+                <h3 class="head_title">TENTANG <span>KAMI</span></h3>
+            </div>
+            
             <div class="col-xs-12 col-sm-6 col-sm-push-6">
               <div class="row">
-              
+                
                 <div class="textbox grey row_3">
                   <h5 class="head_title"><span>PROFIL</span><br>PERUSAHAAN</h5>
                   <article>
