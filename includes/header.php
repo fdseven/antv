@@ -2,7 +2,7 @@
   <div id="main_nav" class="navbar row" role="navigation">
     <div id="logo_area" class="col-xs-12 col-sm-6">
       <a href="javascript:void(0);" id="menu" class="visible-xs"><span class="icon icon-menu"></span></a>
-      <a href="index.html"><img src="images/logo.png" width="162" height="63"></a>
+      <a href="index.php"><img src="images/logo.png" width="162" height="63"></a>
     </div>
     <nav id="menu_area" class="col-xs-12 col-sm-6">
       <a href="javascript:void(0);" id="close" class="visible-xs"><span class="icon icon-close"></span></a>
