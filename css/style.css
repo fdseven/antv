@@ -19,8 +19,6 @@ a:hover {
 #main {
 	background: #000;
 }
-.container {
-}
 .no_scroll {
 	overflow: hidden;
 }
@@ -69,6 +67,9 @@ a:hover {
 	background: #000;
 	color: #fff;
 	text-align: center;
+}
+.row_3 {
+	min-height: 750px;
 }
 
 /*HEADER*/
@@ -235,6 +236,26 @@ a:hover {
 		background-color:#00857f;
 		cursor:pointer;
 	}
+	
+	/*tentang kami*/
+	#about .box {
+		background: none;
+	}
+	#about .box:after {
+		padding-top: 0;
+	}
+	#about .box_content {
+		position: relative;
+	}
+	#about .box_content img {
+		margin: 20px 0;
+	}
+	
+	/*helper*/
+	.row_3 {
+		height: auto;
+		min-height: 1px;
+	}
         
 /* Style for overlay and box end*/ 
 }
@@ -385,9 +406,7 @@ jdl_program,
 	line-height: 1.2;
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
-.row_3 {
-	min-height: 750px;
-}
+
 
 @media (min-width: 750px) and (max-width: 950px) {
 	.jdl_program,

@@ -62,7 +62,7 @@
                   </article>
                 </div>
                 
-                <div class="col-xs-12 box">
+                <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
                   <div class="box_content">
                     <img class="cover" src="images/esc.jpg">
                   </div>
@@ -74,7 +74,7 @@
             <div class="col-xs-12 col-sm-6 col-sm-pull-6">
               <div class="row">
                 
-                <div class="col-xs-12 box">
+                <div class="col-xs-12 hidden-xs box">
                   <div class="box_content">
                     <img class="box_mask" src="images/mask.png">
                     <h3 class="head_title">TENTANG<br><span>KAMI</span></h3>
@@ -90,7 +90,7 @@
                   </div>
                 </div>
                 
-                <div class="col-xs-12 box">
+                <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
                   <div class="box_content">
                     <img class="cover" src="images/esc.jpg">
                   </div>
