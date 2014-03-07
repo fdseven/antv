@@ -4,6 +4,10 @@
 /*MAIN*/
 body {
 	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+header {
+	font-size: 14px;
 }
 a,
 .icon {
@@ -15,11 +19,13 @@ a:hover {
 #main {
 	background: #000;
 }
+.container {
+}
 .no_scroll {
 	overflow: hidden;
 }
 .tutup {
-	/*background: rgba(236, 24, 105, 0.5);*/
+	/* background: rgba(236, 24, 105, 0.5); */
 	position: fixed;
 	top: 0;
     bottom: 0;
@@ -27,7 +33,38 @@ a:hover {
     width: 100%;
 }
 
+/*FONT & BACKGROUND COLOR*/
+.red {
+	color: #ec1869;
+}
+.blue {
+	color: #23aadc;
+}
+.yellow {
+	color: #efa300;
+}
+.grey,
+.grey .head_title {
+	color: #fff;
+	background: #53565b;
+}
+.grey2,
+.grey2 .head_title {
+	background: #74787f;
+}
+.height {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	background: #53565b;
+}
+
 /*INDEPENDENT CLASS*/
+#main_nav {
+	min-height: 50px;
+}
 .box_title {
 	background: #000;
 	color: #fff;
@@ -208,10 +245,10 @@ a:hover {
 	#row3 .col-sm-6 {
     	width: 50%;
   	}
-  	.col-sm-pull-6 {
+  	#row1 .col-sm-pull-6 {
     	right: 50%;
   	}
-  	.col-sm-push-6 {
+  	#row1 .col-sm-push-6 {
     	left: 50%;
   	}
 }
@@ -259,7 +296,7 @@ a:hover {
 	background-size: contain;
 	display: inline-block;
 	position: relative;
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 .box:after {
 	content: "";
@@ -291,37 +328,28 @@ a:hover {
 	height: auto;
 }
 
-/*FONT COLOR*/
-.red {
-	color: #ec1869;
-}
-.blue {
-	color: #23aadc;
-}
-.yellow {
-	color: #efa300;
-}
+
 
 /*SQUARE BOX*/
-.box_content .jdl_program,
-.box_content .hari,
-.box_content .jam {
+.jdl_program,
+.hari,
+.jam {
 	margin-left: 21%;
 	margin-right: 5%;
 }
-.box_content .jdl_program,
-.box_content .jam {
+jdl_program,
+.jam {
 	font-weight: bold;
 }
-.box_content .jdl_program {
+.jdl_program {
 	margin-bottom: 5px;
 	margin-top: 15%;
 	height: 43px;
 }
-.box_content .hari {
+.hari {
 	margin-bottom: 0;
 }
-.box_content .jam {
+.jam {
 	width: 75px;
 	font-size: 45px;
 	line-height: 35px;
@@ -330,28 +358,45 @@ a:hover {
 	margin-top: 0;
 	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
 }
-.box_content .jam p {
+.jam p {
 	margin-top: -7px;
 	letter-spacing: 0;
 	font-size: 14px;
 	font-weight: normal;
 	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
 }
-.box_content .jdl_program {
+.jdl_program {
 	font-size: 18px;
 	line-height: 18px;
 	margin-bottom: 0;
 	margin-top: 15%;
 }
+.head_title {
+	padding: 30px 30px 20px;
+	margin: 0;
+	color: #53565b;
+}
+.head_title span {
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+}
+.box article,
+.textbox article {
+	padding: 0 30px 25px;
+	line-height: 1.2;
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+}
+.row_3 {
+	min-height: 750px;
+}
 
 @media (min-width: 750px) and (max-width: 950px) {
-	.box_content .jdl_program,
-	.box_content .hari,
-	.box_content .jam {
+	.jdl_program,
+	.hari,
+	.jam {
 		margin-left: 17%;
 		margin-right: 5%;
 	}
-	.box_content .jdl_program {
+	.jdl_program {
 		margin-top: 12%;
 	}
 	.box_mask {
@@ -360,28 +405,28 @@ a:hover {
 }
 
 @media (min-width: 500px) and (max-width: 749px) {
-	.box_content .jdl_program,
-	.box_content .hari,
-	.box_content .jam {
+	.jdl_program,
+	.hari,
+	.jam {
 		margin-left: 10%;
 		margin-right: 5%;
 	}
-	.box_content .jdl_program {
+	.jdl_program {
 		font-size: 16px;
 		margin-bottom: 10px;
 		margin-top: 8%;
 		height: 35px;
 	}
-	.box_content .hari {
+	.hari {
 		font-size: 12px;
 		margin-right: 0;
 	}
-	.box_content .jam {
+	.jam {
 		line-height: 30px;
 		font-size: 37px;
 		margin-bottom: 3px;
 	}
-	.box_content .jam p {
+	.jam p {
 		margin-top: -5px;
 	}
 	.box_mask {
@@ -390,17 +435,17 @@ a:hover {
 }
 
 @media (min-width: 500px) and (max-width: 640px) {
-	.box_content .jam {
+	.jam {
 		line-height: 25px;
 		font-size: 30px;
 	}
-	.box_content .jam p {
+	.jam p {
 		font-size: 12px;
 	}
 }
 
 @media (min-width: 500px) and (max-width: 565px) {
-	.box_content .jdl_program {
+	.jdl_program {
 		font-size: 14px;
 		margin-bottom: 0;
 	}
@@ -412,27 +457,27 @@ a:hover {
 	}
 }
 @media (max-width: 320px) {
-	.box_content .jdl_program,
-	.box_content .hari,
-	.box_content .jam {
+	.jdl_program,
+	.hari,
+	.jam {
 		margin-left: 10%;
 		margin-right: 5%;
 	}
-	.box_content .jdl_program {
+	.jdl_program {
 		font-size: 16px;
 		margin-bottom: 10px;
 		margin-top: 8%;
 		height: 35px;
 	}
-	.box_content .hari {
+	.hari {
 		font-size: 12px;
 	}
-	.box_content .jam {
+	.jam {
 		line-height: 25px;
 		font-size: 30px;
 		margin-bottom: 3px;
 	}
-	.box_content .jam p {
+	.jam p {
 		margin-top: -5px;
 	}
 }
@@ -440,6 +485,9 @@ a:hover {
 /*END: SQUARE BOX*/
 
 /*ROW4*/
+.fixed_height {
+	overflow: hidden;
+}
 #row4, #row4 .box {
 	background: #fff;
 }
