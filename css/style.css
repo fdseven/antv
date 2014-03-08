@@ -16,6 +16,9 @@ a,
 a:hover {
 	text-decoration: none;
 }
+ol {
+	padding: 0 0 0 17px;
+}
 #main {
 	background: #000;
 }
@@ -50,6 +53,9 @@ a:hover {
 .grey2 .head_title {
 	background: #74787f;
 }
+.black {
+	background: #000;
+}
 .height {
 	position: absolute;
 	width: 100%;
@@ -68,6 +74,12 @@ a:hover {
 	color: #fff;
 	text-align: center;
 }
+.row_1 {
+	min-height: 250px;
+}
+.row_2 {
+	min-height: 500px;
+}
 .row_3 {
 	min-height: 750px;
 }
@@ -81,28 +93,29 @@ a:hover {
 	padding: 0;
 }
 #menu_area ul li,
-#kanal_menu li {
+#kanal_menu li,
+#profile_menu li {
 	list-style: none;
 	padding: 0;
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
-#menu_area ul li a {
+#menu_area ul li a,
+#profile_menu li a {
 	padding: 2px 0;
 	color: #fff;
 	display: inline-block;
 }
-#menu_area ul li a:hover {
+#menu_area ul li a:hover,
+#profile_menu li a:hover {
 	color: #ffca23;
 }
-#share {
-	float: left;
+#share.box {
+	background: #000;
 }
 #share div {
-	display: table-cell;
-	vertical-align: middle;
 	position: absolute;
-	top: 58%;
-	width: 50%;
+	top: 45%;
+	width: 100%;
 	text-align: right;
 }
 #share a {
@@ -111,9 +124,10 @@ a:hover {
 }
 #kanal_menu {
 	float: right;
-	margin: 13% 70px 0 0;
+	margin: 26% 70px 0 0;
 }
-#kanal_menu li a {
+#kanal_menu li a,
+#profile_menu li a {
 	padding: 3px 0;
 	font-size: 13px;
 	display: inline-block;
@@ -138,6 +152,12 @@ a:hover {
 #kanal_menu li a:hover {
 	color: #fff;
 }
+#profile_menu {
+	padding: 0 0 0 35px;
+}
+#profile_menu li a {
+	font-size: 12px;
+}
 #main_nav,
 #logo_area,
 #menu_area {
@@ -150,6 +170,11 @@ a:hover {
 	margin: 70px 0 67px 60px;
 	width: 162px;
 	height: auto;
+}
+
+/*about*/
+#about {
+	background: #53565b;
 }
 
 @media (max-width: 767px) {
@@ -237,14 +262,20 @@ a:hover {
 		cursor:pointer;
 	}
 	
-	/*tentang kami*/	#about .box:after {
+	/*tentang kami*/	
+	#about .box:after {
 		padding-top: 0;
 	}
 	#about .box_content {
 		position: relative;
 	}
+	#about #share div {
+		margin: 12px 0 20px;
+	}
 		
 	/*helper*/
+	.row_1,
+	.row_2,
 	.row_3 {
 		height: auto;
 		min-height: 1px;
@@ -272,17 +303,16 @@ a:hover {
 	#row4 .col-sm-8 {
 		width: 50%;
 	}
-	#share {
-		float: none;
+	#share.col-sm-6 {
+		width: 100%;
+	}
+	#share.box:after {
+		padding: 0;
 	}
 	#share div {
-		display: block;
-		height: 100%;
-		margin: 17% 0;
 		text-align: center;
-		top: 0;
-		width: 100%;
 		position: relative;
+		margin: 20% 0 0;
 	}
 	#share div .icon {
 		font-size: 40px;
@@ -310,12 +340,21 @@ a:hover {
 	background-size: contain;
 	display: inline-block;
 	position: relative;
-	/*overflow: hidden;*/
+	overflow: hidden;
 }
 .box:after {
 	content: "";
 	display: block;
 	padding-top: 100%;
+}
+.box.box2:after {
+	padding-top: 200%;
+}
+.box.box3:after {
+	padding-top: 300%;
+}
+.box.box4:after {
+	padding-top: 400%;
 }
 .gantung {
 	position: absolute;
@@ -330,6 +369,7 @@ a:hover {
 	left: 0;
 	right: 0;
 	bottom: 0;
+	overflow: auto;
 }
 .box_mask {
 	position: absolute;
@@ -386,7 +426,7 @@ jdl_program,
 	margin-top: 15%;
 }
 .head_title {
-	padding: 30px 30px 20px;
+	padding: 30px 30px 15px;
 	margin: 0;
 	color: #53565b;
 }

@@ -1,33 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="ico/favicon.ico">
-
-    <title>Starter Template for Bootstrap</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom styles for this website -->
-    <link href="css/style.css" rel="stylesheet">
-    
-    <!-- Custom styles for fonts -->
-    <link href="css/fonts.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
+  
+  <?php  include"includes/head.php"; ?>
 
   <body class="no-js">
   <div id="overlay"></div>
@@ -56,21 +30,32 @@
       <div id="row1" class="row">
       
         <div class="col-xs-12 col-sm-6 col-sm-push-6">
-          <div id="share">
-            <div>
-              <a href="#" class="icon icon-facebook"></a>
-              <a href="#" class="icon icon-twitter"></a>
-              <a href="#" class="icon icon-youtube"></a>
-              <a href="#" class="icon icon-gplus"></a>
+          
+          <div class="row">
+                      
+            <div id="share" class="col-xs-12 col-sm-6 box">
+              <div class="box_content">
+                <a href="#" class="icon icon-facebook"></a>
+                <a href="#" class="icon icon-twitter"></a>
+                <a href="#" class="icon icon-youtube"></a>
+                <a href="#" class="icon icon-gplus"></a>
+              </div>
             </div>
+            
+            <div class="col-xs-12 col-sm-6 hidden-xs box">
+              <div class="box_content black">
+                <ul id="kanal_menu">
+                  <li><a class="female" href="index.html">FEMALE</a></li>
+                  <li><a class="kids" href="index.html">KIDS & TEEN</a></li>
+                  <li><a class="family" href="index.html">FAMILY</a></li>
+                  <li><a class="male" href="index.html">MALE</a></li>
+                  <li><a href="index.html">ANTVLOVERS</a></li>
+                </ul>
+              </div>
+            </div>
+            
           </div>
-          <ul id="kanal_menu" class="hidden-xs">
-            <li><a class="female" href="index.html">FEMALE</a></li>
-            <li><a class="kids" href="index.html">KIDS & TEEN</a></li>
-            <li><a class="family" href="index.html">FAMILY</a></li>
-            <li><a class="male" href="index.html">MALE</a></li>
-            <li><a href="index.html">ANTVLOVERS</a></li>
-          </ul>
+          
         </div>
         
   		<div class="col-xs-12 col-sm-6 col-sm-pull-6">
@@ -100,8 +85,8 @@
       
       <div id="row2" class="row">
     
-        <div class="col-xs-12 col-sm-6">
-          <div class="row">
+        <div class="col-xs-12 col-sm-6 box">
+          <div class="box_content row">
           
             <div class="col-xs-6 col-sm-6 box gantung">
               <div class="box_content red">
@@ -205,8 +190,8 @@
           
         </div>
         
-        <div class="col-xs-12 col-sm-6">
-          <div class="row">
+        <div class="col-xs-12 col-sm-6 box">
+          <div class="box_content row">
           
             <div class="col-xs-6 col-sm-6 box gantung kanan">
               <div class="box_content red">
@@ -231,7 +216,7 @@
           
             <div class="col-xs-12 col-sm-12 fixed_height">
               <div class="box_title"><span class="icon icon-youtube"></span> whatsonANTV</div>
-              <iframe width="100%" height="82%" src="//www.youtube.com/embed/pah2IJ0XaGI" frameborder="0" allowfullscreen></iframe>
+              <!--<iframe width="100%" height="82%" src="//www.youtube.com/embed/pah2IJ0XaGI" frameborder="0" allowfullscreen></iframe>-->
             </div>
             
             <div id="jadwal" class="col-xs-12 col-sm-12 fixed_height">
@@ -331,12 +316,7 @@
       
       </div><!-- /.container -->
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/responsiveslides.min.js"></script>
-	<script src="js/modernizr.js"></script>
-    <script src="js/controller.js"></script>
+      <?php include"includes/js.php"; ?>
+    
   </body>
 </html>

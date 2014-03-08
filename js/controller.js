@@ -34,4 +34,13 @@ $(function() {
 	    $("#menu_area").hide();
 	    });
 	});
+	
+	var menu = $("#menu_area");
+		$(window).resize(function(){  
+		var w = $(window).width();  
+		if(w > 786 && menu.is(':hidden')) {  
+			menu.removeAttr('style');  
+		}  
+	}); 
+	
 });
