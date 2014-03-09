@@ -65,15 +65,15 @@
       
           <div class="box_content black">
             <ul id="profile_menu">
-              <li><a href="index.html">TENTANG KAMI</a></li>
-              <li><a href="index.html">DEWAN KOMISARIS</a></li>
-              <li><a href="index.html">DEWAN DIREKSI</a></li>
-              <li><a href="index.html">SENIOR MANAGEMENT TEAM</a></li>
-              <li><a href="index.html">PENGHARGAAN</a></li>
-              <li><a href="index.html">STASIUN PEMANCAR</a></li>
-              <li><a href="index.html">PROGRAM ANTV</a></li>
-              <li><a href="index.html">SUMBER DAYA MANUSIA</a></li>
-              <li><a href="index.html">PRESS RELEASE</a></li>
+              <li><a class="link_about" href="#about">TENTANG KAMI</a></li>
+              <li><a class="link_dk" href="#dewan_komisaris">DEWAN KOMISARIS</a></li>
+              <li><a class="link_dd" href="#dewan_direksi">DEWAN DIREKSI</a></li>
+              <li><a class="link_sm" href="#senior_management">SENIOR MANAGEMENT TEAM</a></li>
+              <li><a class="link_ph" href="#penghargaan">PENGHARGAAN</a></li>
+              <li><a class="link_pm" href="#stasiun_pemancar">STASIUN PEMANCAR</a></li>
+              <li><a class="link_pr" href="#program">PROGRAM ANTV</a></li>
+              <li><a class="link_sdm" href="#sdm">SUMBER DAYA MANUSIA</a></li>
+              <li><a class="link_prs" href="#">PRESS RELEASE</a></li>
             </ul>
           </div>
         

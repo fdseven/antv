@@ -68,3 +68,5 @@
   </div>
 </div>
 <!-- E: KANAN -->
+
+<div class="clearfix"></div>

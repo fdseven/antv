@@ -5,6 +5,7 @@
 body {
 	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
 	font-size: 12px;
+	background: #ddd;
 }
 header {
 	font-size: 14px;
@@ -18,6 +19,9 @@ a:hover {
 }
 ol {
 	padding: 0 0 0 17px;
+}
+li {
+	margin: 10px 0;
 }
 #main {
 	background: #000;
@@ -56,16 +60,20 @@ ol {
 .grey2 .head_title {
 	background: #74787f;
 }
+.light_grey,
+.light_grey .head_title {
+	color: #53565b;
+	background: #c5c5c5;
+}
+.light_grey2,
+.light_grey2 .head_title {
+	background: #ebeae6;
+}
 .black {
 	background: #000;
 }
-.height {
-	position: absolute;
-	width: 100%;
-	left: 0;
-	top: 0;
-	bottom: 0;
-	background: #53565b;
+.white {
+	background: #fff;
 }
 
 /*INDEPENDENT CLASS*/
@@ -100,6 +108,7 @@ ol {
 #profile_menu li {
 	list-style: none;
 	padding: 0;
+	margin: 0;
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 #menu_area ul li a,
@@ -172,11 +181,6 @@ ol {
 	margin: 70px 0 67px 60px;
 	width: 162px;
 	height: auto;
-}
-
-/*about*/
-#about {
-	background: #53565b;
 }
 
 @media (max-width: 767px) {
@@ -265,22 +269,22 @@ ol {
 	}
 	
 	/*tentang kami*/	
-	#about .box:after {
+	#about .box:after,
+	#senior_management .box:after,
+	#penghargaan .box:after,
+	#stasiun_pemancar .box:after,
+	#program .box:after {
 		padding-top: 0;
 	}
-	#about .box_content {
+	#about .box_content,
+	#senior_management .box_content,
+	#penghargaan .box_content,
+	#stasiun_pemancar .box_content,
+	#program .box_content {
 		position: relative;
 	}
 	#about #share div {
 		margin: 0 0 5px;
-	}
-		
-	/*helper*/
-	.row_1,
-	.row_2,
-	.row_3 {
-		height: auto;
-		min-height: 1px;
 	}
         
 /* Style for overlay and box end*/ 
@@ -360,6 +364,12 @@ ol {
 }
 .box.box4:after {
 	padding-top: 400%;
+}
+.box.box5:after {
+	padding-top: 500%;
+}
+.box.box6:after {
+	padding-top: 600%;
 }
 /* E: responsive resize box */
 
@@ -449,7 +459,7 @@ jdl_program,
 }
 .box article,
 .textbox article {
-	padding: 0 30px 25px;
+	padding: 0 30px 10px;
 	line-height: 1.2;
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
@@ -776,6 +786,7 @@ footer, #menu_foot a:hover {
 	width: 100%;
 	left: 0;
 	top: 0;
+	margin: 0;
 }
 .callbacks img {
 	display: block;

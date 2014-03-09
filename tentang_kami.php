@@ -29,7 +29,7 @@
         <?php include"includes/kebijakan_mutu.php"; ?>
         
       </div>
-        
+              
       <!-- S: DEWAN KOMISARIS -->
       <div id="dewan_komisaris" class="row">
       	<?php include"includes/dewan_komisaris.php"; ?>      
@@ -41,6 +41,36 @@
       	<?php include"includes/dewan_direksi.php"; ?>      
       </div>
       <!-- E: DEWAN DIREKSI -->
+      
+      <!-- S: SENIOR MANAGEMENT -->
+      <div id="senior_management" class="row">
+      	<?php include"includes/senior_management.php"; ?>      
+      </div>
+      <!-- E: SENIOR MANAGEMENT -->
+      
+      <!-- S: PENGHARGAAN -->
+      <div id="penghargaan" class="row">
+      	<?php include"includes/penghargaan.php"; ?>      
+      </div>
+      <!-- E: PENGHARGAAN -->
+      
+      <!-- S: STASIUN PEMANCAR -->
+      <div id="stasiun_pemancar" class="row">
+      	<?php include"includes/stasiun_pemancar.php"; ?>      
+      </div>
+      <!-- E: PENGHARGAAN -->
+      
+      <!-- S: PROGRAM -->
+      <div id="program" class="row">
+      	<?php include"includes/program.php"; ?>      
+      </div>
+      <!-- E: PROGRAM -->
+      
+      <!-- S: SDM -->
+      <div id="sdm" class="row">
+      	<?php include"includes/sdm.php"; ?>      
+      </div>
+      <!-- E: SDM -->
               
       <?php include"includes/footer.php" ?>
       

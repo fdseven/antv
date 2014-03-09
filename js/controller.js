@@ -44,3 +44,32 @@ $(function() {
 	}); 
 	
 });
+
+$(document).ready(function() {
+    $('.link_about').click(function(){
+        $('html, body').animate({scrollTop:$('#about').position().top}, 'slow');        	return false;
+    });
+    $('.link_dk').click(function(){
+        $('html, body').animate({scrollTop:$('#dewan_komisaris').position().top}, 'slow');        	return false;
+    });
+    $('.link_dd').click(function(){
+        $('html, body').animate({scrollTop:$('#dewan_direksi').position().top}, 'slow');        	return false;
+    });
+    $('.link_sm').click(function(){
+        $('html, body').animate({scrollTop:$('#senior_management').position().top}, 'slow');        	
+	return false;
+    });
+    $('.link_ph').click(function(){
+        $('html, body').animate({scrollTop:$('#penghargaan').position().top}, 'slow');        	return false;
+    });
+    $('.link_pm').click(function(){
+        $('html, body').animate({scrollTop:$('#stasiun_pemancar').position().top}, 'slow');        	
+	return false;
+    });
+    $('.link_pr').click(function(){
+        $('html, body').animate({scrollTop:$('#program').position().top}, 'slow');        	return false;
+    });
+    $('.link_sdm').click(function(){
+        $('html, body').animate({scrollTop:$('#sdm').position().top}, 'slow');        	return false;
+    });
+});

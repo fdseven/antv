@@ -8,7 +8,7 @@
       <a href="javascript:void(0);" id="close" class="visible-xs"><span class="icon icon-close"></span></a>
       <ul>
         <li><a href="index.php">HOME</a></li>
-        <li><a href="tentang_kami.php">TENTANG KAMI</a></li>
+        <li><a class="link_about" href="tentang_kami.php#about">TENTANG KAMI</a></li>
         <li><a href="press_release.php">PRESS RELEASE</a></li>
         <li><a href="galeri.php">GALERI</a></li>
         <li><a href="karir.php">KARIR</a></li>
