@@ -22,6 +22,9 @@ ol {
 #main {
 	background: #000;
 }
+.row {
+	position: relative;
+}
 .no_scroll {
 	overflow: hidden;
 }
@@ -113,7 +116,6 @@ ol {
 	background: #000;
 }
 #share div {
-	position: absolute;
 	top: 45%;
 	width: 100%;
 	text-align: right;
@@ -270,7 +272,7 @@ ol {
 		position: relative;
 	}
 	#about #share div {
-		margin: 12px 0 20px;
+		margin: 0 0 5px;
 	}
 		
 	/*helper*/
@@ -313,6 +315,7 @@ ol {
 		text-align: center;
 		position: relative;
 		margin: 20% 0 0;
+		padding: 8px 0 10px;
 	}
 	#share div .icon {
 		font-size: 40px;
@@ -320,7 +323,7 @@ ol {
 }
 @media (max-width: 499px) {
 	#share div {
-		margin: 12px 0 20px;
+		margin: 0 0 5px;
 	}
 }
 @media (max-width: 479px) {
@@ -335,6 +338,8 @@ ol {
 	width: 100%;
 	clear: both;
 }
+
+/* S: responsive resixe box */
 .box {
 	background: #fff url(../images/bg_shade.gif) no-repeat left bottom;
 	background-size: contain;
@@ -356,9 +361,20 @@ ol {
 .box.box4:after {
 	padding-top: 400%;
 }
+/* E: responsive resize box */
+
+#row1 .box_content,
+#row2 .box_content,
+#row3 .box_content,
+#row4 .box_content,
+#share .box_content
+ {
+	overflow: visible;
+}
 .gantung {
 	position: absolute;
 	top: 0;
+	z-index: 2;
 }
 .gantung.kanan {
 	right: 0;
@@ -381,8 +397,6 @@ ol {
 	width: 100%;
 	height: auto;
 }
-
-
 
 /*SQUARE BOX*/
 .jdl_program,
@@ -440,6 +454,55 @@ jdl_program,
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 
+/*hover box*/
+.pview .description {
+	position: absolute;
+	overflow: auto;
+	top: 0px;
+	bottom: 0px;
+	padding: 15px;
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+    opacity: 0;
+	color: #fff;
+    -webkit-transition: all 0.4s ease-in-out;
+       -moz-transition: all 0.4s ease-in-out;
+    	 -o-transition: all 0.4s ease-in-out;
+    	-ms-transition: all 0.4s ease-in-out;
+    		transition: all 0.4s ease-in-out;
+}
+.pview .description.right {
+	right: 0px;
+}
+.red .description {
+	background: rgba(236, 24, 105, 0.8);
+}
+.blue .description {
+	background: rgba(35, 170, 220, 0.8);
+}
+.yellow .description {
+	background: rgba(239, 163, 0, 0.8);
+}
+.pview:hover .description {
+	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+.pview .cover {
+	-webkit-transition: all 0.2s linear;
+       -moz-transition: all 0.2s linear;
+    	 -o-transition: all 0.2s linear;
+    	-ms-transition: all 0.2s linear;
+    		transition: all 0.2s linear;
+}
+.pview:hover .cover {
+	-webkit-transform: scale(1.1,1.1);
+       -moz-transform: scale(1.1,1.1);
+    	 -o-transform: scale(1.1,1.1);
+    	-ms-transform: scale(1.1,1.1);
+    		transform: scale(1.1,1.1);
+}
 
 @media (min-width: 750px) and (max-width: 950px) {
 	.jdl_program,
@@ -507,6 +570,16 @@ jdl_program,
 	.box_mask {
 		display: none;
 	}
+	h3.head_title {
+		font-size: 16px;
+	}
+	.head_title {
+		padding: 15px 15px 10px;
+	}
+	.box article, .textbox article {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
 }
 @media (max-width: 320px) {
 	.jdl_program,
@@ -569,6 +642,19 @@ jdl_program,
 	}
 	.scroll {
 		height: 170px;
+	}
+	h3.head_title {
+		font-size: 18px;
+	}
+	.head_title {
+		padding: 15px 15px 10px;
+	}
+	.box article, .textbox article {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	#profile_menu {
+		padding: 0 0 0 25px;
 	}
 }
 

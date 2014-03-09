@@ -6,14 +6,14 @@
   <body class="no-js">
   <div id="overlay"></div>
   
-  <div id="fb-root"></div>
+  <!--<div id="fb-root"></div>
   <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
     js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
     fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
+  }(document, 'script', 'facebook-jssdk'));</script>-->
   
 	<div id="main" class="container">
     
@@ -60,10 +60,10 @@
         
   		<div class="col-xs-12 col-sm-6 col-sm-pull-6">
         
-          <div class="row">
+          <div class="row pview red">
           
             <div class="col-xs-6 col-sm-6 box">
-              <div class="box_content red">
+              <div class="box_content">
                 <img class="box_mask" src="images/mask.png">
                 <h4 class="jdl_program">CAMPUR<br>CAMPUR</h4>
                 <p class="hari">SETIAP HARI</p>
@@ -76,6 +76,10 @@
               <img class="cover" src="images/melaney.jpg">
               </div>
             </div>
+            
+            <div class="description right col-xs-6 col-sm-6">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
 
           </div>
           
@@ -86,10 +90,10 @@
       <div id="row2" class="row">
     
         <div class="col-xs-12 col-sm-6 box">
-          <div class="box_content row">
+          <div class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box gantung">
-              <div class="box_content red">
+              <div class="box_content">
                 <img class="box_mask" src="images/mask.png">
                 <h4 class="jdl_program">SUPER DEAL</h4>
                 <p class="hari">SENIN - KAMIS</p>
@@ -99,21 +103,29 @@
             
             <img class="cover" src="images/uya.jpg">
             
+            <div class="description right col-xs-6 col-sm-6">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
+            
           </div>
         </div>
       
         <div class="col-xs-12 col-sm-6">
         
-          <div class="row">
+          <div class="row pview red">
         
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/olga.jpg">
               </div>
             </div>
+            
+            <div class="description col-xs-6 col-sm-6">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
           
             <div class="col-xs-6 col-sm-6 box">
-              <div class="box_content red">
+              <div class="box_content">
                 <img class="box_mask" src="images/mask.png">
                 <h4 class="jdl_program">CATATAN<br>SI OLGA</h4>
                 <p class="hari">JUMAT - MINGGU</p>
@@ -123,16 +135,20 @@
           
           </div>
           
-          <div class="row">
+          <div class="row pview blue">
         
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/lensa.jpg">
               </div>
             </div>
+            
+            <div class="description col-xs-6 col-sm-6">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
           
             <div class="col-xs-6 col-sm-6 box">
-              <div class="box_content blue">
+              <div class="box_content">
                 <img class="box_mask" src="images/mask.png">
                 <h4 class="jdl_program">MATA<br>LENSA</h4>
                 <p class="hari">SABTU</p>
@@ -150,10 +166,10 @@
     
         <div class="col-xs-12 col-sm-6">
         
-          <div class="row">
+          <div class="row pview blue">
                   
             <div class="col-xs-6 col-sm-6 box">
-              <div class="box_content blue">
+              <div class="box_content">
                 <img class="box_mask" src="images/mask.png">
                 <h4 class="jdl_program">FANTASTIC WORLD CUP</h4>
                 <p class="hari">MINGGU</p>
@@ -166,13 +182,17 @@
               <img class="cover" src="images/bola.jpg">
               </div>
             </div>
+            
+            <div class="description right col-xs-6 col-sm-6">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
           
           </div>
           
-          <div class="row">
+          <div class="row pview yellow">
           
             <div class="col-xs-6 col-sm-6 box">
-              <div class="box_content yellow">
+              <div class="box_content">
                 <img class="box_mask" src="images/mask.png">
                 <h4 class="jdl_program">MASHA AND<br>THE BEAR</h4>
                 <p class="hari">SETIAP HARI</p>
@@ -185,16 +205,20 @@
               <img class="cover" src="images/masha.jpg">
               </div>
             </div>
+            
+            <div class="description right col-xs-6 col-sm-6">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
           
           </div>
           
         </div>
         
         <div class="col-xs-12 col-sm-6 box">
-          <div class="box_content row">
+          <div class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box gantung kanan">
-              <div class="box_content red">
+              <div class="box_content">
                 <img class="box_mask" src="images/mask.png">
                 <h4 class="jdl_program">PESBUKERS</h4>
                 <p class="hari">SENIN - KAMIS</p>
@@ -203,6 +227,10 @@
             </div>
             
             <img class="cover" src="images/rafi.jpg">
+            
+            <div class="description col-xs-6 col-sm-6">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
           
           </div>
         </div>
@@ -216,7 +244,7 @@
           
             <div class="col-xs-12 col-sm-12 fixed_height">
               <div class="box_title"><span class="icon icon-youtube"></span> whatsonANTV</div>
-              <!--<iframe width="100%" height="82%" src="//www.youtube.com/embed/pah2IJ0XaGI" frameborder="0" allowfullscreen></iframe>-->
+              <iframe width="100%" height="82%" src="//www.youtube.com/embed/pah2IJ0XaGI" frameborder="0" allowfullscreen></iframe>
             </div>
             
             <div id="jadwal" class="col-xs-12 col-sm-12 fixed_height">

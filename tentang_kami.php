@@ -16,14 +16,12 @@
       
       <div id="about" class="row clearfix">
       
-        <div class="col-xs-12 col-sm-12 black">
-          <div id="share" class="visible-xs">
-            <div>
-              <a href="#" class="icon icon-facebook"></a>
-              <a href="#" class="icon icon-twitter"></a>
-              <a href="#" class="icon icon-youtube"></a>
-              <a href="#" class="icon icon-gplus"></a>
-            </div>
+        <div id="share" class="col-xs-12 col-sm-12 black">
+          <div class="box_content">
+            <a href="#" class="icon icon-facebook"></a>
+            <a href="#" class="icon icon-twitter"></a>
+            <a href="#" class="icon icon-youtube"></a>
+            <a href="#" class="icon icon-gplus"></a>
           </div>
         </div>
         
