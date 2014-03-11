@@ -73,3 +73,49 @@ $(document).ready(function() {
         $('html, body').animate({scrollTop:$('#sdm').position().top}, 'slow');        	return false;
     });
 });
+
+var grids = [], overlays = [], gridState = [0,0,0,0,0,0,0];
+
+function toggleOverLay(theGrid) {
+	(gridState[theGrid] === 1) ? gridState[theGrid] = 0 : gridState[theGrid] = 1;
+	for (var i = 0; i < 7; i++) {
+		overlays[i].css("opacity", gridState[i]);	
+	}
+}
+
+$(document).ready(function() {
+	
+	grids.push($("#1"));
+	grids.push($("#2"));
+	grids.push($("#3"));
+	grids.push($("#4"));
+	grids.push($("#5"));
+	grids.push($("#6"));
+	grids.push($("#7"));
+	
+	overlays.push($("#a"));
+	overlays.push($("#b"));
+	overlays.push($("#c"));
+	overlays.push($("#d"));
+	overlays.push($("#e"));
+	overlays.push($("#f"));
+	overlays.push($("#g"));
+	
+	if (Modernizr.touch) {
+		grids[0].on('tap', 0, function (){ toggleOverLay(0) });
+		grids[1].on('tap', 0, function (){ toggleOverLay(1) });
+		grids[2].on('tap', 0, function (){ toggleOverLay(2) });
+		grids[3].on('tap', 0, function (){ toggleOverLay(3) });
+		grids[4].on('tap', 0, function (){ toggleOverLay(4) });
+		grids[5].on('tap', 0, function (){ toggleOverLay(5) });
+		grids[6].on('tap', 0, function (){ toggleOverLay(6) });
+	} else {
+		grids[0].on( "mouseenter mouseleave", function (){ toggleOverLay(0) } );
+		grids[1].on( "mouseenter mouseleave", function (){ toggleOverLay(1) } );
+		grids[2].on( "mouseenter mouseleave", function (){ toggleOverLay(2) } );
+		grids[3].on( "mouseenter mouseleave", function (){ toggleOverLay(3) } );
+		grids[4].on( "mouseenter mouseleave", function (){ toggleOverLay(4) } );
+		grids[5].on( "mouseenter mouseleave", function (){ toggleOverLay(5) } );
+		grids[6].on( "mouseenter mouseleave", function (){ toggleOverLay(6) } );
+	}
+});

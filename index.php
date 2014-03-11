@@ -60,7 +60,7 @@
         
   		<div class="col-xs-12 col-sm-6 col-sm-pull-6">
         
-          <div class="row pview red">
+          <div id="1" class="row pview red">
           
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
@@ -74,7 +74,7 @@
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/melaney.jpg">
-                <div class="description">
+                <div id="a" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -89,7 +89,7 @@
       <div id="row2" class="row">
     
         <div class="col-xs-12 col-sm-6 box">
-          <div class="box_content row pview red">
+          <div id="2" class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box gantung">
               <div class="box_content">
@@ -102,7 +102,7 @@
             
             <img class="cover" src="images/uya.jpg">
             
-            <div class="description right col-xs-6 col-sm-6">
+            <div id="b" class="description right col-xs-6 col-sm-6">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
             
@@ -111,12 +111,12 @@
       
         <div class="col-xs-12 col-sm-6">
         
-          <div class="row pview red">
+          <div id="3" class="row pview red">
         
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/olga.jpg">
-                <div class="description">
+                <div id="c" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -133,12 +133,12 @@
           
           </div>
           
-          <div class="row pview blue">
+          <div id="4" class="row pview blue">
         
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/lensa.jpg">
-                <div class="description">
+                <div id="d" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -163,7 +163,7 @@
     
         <div class="col-xs-12 col-sm-6">
         
-          <div class="row pview blue">
+          <div id="5" class="row pview blue">
                   
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
@@ -177,7 +177,7 @@
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/bola.jpg">
-                <div class="description">
+                <div id="e" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -185,7 +185,7 @@
             
           </div>
           
-          <div class="row pview yellow">
+          <div id="6" class="row pview yellow">
           
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
@@ -199,7 +199,7 @@
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/masha.jpg">
-                <div class="description right">
+                <div id="f" class="description right">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -210,7 +210,7 @@
         </div>
         
         <div class="col-xs-12 col-sm-6 box">
-          <div class="box_content row pview red">
+          <div id="7" class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box gantung kanan">
               <div class="box_content">
@@ -223,7 +223,7 @@
             
             <img class="cover" src="images/rafi.jpg">
             
-            <div class="description col-xs-6 col-sm-6">
+            <div id="g" class="description col-xs-6 col-sm-6">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           

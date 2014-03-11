@@ -52,7 +52,7 @@
             
             <div class="clearfix"></div>
             
-            <div class="row pview yellow">
+            <div id="1" class="row pview yellow">
         
               <div class="col-xs-6 col-sm-6 box">
                 <div class="box_content">
@@ -60,7 +60,7 @@
                 </div>
               </div>
               
-              <div class="description col-xs-6 col-sm-6">
+              <div id="a" class="description col-xs-6 col-sm-6">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </div>
             
@@ -82,7 +82,7 @@
         
   		<div class="col-xs-12 col-sm-6 col-sm-pull-6 box">
         
-          <div class="box_content row pview yellow">
+          <div id="2" class="box_content row pview yellow">
           
             <div class="col-xs-6 col-sm-6 box gantung">
               <div class="box_content">
@@ -95,7 +95,7 @@
             
             <img class="cover" src="images/masha2.jpg">
             
-            <div class="description right col-xs-6 col-sm-6">
+            <div id="b" class="description right col-xs-6 col-sm-6">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
             
@@ -109,7 +109,7 @@
     
         <div class="col-xs-12 col-sm-6">
         
-          <div class="row pview yellow">
+          <div id="3" class="row pview yellow">
                   
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
@@ -123,7 +123,7 @@
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/tom_jerry.jpg">
-                <div class="description">
+                <div id="c" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -135,7 +135,7 @@
         
         <div class="col-xs-12 col-sm-6">
         
-          <div class="row pview yellow">
+          <div id="4" class="row pview yellow">
                   
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
@@ -149,7 +149,7 @@
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/angry_birds.jpg">
-                <div class="description">
+                <div id="d" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -165,7 +165,7 @@
     
         <div class="col-xs-12 col-sm-6">
         
-          <div class="row pview yellow">
+          <div id="5" class="row pview yellow">
                   
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
@@ -179,7 +179,7 @@
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/bimasakti.jpg">
-                <div class="description">
+                <div id="e" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -187,7 +187,7 @@
             
           </div>
           
-          <div class="row pview yellow">
+          <div id="6" class="row pview yellow">
           
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
@@ -202,7 +202,7 @@
             <div class="col-xs-6 col-sm-6 box">
               <div class="box_content">
               <img class="cover" src="images/curious_george.jpg">
-                <div class="description">
+                <div id="f" class="description">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               	</div>
               </div>
@@ -213,7 +213,7 @@
         </div>
         
         <div class="col-xs-12 col-sm-6 box">
-          <div class="box_content row pview yellow">
+          <div id="7" class="box_content row pview yellow">
           
             <div class="col-xs-6 col-sm-6 box gantung kanan">
               <div class="box_content">
@@ -226,7 +226,7 @@
             
             <img class="cover" src="images/bernard_bear.jpg">
             
-            <div class="description col-xs-6 col-sm-6">
+            <div id="g" class="description col-xs-6 col-sm-6">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           
