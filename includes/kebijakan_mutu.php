@@ -15,11 +15,11 @@
     <div class="col-xs-12 col-sm-6 hidden-xs box">
       <div class="box_content black">
         <ul id="kanal_menu">
-          <li><a class="female" href="index.html">FEMALE</a></li>
-          <li><a class="kids" href="index.html">KIDS & TEEN</a></li>
-          <li><a class="family" href="index.html">FAMILY</a></li>
-          <li><a class="male" href="index.html">MALE</a></li>
-          <li><a href="index.html">ANTVLOVERS</a></li>
+          <li><a class="female" href="female.php">FEMALE</a></li>
+          <li><a class="kids" href="kids_teen.php">KIDS & TEEN</a></li>
+          <li><a class="family" href="family.php">FAMILY</a></li>
+          <li><a class="male" href="male.php">MALE</a></li>
+          <li><a href="antvlovers.php">ANTVLOVERS</a></li>
         </ul>
       </div>
     </div>

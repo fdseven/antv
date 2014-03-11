@@ -8,7 +8,7 @@
       <a href="javascript:void(0);" id="close" class="visible-xs"><span class="icon icon-close"></span></a>
       <ul>
         <li><a href="index.php">HOME</a></li>
-        <li><a class="link_about" href="tentang_kami.php#about">TENTANG KAMI</a></li>
+        <li><a href="tentang_kami.php">TENTANG KAMI</a></li>
         <li><a href="press_release.php">PRESS RELEASE</a></li>
         <li><a href="galeri.php">GALERI</a></li>
         <li><a href="karir.php">KARIR</a></li>
@@ -16,7 +16,7 @@
       </ul>
       <ul class="visible-xs">
         <li><a href="female.php">FEMALE</a></li>
-        <li><a href="kids.php">KIDS & TEEN</a></li>
+        <li><a href="kids_teen.php">KIDS & TEEN</a></li>
         <li><a href="family.php">FAMILY</a></li>
         <li><a href="male.php">MALE</a></li>
         <li><a href="antvlovers.php">ANTVLOVERS</a></li>

@@ -5,7 +5,6 @@
 body {
 	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	background: #ddd;
 }
 header {
 	font-size: 14px;
@@ -283,8 +282,8 @@ li {
 	#program .box_content {
 		position: relative;
 	}
-	#about #share div {
-		margin: 0 0 5px;
+	#share div {
+		padding: 7px 0 15px;
 	}
         
 /* Style for overlay and box end*/ 
@@ -313,21 +312,24 @@ li {
 		width: 100%;
 	}
 	#share.box:after {
-		padding: 0;
+		padding-top: 50%;
 	}
 	#share div {
+		top: 40%;
 		text-align: center;
-		position: relative;
-		margin: 20% 0 0;
-		padding: 8px 0 10px;
 	}
 	#share div .icon {
 		font-size: 40px;
 	}
 }
 @media (max-width: 499px) {
+	#share.box:after {
+		padding-top: 0;
+		position: relative;
+	}
 	#share div {
-		margin: 0 0 5px;
+		padding: 7px 0 15px;
+		position: relative;
 	}
 }
 @media (max-width: 479px) {
@@ -420,9 +422,11 @@ jdl_program,
 	font-weight: bold;
 }
 .jdl_program {
-	margin-bottom: 5px;
-	margin-top: 15%;
 	height: 43px;
+	font-size: 18px;
+	line-height: 18px;
+	margin-bottom: 0;
+	margin-top: 15%;
 }
 .hari {
 	margin-bottom: 0;
@@ -443,11 +447,12 @@ jdl_program,
 	font-weight: normal;
 	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
 }
-.jdl_program {
-	font-size: 18px;
-	line-height: 18px;
-	margin-bottom: 0;
-	margin-top: 15%;
+.jam_2 {
+	position: absolute;
+	right: 10%;
+	bottom: 3%;
+	margin: 0;
+	width: auto;
 }
 .head_title {
 	padding: 30px 30px 15px;
@@ -567,6 +572,11 @@ jdl_program,
 	.jam p {
 		font-size: 12px;
 	}
+	.jam_2 {
+		bottom: -7%;
+		margin: 0;
+		right: 10%;
+	}
 }
 
 @media (min-width: 500px) and (max-width: 565px) {
@@ -614,6 +624,11 @@ jdl_program,
 	}
 	.jam p {
 		margin-top: -5px;
+	}
+	.jam_2 {
+		bottom: -5%;
+		margin: 0;
+		right: 10%;
 	}
 }
 
@@ -665,6 +680,12 @@ jdl_program,
 	}
 	#profile_menu {
 		padding: 0 0 0 25px;
+	}
+	.jam_2 {
+		bottom: -7%;
+		font-size: 35px;
+		margin: 0;
+		right: 5%;
 	}
 }
 
