@@ -187,23 +187,23 @@
       
       <div id="row_2" class="row white">
       
-        <div class="col-xs-6 col-sm-4 fixed_height">
+        <div class="col-xs-12 col-sm-4 fixed_height">
           <div class="box_title"><span class="icon icon-youtube"></span> whatsonANTV</div>
           <iframe width="100%" height="82%" src="//www.youtube.com/embed/pah2IJ0XaGI" frameborder="0" allowfullscreen></iframe>
         </div>
         
-        <div class="col-xs-6 col-sm-4 fixed_height">
+        <div class="col-xs-12 col-sm-4 fixed_height">
           <div class="box_title"><span class="icon icon-facebook"></span> ANTV LOVERS</div>
             <div class="fb-like-box" data-href="https://www.facebook.com/pages/antv-lovers/152528918100149" data-width="100%" data-height="100%" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
         </div>
         
-        <div class="col-xs-6 col-sm-4 fixed_height">
+        <div class="col-xs-12 col-sm-4 fixed_height">
           <div class="box_title"><span class="icon icon-twitter2"></span> @whatsonANTV</div>
           <a class="twitter-timeline" href="https://twitter.com/topikANTV" data-widget-id="440162177152872448">Tweets by @topikANTV</a>
 		  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
         
-        <div class="col-xs-6 col-sm-4">
+        <div class="col-xs-12 col-sm-4">
           <div class="box_title"><span class="icon icon-pen"></span> Jadwal Hari Ini</div>
           <div class="scroll">
             <table id="jadwal" width="100%" border="0" cellspacing="1" cellpadding="2">

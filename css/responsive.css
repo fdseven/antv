@@ -191,7 +191,8 @@
 }
 
 @media (min-width: 500px) and (max-width: 767px) {
-	#row_1 .col-xs-12 {
+	#row_1 .col-xs-12,
+	#row_2 .col-xs-12 {
 		width: 50%;
 	}
 	.jdl_program,
