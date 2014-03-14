@@ -175,6 +175,31 @@ Meraih penghargaan Panasonic Gobel Award 13. Kategori Program Olahraga Terfavori
       
     	<div class="col-xs-12 col-sm-6">
           <div class="row">
+          
+            <div class="col-xs-12 visible-xs box">
+              <div class="box_content light_grey">
+                <h5 class="head_title">2011</h5>
+                <article>
+                <p>
+                Tim Current Affairs ANTV Kembali Berhasil Meraih Life Award 2011 Tingkat Asia Pasific Untuk Program “ Telisik” Episode ”Wajah Buram Anak Jalanan” Pada 27 Juni 2011 Yang Diselenggarakan Oleh Yayasan Cinta Anak Bangsa (Ycab) Dan United Nations Office Of Drugs And Crime (Unodc).</p>
+<p>
+Meraih penghargaan Panasonic Gobel Award 14. Kategori Program Kuis Terfavorit "SUPER FAMILY". Jakarta, 25 Maret 2011
+                </p>
+                </article>
+              </div>  
+            </div>
+            
+            <div class="col-xs-6 visible-xs box">
+              <div class="box_content">
+                <img class="cover" src="images/awards_11_1.jpg">
+              </div>  
+            </div>
+            
+            <div class="col-xs-6 visible-xs box">
+              <div class="box_content">
+                <img class="cover" src="images/awards_11_2.jpg">
+              </div>  
+            </div>
             
             <div class="col-xs-12 col-sm-12 box box3">
               <div class="box_content light_grey">

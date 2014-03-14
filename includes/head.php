@@ -12,6 +12,7 @@
 
   <!-- Custom styles for this website -->
   <link href="css/style.css" rel="stylesheet">
+  <link href="css/responsive.css" rel="stylesheet">
   
   <!-- Custom styles for fonts -->
   <link href="css/fonts.css" rel="stylesheet">
