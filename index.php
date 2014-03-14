@@ -267,7 +267,7 @@
           </div>
         </div>
         
-        <div class="col-xs-12 col-sm-8">
+        <div class="col-sm-8">
           <img class="cover lazy" src="images/anime.jpg">
         </div>
       
