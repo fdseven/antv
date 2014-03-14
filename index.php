@@ -267,6 +267,7 @@
           </div>
         </div>
         
+        <div class="clearfix visible-xs"></div>
         <div class="col-sm-8">
           <img class="cover lazy" src="images/anime.jpg">
         </div>
