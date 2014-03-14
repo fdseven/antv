@@ -4,9 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel="shortcut icon" href="ico/favicon.ico">
-
-  <title>Starter Template for Bootstrap</title>
+  <link rel="shortcut icon" href="http://www.an.tv/favicon.ico" >
+  <title>ANTV - WOW Keren!!</title>
 
   <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.css" rel="stylesheet">

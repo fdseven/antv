@@ -1,9 +1,9 @@
-<img class="cover" src="images/worldcup.jpg">
+<img class="cover lazy" data-original="images/worldcup.jpg">
       
 <footer class="row">
   
   <div id="member" class="pull-left">
-    <img src="images/logo_antv_small.png"> MEMBER OF <img src="images/logo_viva_small.png">
+    <img class="lazy" src="images/logo_antv_small.png"> MEMBER OF <img src="images/logo_viva_small.png">
   </div>
   
   <div id="menu_foot" class="pull-left">
