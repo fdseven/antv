@@ -8,6 +8,8 @@ body {
 }
 header {
 	font-size: 14px;
+	display: table;
+	width: 100%;
 }
 a,
 .icon {
@@ -184,8 +186,14 @@ li {
 
 @media (max-width: 767px) {
 /*MOBILE SITE MENU*/
+	body {
+		padding: 79px 0 0;
+	}
 	header {
-		margin-bottom: 29px;
+		position: fixed;
+		top: 0;
+		background: #000;
+		z-index: 3;
 	}
     #main_nav,
 	#logo_area,
@@ -193,9 +201,6 @@ li {
 		height: auto;
 	}
 	#logo_area {
-		position: fixed;
-		background: #000;
-		z-index: 3;
 		text-align: center;
 	}
 	#logo_area img {
@@ -408,6 +413,7 @@ li {
 .cover {
 	width: 100%;
 	height: auto;
+	background: #000;
 }
 
 /*SQUARE BOX*/

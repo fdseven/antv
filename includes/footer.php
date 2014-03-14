@@ -1,4 +1,4 @@
-<img class="cover lazy" data-original="images/worldcup.jpg">
+<img class="cover lazy" src="images/worldcup.jpg">
       
 <footer class="row">
   

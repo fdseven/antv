@@ -1,9 +1,9 @@
 // JavaScript Document
 
-$("img.lazy").lazyload({
+/*$("img.lazy").lazyload({
     effect : "fadeIn",
 	delay: 2000
-});
+});*/
 
 $("#slider").responsiveSlides({
 	auto: true,
