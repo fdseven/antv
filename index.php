@@ -98,10 +98,10 @@
           </div>
         </div>
         
-        <div id="1" class="col-xs-6 col-sm-3 box pview">
+        <div id="3" class="col-xs-6 col-sm-3 box pview">
           <div class="box_content red">
           <img class="cover lazy" src="images/olga.jpg">
-            <div id="a" class="description">
+            <div id="c" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
@@ -116,10 +116,10 @@
           </div>
         </div>
         
-        <div id="1" class="col-xs-6 col-sm-3 box pview">
+        <div id="4" class="col-xs-6 col-sm-3 box pview">
           <div class="box_content blue">
           <img class="cover lazy" src="images/lensa.jpg">
-            <div id="a" class="description">
+            <div id="d" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
@@ -134,17 +134,17 @@
           </div>
         </div>
         
-        <div id="1" class="col-xs-6 col-sm-3 box pview">
+        <div id="5" class="col-xs-6 col-sm-3 box pview">
           <div class="box_content blue">
           <img class="cover lazy" src="images/bola.jpg">
-            <div id="a" class="description">
+            <div id="e" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
         </div>
         
         <div class="col-xs-12 col-sm-6 box pull-right">
-          <div id="2" class="box_content row pview red">
+          <div id="6" class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box gantung kanan">
               <div class="box_content red">
@@ -157,7 +157,7 @@
             
             <img class="cover lazy" src="images/rafi.jpg">
             
-            <div id="b" class="description col-xs-6 col-sm-6">
+            <div id="f" class="description col-xs-6 col-sm-6">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
             
@@ -173,10 +173,10 @@
           </div>
         </div>
         
-        <div id="1" class="col-xs-6 col-sm-3 box pview">
+        <div id="7" class="col-xs-6 col-sm-3 box pview">
           <div class="box_content yellow">
           <img class="cover lazy" src="images/masha.jpg">
-            <div id="a" class="description">
+            <div id="g" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
