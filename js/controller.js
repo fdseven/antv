@@ -50,7 +50,7 @@ $(function() {
 	
 });
 
-/*$(document).ready(function() {
+$(document).ready(function() {
     $('.link_about').click(function(){
         $('html, body').animate({scrollTop:$('#about').position().top}, 'slow');        	return false;
     });
@@ -123,4 +123,4 @@ $(document).ready(function() {
 		grids[5].on( "mouseenter mouseleave", function (){ toggleOverLay(5) } );
 		grids[6].on( "mouseenter mouseleave", function (){ toggleOverLay(6) } );
 	}
-});*/
+});
