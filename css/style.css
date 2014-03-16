@@ -338,13 +338,13 @@ jdl_program,
 	right: 0px;
 }
 .red .description {
-	background: rgba(236, 24, 105, 0.8);
+	background: rgba(236, 24, 105, 0.9);
 }
 .blue .description {
-	background: rgba(35, 170, 220, 0.8);
+	background: rgba(35, 170, 220, 0.9);
 }
 .yellow .description {
-	background: rgba(239, 163, 0, 0.8);
+	background: rgba(239, 163, 0, 0.9);
 }
 .pview:hover .description {
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";

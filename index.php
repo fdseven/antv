@@ -50,8 +50,9 @@
           </div>
         </div>
         
+        <div id="1" class="pview red">
         <div class="col-xs-6 col-sm-3 col-sm-pull-6 box">
-          <div class="box_content red">
+          <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png">
             <h4 class="jdl_program">CAMPUR<br>CAMPUR</h4>
             <p class="hari">SETIAP HARI</p>
@@ -59,13 +60,14 @@
           </div>
         </div>
         
-        <div id="1" class="col-xs-6 col-sm-3 col-sm-pull-6 box pview">
-          <div class="box_content red">
+        <div class="col-xs-6 col-sm-3 col-sm-pull-6 box">
+          <div class="box_content">
           <img class="cover lazy" src="images/melaney.jpg">
             <div id="a" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
+        </div>
         </div>
         
         <div class="col-xs-12 col-sm-6 box">
@@ -89,8 +91,9 @@
           </div>
         </div>
         
-        <div id="3" class="col-xs-6 col-sm-3 box pview">
-          <div class="box_content red">
+        <div id="3" class="pview red">
+        <div class="col-xs-6 col-sm-3 box">
+          <div class="box_content">
           <img class="cover lazy" src="images/olga.jpg">
             <div id="c" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -99,16 +102,18 @@
         </div>
         
         <div class="col-xs-6 col-sm-3 box">
-          <div class="box_content red">
+          <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png">
             <h4 class="jdl_program">CATATAN<br>SI OLGA</h4>
             <p class="hari">JUMAT - MINGGU</p>
             <h1 class="jam">21<br>.00 <p>WIB</p></h1>
           </div>
         </div>
+        </div>
         
-        <div id="4" class="col-xs-6 col-sm-3 box pview">
-          <div class="box_content blue">
+        <div id="4" class="pview blue">
+        <div class="col-xs-6 col-sm-3 box">
+          <div class="box_content">
           <img class="cover lazy" src="images/lensa.jpg">
             <div id="d" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -117,16 +122,18 @@
         </div>
         
         <div class="col-xs-6 col-sm-3 box">
-          <div class="box_content blue">
+          <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png">
             <h4 class="jdl_program">MATA<br>LENSA</h4>
             <p class="hari">SABTU</p>
             <h1 class="jam">24<br>.00 <p>WIB</p></h1>
           </div>
         </div>
-                
+        </div>
+        
+        <div id="5" class="pview blue">        
         <div class="col-xs-6 col-sm-3 box">
-          <div class="box_content blue">
+          <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png">
             <h4 class="jdl_program">FANTASTIC WORLD CUP</h4>
             <p class="hari">MINGGU</p>
@@ -134,13 +141,14 @@
           </div>
         </div>
         
-        <div id="5" class="col-xs-6 col-sm-3 box pview">
-          <div class="box_content blue">
+        <div class="col-xs-6 col-sm-3 box">
+          <div class="box_content">
           <img class="cover lazy" src="images/bola.jpg">
             <div id="e" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
+        </div>
         </div>
         
         <div class="col-xs-12 col-sm-6 box pull-right">
@@ -164,8 +172,9 @@
           </div>
         </div>
         
+        <div id="7" class="pview yellow">
         <div class="col-xs-6 col-sm-3 box">
-          <div class="box_content yellow">
+          <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png">
             <h4 class="jdl_program">MASHA AND<br>THE BEAR</h4>
             <p class="hari">SETIAP HARI</p>
@@ -173,13 +182,14 @@
           </div>
         </div>
         
-        <div id="7" class="col-xs-6 col-sm-3 box pview">
-          <div class="box_content yellow">
+        <div class="col-xs-6 col-sm-3 box pview">
+          <div class="box_content">
           <img class="cover lazy" src="images/masha.jpg">
             <div id="g" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
+        </div>
         </div>
         
       </div>
