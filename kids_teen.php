@@ -15,7 +15,8 @@
       </div>
       
       <div id="row_1" class="row">
-      
+        
+        <!--Pengecualian box share karena di tengah-->
         <div id="share" class="col-xs-12 col-sm-3 box top">
           <div class="box_content">
             <a href="#" class="icon icon-facebook"></a>

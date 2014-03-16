@@ -155,7 +155,7 @@
           <div id="6" class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box gantung kanan">
-              <div class="box_content red">
+              <div class="box_content">
                 <img class="box_mask lazy" src="images/mask.png">
                 <h4 class="jdl_program">PESBUKERS</h4>
                 <p class="hari">SENIN - KAMIS</p>

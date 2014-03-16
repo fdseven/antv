@@ -41,9 +41,6 @@
 	#close:hover {
 		color: #3C4B62;
 	}
-	#close {
-		position: absolute;
-	}
 	#menu .icon,
 	#close .icon {
 		padding: 0;
@@ -109,7 +106,6 @@
 	}
         
 /* Style for overlay and box end*/ 
-
 	.pview .cover {
 	-webkit-transition: none;
        -moz-transition: none;
@@ -369,6 +365,9 @@
 }
 	
 @media (max-width: 479px) {
+	body {
+		font-size: 14px;
+	}
 	footer {
 		text-align: center;
 		padding: 15px 0 10px;

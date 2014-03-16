@@ -150,7 +150,7 @@ li {
 }
 #kanal_menu li a.female,
 #menu_area li a.female {
-	color: #802c89;
+	color: #C258CE;
 }
 #kanal_menu li a.kids,
 #menu_area li a.kids {
@@ -279,10 +279,9 @@ jdl_program,
 	margin-top: 15%;
 }
 .hari {
-	margin-bottom: 0;
+	margin-bottom: 3px;
 }
 .jam {
-	width: 75px;
 	font-size: 45px;
 	line-height: 35px;
 	letter-spacing: -3px;
@@ -302,7 +301,6 @@ jdl_program,
 	right: 10%;
 	bottom: 3%;
 	margin: 0;
-	width: auto;
 }
 .head_title {
 	padding: 30px 30px 15px;
@@ -341,13 +339,13 @@ jdl_program,
 	right: 0px;
 }
 .red .description {
-	background: rgba(236, 24, 105, 0.9);
+	background: rgba(236, 24, 105, 0.95);
 }
 .blue .description {
-	background: rgba(35, 170, 220, 0.9);
+	background: rgba(35, 170, 220, 0.95);
 }
 .yellow .description {
-	background: rgba(239, 163, 0, 0.9);
+	background: rgba(239, 163, 0, 0.95);
 }
 .pview:hover .description {
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
