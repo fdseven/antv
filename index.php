@@ -89,6 +89,15 @@
           </div>
         </div>
         
+        <div id="3" class="col-xs-6 col-sm-3 box pview">
+          <div class="box_content red">
+          <img class="cover lazy" src="images/olga.jpg">
+            <div id="c" class="description">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
+          </div>
+        </div>
+        
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content red">
             <img class="box_mask lazy" src="images/mask.png">
@@ -98,10 +107,10 @@
           </div>
         </div>
         
-        <div id="3" class="col-xs-6 col-sm-3 box pview">
-          <div class="box_content red">
-          <img class="cover lazy" src="images/olga.jpg">
-            <div id="c" class="description">
+        <div id="4" class="col-xs-6 col-sm-3 box pview">
+          <div class="box_content blue">
+          <img class="cover lazy" src="images/lensa.jpg">
+            <div id="d" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
@@ -115,16 +124,7 @@
             <h1 class="jam">24<br>.00 <p>WIB</p></h1>
           </div>
         </div>
-        
-        <div id="4" class="col-xs-6 col-sm-3 box pview">
-          <div class="box_content blue">
-          <img class="cover lazy" src="images/lensa.jpg">
-            <div id="d" class="description">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
-          </div>
-        </div>
-        
+                
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content blue">
             <img class="box_mask lazy" src="images/mask.png">

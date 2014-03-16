@@ -330,6 +330,7 @@
 @media (min-width: 480px) and (max-width: 767px) {
 	footer {
 		text-align: center;
+		padding: 15px 0 10px;
 	}
 	#member {
 		margin: 0;
@@ -346,6 +347,7 @@
 @media (max-width: 479px) {
 	footer {
 		text-align: center;
+		padding: 15px 0 10px;
 	}
 	#member {
 		margin: 0;
