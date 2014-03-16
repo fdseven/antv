@@ -182,7 +182,7 @@
           </div>
         </div>
         
-        <div class="col-xs-6 col-sm-3 box pview">
+        <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <img class="cover lazy" src="images/masha.jpg">
             <div id="g" class="description">

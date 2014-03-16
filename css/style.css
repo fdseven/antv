@@ -122,6 +122,9 @@ li {
 #profile_menu li a:hover {
 	color: #ffca23;
 }
+#share.top {
+		display: none;
+	}
 #share.box {
 	background: #000;
 }

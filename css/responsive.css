@@ -170,6 +170,9 @@
 	#share div .icon {
 		font-size: 40px;
 	}
+	#share div.middle {
+		display: none;
+	}
 }
 @media (max-width: 499px) {
 	#share.col-sm-3 {
@@ -180,9 +183,15 @@
 		position: relative;
 	}
 	#share div {
-		padding: 7px 0 15px;
+		padding: 7px 0;
 		position: relative;
 		text-align: center;
+	}
+	#share.top {
+		display: block;
+	}
+	#share.middle {
+		display: none;
 	}
 }
 @media (max-width: 479px) {
