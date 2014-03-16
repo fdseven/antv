@@ -4,7 +4,7 @@
 
     <div class="col-xs-12 col-sm-12 box">
       <div class="box_content">
-        <img class="box_mask" src="images/mask.png">
+        <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
         <h3 class="head_title">PROGRAM<br class="hidden-xs"> <span>ANTV</span></h3>
       </div>
     </div>
@@ -30,25 +30,25 @@
 
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/female.jpg">
+        <img class="cover" src="images/female.jpg" width="250" height="250">
       </div>
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/kids.jpg">
+        <img class="cover" src="images/kids.jpg" width="250" height="250">
       </div>
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/family.jpg">
+        <img class="cover" src="images/family.jpg" width="250" height="250">
       </div>  
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/male.jpg">
+        <img class="cover" src="images/male.jpg" width="250" height="250">
       </div>  
     </div>
     

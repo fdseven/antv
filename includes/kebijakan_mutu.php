@@ -51,7 +51,7 @@
         
         <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
           <div class="box_content">
-            <img class="cover" src="images/esc.jpg">
+            <img class="cover" src="images/esc.jpg" width="250" height="250">
           </div>
         </div>
       
@@ -81,7 +81,7 @@
       
         <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box box2">
           <div class="box_content">
-            <img class="cover" src="images/esc_tower.jpg">
+            <img class="cover" src="images/esc_tower.jpg" width="250" height="500">
           </div>
         </div>
       

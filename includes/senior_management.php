@@ -5,14 +5,14 @@
 
     <div class="col-xs-12 col-sm-6 box">
       <div class="box_content">
-        <img class="box_mask" src="images/mask.png">
+        <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
         <h3 class="head_title">SENIOR<br class="hidden-xs"> <span>MANAGEMENT<br class="hidden-xs"> TEAM</span></h3>
       </div>
     </div>
     
     <div class="col-xs-6 col-xs-push-3 col-sm-6 col-sm-push-0 box">
       <div class="box_content">
-        <img class="cover" src="images/esc.jpg">
+        <img class="cover" src="images/esc.jpg" width="250" height="250">
       </div>
     </div>
     
@@ -24,7 +24,7 @@
           
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/reva.jpg">
+                <img class="cover" src="images/reva.jpg" width="250" height="250">
               </div>  
             </div>
             
@@ -71,7 +71,7 @@
           
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/herty.jpg">
+                <img class="cover" src="images/herty.jpg" width="250" height="250">
               </div>  
             </div>
             
@@ -108,7 +108,7 @@
             
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/uni.jpg">
+                <img class="cover" src="images/uni.jpg" width="250" height="250">
               </div>  
             </div>
           
@@ -189,7 +189,7 @@ sebagai Koordinator Editors Club yaitu, club informal yang beranggotakan pimpina
           
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/ahmad.jpg">
+                <img class="cover" src="images/ahmad.jpg" width="250" height="250">
               </div>  
             </div>
             
@@ -243,7 +243,7 @@ Ditengah kesibukannya sebagai Vice President di PT. Bakrie Global Ventura(d/h PT
           
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/eny.jpg">
+                <img class="cover" src="images/eny.jpg" width="250" height="250">
               </div>  
             </div>
             
@@ -295,7 +295,7 @@ Pada tanggal 7 Mei 2012, Eny yang memiliki pengalaman kerja selama delapan belas
           
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/monica.jpg">
+                <img class="cover" src="images/monica.jpg" width="250" height="250">
               </div>  
             </div>
             

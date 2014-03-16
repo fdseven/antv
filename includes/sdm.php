@@ -4,7 +4,7 @@
 
     <div class="col-xs-6 col-sm-3 box">
       <div class="box_content">
-        <img class="box_mask" src="images/mask.png">
+        <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
         <h3 class="head_title">SUMBER<br><span>DAYA<br>MANUSIA</span></h3>
       </div>
     </div>
@@ -31,7 +31,7 @@
     
     <div class="col-xs-6 col-sm-3 box">
       <div class="box_content">
-        <img class="cover" src="images/esc.jpg">
+        <img class="cover" src="images/esc.jpg" width="250" height="250">
       </div>  
     </div>
     

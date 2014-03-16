@@ -11,7 +11,7 @@
       <?php include"includes/header.php"; ?>
     
       <div id="header">
-        <img class="cover" src="images/banner_tentang_kami.jpg" alt="">
+        <img class="cover" src="images/banner_tentang_kami.jpg" alt="" width="1000" height="400">
       </div>
       
       <div id="about" class="row clearfix">

@@ -10,14 +10,14 @@
           
             <div class="col-xs-12 col-sm-12 box">
               <div class="box_content">
-                <img class="box_mask" src="images/mask.png">
+            	<img class="box_mask lazy" src="images/mask.png" width="250" height="158">
                 <h3 class="head_title">STASIUN<br class="hidden-xs"> <span>PEMANCAR</span></h3>
               </div>
             </div>
             
             <div class="col-xs-6 col-xs-push-3 col-sm-12 box col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/bitsite.jpg">
+                <img class="cover" src="images/bitsite.jpg" width="250" height="250">
               </div>  
             </div>
             
@@ -91,7 +91,7 @@ Pada tanggal 7 Mei 2012, Eny yang memiliki pengalaman kerja selama delapan belas
     
     <div class="col-xs-6 col-xs-push-3 col-sm-6 box col-sm-push-0 box">
       <div class="box_content">
-        <img class="cover" src="images/wifi.jpg">
+        <img class="cover" src="images/wifi.jpg" width="250" height="250">
       </div>  
     </div>
     

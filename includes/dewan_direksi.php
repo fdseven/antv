@@ -4,20 +4,20 @@
 
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="box_mask" src="images/mask.png">
+        <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
         <h3 class="head_title">DEWAN<br><span>DIREKSI</span></h3>
       </div>
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/erick_thohir.jpg">
+        <img class="cover" src="images/erick_thohir.jpg" width="250" height="250">
       </div>
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/esc.jpg">
+        <img class="cover" src="images/esc.jpg" width="250" height="250">
       </div>  
     </div>
     
@@ -40,13 +40,13 @@
 
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/azkarmin_zaini.jpg">
+        <img class="cover" src="images/azkarmin_zaini.jpg" width="250" height="250">
       </div>
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/otis_hahijary.jpg">
+        <img class="cover" src="images/otis_hahijary.jpg" width="250" height="250">
       </div>
     </div>
     
