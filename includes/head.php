@@ -8,7 +8,7 @@
   <title>ANTV - WOW Keren!!</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this website -->
   <link href="css/style.css" rel="stylesheet">
