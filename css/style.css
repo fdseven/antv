@@ -86,14 +86,11 @@ li {
 	color: #fff;
 	text-align: center;
 }
-.row_1 {
-	min-height: 250px;
+.pulltop {
+	margin-top: -50%;
 }
-.row_2 {
-	min-height: 500px;
-}
-.row_3 {
-	min-height: 750px;
+#share.top2 {
+	display: none;
 }
 
 /*HEADER*/
@@ -224,10 +221,6 @@ li {
 /* E: responsive resize box */
 
 #row_1 .box_content,
-#row1 .box_content,
-#row2 .box_content,
-#row3 .box_content,
-#row4 .box_content,
 #share .box_content
  {
 	overflow: visible;

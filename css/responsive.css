@@ -10,7 +10,7 @@
 		position: fixed;
 		top: 0;
 		background: #000;
-		z-index: 3;
+		z-index: 5;
 	}
     #main_nav,
 	#logo_area,
@@ -91,18 +91,29 @@
 	#senior_management .box:after,
 	#penghargaan .box:after,
 	#stasiun_pemancar .box:after,
-	#program .box:after {
+	#program .box:after,
+	#press_release .box:after {
 		padding-top: 0;
 	}
 	#about .box_content,
 	#senior_management .box_content,
 	#penghargaan .box_content,
 	#stasiun_pemancar .box_content,
-	#program .box_content {
+	#program .box_content,
+	#press_release .box_content {
 		position: relative;
 	}
 	#share div {
 		padding: 7px 0 15px;
+	}
+	.pulltop {
+		margin: 0;
+	}
+	#share.top2 {
+		display: block;
+	}
+	#share.top2.box:after {
+		padding: 0;
 	}
         
 /* Style for overlay and box end*/ 
@@ -182,11 +193,15 @@
 		padding: 7px 0;
 		position: relative;
 		text-align: center;
+		top: 0;
 	}
 	#share.top {
 		display: block;
 	}
 	#share.middle {
+		display: none;
+	}
+	.box_mask {
 		display: none;
 	}
 }
@@ -282,6 +297,19 @@
 	}
 }
 @media (max-width: 320px) {
+	.box_mask {
+		display: none;
+	}
+	h3.head_title {
+		font-size: 16px;
+	}
+	.head_title {
+		padding: 15px 15px 10px;
+	}
+	.box article, .textbox article {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
 	.jdl_program,
 	.hari,
 	.jam {

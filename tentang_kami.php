@@ -16,8 +16,9 @@
       
       <div id="about" class="row clearfix">
       
-        <div id="share" class="col-xs-12 col-sm-12 black">
-          <div class="box_content">
+        <!--Pengecualian box share karena di tengah-->
+        <div id="share" class="col-xs-12 col-sm-12 top2">
+          <div>
             <a href="#" class="icon icon-facebook"></a>
             <a href="#" class="icon icon-twitter"></a>
             <a href="#" class="icon icon-youtube"></a>

@@ -19,7 +19,7 @@ $(function() {
 		$("body").addClass("no_scroll");
 		$("#overlay").addClass("tutup");                   		
 		$("#menu_area").show();
-		$('#menu_area').animate({'right':'0px'},300,function(){
+		$('#menu_area').animate({'right':'0px'},400,function(){
 		});            
 	});
 	
@@ -27,7 +27,7 @@ $(function() {
 		$("body").removeClass("no_scroll");  
 		$("#overlay").removeClass("tutup"); 
 		//$('#main').animate({'margin-left':'0px'},300,function(){});
-	    $('#menu_area').animate({'right':'-270px'},300,function(){  
+	    $('#menu_area').animate({'right':'-270px'},400,function(){  
 	    $("#menu_area").hide();
 	    });
 	});
@@ -35,7 +35,7 @@ $(function() {
 		$("body").removeClass("no_scroll");  
 		$("#overlay").removeClass("tutup"); 
 		//$('#main').animate({'margin-left':'0px'},300,function(){});
-	    $('#menu_area').animate({'right':'-270px'},300,function(){  
+	    $('#menu_area').animate({'right':'-270px'},400,function(){  
 	    $("#menu_area").hide();
 	    });
 	});
