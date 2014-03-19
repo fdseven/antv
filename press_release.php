@@ -126,7 +126,7 @@ Program ini dipandu seorang presenter cantik yang akan mengajak pemirsa untuk me
                  <article id="accordion">
                    <ul>
                      <li>
-                       <h5 class="title"><a href="javascript:void(0);">2014</a></h5>
+                       <h5 class="title">2014</h5>
                        <ul class="content">
                          <li><a href="#">RAMADHAN ANTV 2011</a></li>
                          <li><a href="#">PEMILIHAN ABANG DAN NONE 2011</a></li>
@@ -142,7 +142,7 @@ Program ini dipandu seorang presenter cantik yang akan mengajak pemirsa untuk me
                        </ul>
                      </li>
                      <li>
-                       <h5 class="title"><a href="javascript:void(0);">2013</a></h5>
+                       <h5 class="title">2013</h5>
                        <ul class="content">
                          <li><a href="#">RAMADHAN ANTV 2011</a></li>
                          <li><a href="#">PEMILIHAN ABANG DAN NONE 2011</a></li>
@@ -158,7 +158,7 @@ Program ini dipandu seorang presenter cantik yang akan mengajak pemirsa untuk me
                        </ul>
                      </li>
                      <li>
-                       <h5 class="title"><a href="javascript:void(0);">2012</a></h5>
+                       <h5 class="title">2012</h5>
                        <ul class="content">
                          <li><a href="#">RAMADHAN ANTV 2011</a></li>
                          <li><a href="#">PEMILIHAN ABANG DAN NONE 2011</a></li>
@@ -174,7 +174,7 @@ Program ini dipandu seorang presenter cantik yang akan mengajak pemirsa untuk me
                        </ul>
                      </li>
                      <li>
-                       <h5 class="title"><a href="javascript:void(0);">2011</a></h5>
+                       <h5 class="title">2011</h5>
                        <ul class="content">
                          <li><a href="#">RAMADHAN ANTV 2011</a></li>
                          <li><a href="#">PEMILIHAN ABANG DAN NONE 2011</a></li>
