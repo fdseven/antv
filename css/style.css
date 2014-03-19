@@ -63,7 +63,7 @@ li {
 }
 .light_grey,
 .light_grey .head_title {
-	color: #53565b;
+	color: #333;
 	background: #c5c5c5;
 }
 .light_grey2,
@@ -296,16 +296,19 @@ jdl_program,
 	margin: 0;
 }
 .head_title {
-	padding: 30px 30px 15px;
+	padding: 27px 27px 15px;
 	margin: 0;
 	color: #53565b;
 }
 .head_title span {
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
+.black .head_title {
+	color: #fff;
+}
 .box article,
 .textbox article {
-	padding: 0 30px 10px;
+	padding: 0 27px 10px;
 	line-height: 1.2;
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
@@ -386,6 +389,50 @@ jdl_program,
 	margin: 10px 0;
 	height: 233px;
 	overflow: auto;
+}
+
+/*ACCORDION*/
+#accordion ul {
+	padding: 0;
+	margin: 0;
+}
+#accordion .title {
+	margin-left: -20px;
+    margin-top: 0;
+    padding: 0 0 0 20px;
+	cursor: pointer;
+	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
+	background: url(../images/arrow.png) no-repeat left 1px;
+}
+#accordion .title a {
+	color: #54565c;
+	display: block;
+}
+#accordion .title a:hover,
+#accordion .buka a {
+	color: #FFCA23;
+	text-decoration: none;
+}
+#accordion .buka {
+	background: url(../images/arrow.png) no-repeat left -13px;
+}
+#accordion li {
+	list-style: none;
+	margin: 0;
+	padding: 0 0 0 20px;
+}
+#accordion li ul {
+	display: none;
+	margin: 0 0 10px;
+}
+#accordion li ul li {
+	padding: 3px 0;
+}
+#accordion li ul li a {
+	color: #fff;
+}
+#accordion li ul li a:hover {
+	color: #1FA9DB;
 }
 
 /*FOOTER*/

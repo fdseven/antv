@@ -13,6 +13,21 @@ $("#slider").responsiveSlides({
 	namespace: "callbacks"
 });
 
+/*accordion*/
+$(document).ready(function() {
+  $("#accordion .title").click(function() {
+	if($(this).next("ul").is(":visible")){
+	  $("#accordion .title").removeClass("buka");
+	  $(this).next("ul").slideUp("fast");
+	} else {
+	  $("#accordion .content").slideUp("fast");
+	  $("#accordion .title").removeClass("buka");
+	  $(this).addClass("buka");
+	  $(this).next("ul").slideToggle("fast");
+	}
+  });
+});
+
 $(function() {
 	$('#menu').click(function(){ 
 		//$('#main').animate({'margin-left':'-50px'},300,function(){});  
