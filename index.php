@@ -51,7 +51,7 @@
         </div>
         
         <div id="1" class="pview red">
-        <div class="col-xs-6 col-sm-3 col-sm-pull-6 box">
+        <div class="col-xs-6 col-sm-3 col-sm-pull-6 box grey3">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">CAMPUR<br>CAMPUR</h4>
@@ -73,9 +73,9 @@
         <div class="col-xs-12 col-sm-6 box">
           <div id="2" class="box_content row pview red">
           
-            <div class="col-xs-6 col-sm-6 box gantung">
+            <div class="col-xs-6 col-sm-6 box white gantung">
               <div class="box_content">
-                <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
+                <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
                 <h4 class="jdl_program">SUPER DEAL</h4>
                 <p class="hari">SENIN - KAMIS</p>
                 <h1 class="jam">19<br>.00 <p>WIB</p></h1>
@@ -101,7 +101,7 @@
           </div>
         </div>
         
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box grey3">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">CATATAN<br>SI OLGA</h4>
@@ -121,9 +121,9 @@
           </div>
         </div>
         
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
-            <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
+            <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
             <h4 class="jdl_program">MATA<br>LENSA</h4>
             <p class="hari">SABTU</p>
             <h1 class="jam">24<br>.00 <p>WIB</p></h1>
@@ -132,7 +132,7 @@
         </div>
         
         <div id="5" class="pview blue">        
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box grey3">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">FANTASTIC WORLD CUP</h4>
@@ -154,7 +154,7 @@
         <div class="col-xs-12 col-sm-6 box pull-right">
           <div id="6" class="box_content row pview red">
           
-            <div class="col-xs-6 col-sm-6 box gantung kanan">
+            <div class="col-xs-6 col-sm-6 box grey3 gantung kanan">
               <div class="box_content">
                 <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
                 <h4 class="jdl_program">PESBUKERS</h4>
@@ -173,9 +173,9 @@
         </div>
         
         <div id="7" class="pview yellow">
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
-            <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
+            <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
             <h4 class="jdl_program">MASHA AND<br>THE BEAR</h4>
             <p class="hari">SETIAP HARI</p>
             <h1 class="jam">16<br>.30 <p>WIB</p></h1>
@@ -273,13 +273,42 @@
                 <td class="pull-right">02:00</td>
                 <td>Wooow</td>
               </tr>
+              <tr>
+                <td class="pull-right">00:30</td>
+                <td>Topik Malam</td>
+              </tr>
+              <tr>
+                <td class="pull-right">01:00</td>
+                <td>Fenomena</td>
+              </tr>
+              <tr>
+                <td class="pull-right">01:30</td>
+                <td>11th Circo Massimo</td>
+              </tr>
+              <tr>
+                <td class="pull-right">02:00</td>
+                <td>Wooow</td>
+              </tr>
+              <tr>
+                <td class="pull-right">03:00</td>
+                <td>Tawa Sutra XL</td>
+              </tr>
+              <tr>
+                <td class="pull-right">04:00</td>
+                <td>Pelita Hati</td>
+              </tr>
+              <tr>
+                <td class="pull-right">04:30</td>
+                <td>Topik Pagi</td>
+              </tr>
             </table>
           </div>
         </div>
         
         <div class="clearfix visible-xs"></div>
-        <div class="col-sm-8">
-          <img class="cover lazy" src="images/anime.jpg" width="667" height="310">
+        <div class="col-sm-8 white">
+          <img class="cover lazy" src="images/banner_bot1.jpg" width="667" height="250">
+          <img class="cover lazy" src="images/banner_bot2.jpg" width="667" height="250">
         </div>
       
       </div>

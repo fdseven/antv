@@ -29,11 +29,11 @@
         <div class="col-xs-12 col-sm-6 box">
           <div id="1" class="box_content row pview yellow">
           
-            <div class="col-xs-6 col-sm-6 box gantung">
+            <div class="col-xs-6 col-sm-6 box grey3 gantung">
               <div class="box_content">
                 <img class="box_mask" src="images/mask.png" width="250" height="158">
                 <h4 class="jdl_program">MASHA AND<br>THE BEAR</h4>
-                <p class="hari">SETIAP HARI</p>
+                <p class="hari">SENIN - JUMAT</p>
                 <h1 class="jam">16<br>.30 <p>WIB</p></h1>
               </div>
             </div>
@@ -71,28 +71,27 @@
         <div id="2" class="pview yellow">        
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
-          <img class="cover lazy" src="images/bean.jpg" width="250" height="250">
+          <img class="cover lazy" src="images/tsubasa.jpg" width="250" height="250">
             <div id="b" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
           </div>
         </div>
         
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
-            <img class="box_mask" src="images/mask.png" width="250" height="158">
-            <h4 class="jdl_program">MR BEAN</h4>
-            <p class="hari">SENIN - JUMAT</p>
+            <img class="box_mask" src="images/mask2.png" width="250" height="158">
+            <h4 class="jdl_program">CAPTAIN<br>TSUBASA</h4>
+            <p class="hari">SETIAP HARI</p>
             <h1 class="jam">13<br>.00 <p>WIB</p></h1>
-            <h1 class="jam jam_2">15<br>.30 <p>WIB</p></h1>
           </div>
         </div>
         </div>
         
         <div id="3" class="pview yellow">        
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
-            <img class="box_mask" src="images/mask.png" width="250" height="158">
+            <img class="box_mask" src="images/mask2.png" width="250" height="158">
             <h4 class="jdl_program">TOM AND JERRY</h4>
             <p class="hari">SENIN - JUMAT</p>
             <h1 class="jam">13<br>.30 <p>WIB</p></h1>
@@ -109,16 +108,7 @@
         </div>
         </div>
         
-        <div id="4" class="pview yellow">        
-        <div class="col-xs-6 col-sm-3 box">
-          <div class="box_content">
-            <img class="box_mask" src="images/mask.png" width="250" height="158">
-            <h4 class="jdl_program">ANGRY BIRDS<br>TONS</h4>
-            <p class="hari">SABTU - MINGGU</p>
-            <h1 class="jam">09<br>.55 <p>WIB</p></h1>
-          </div>
-        </div>
-        
+        <div id="4" class="pview yellow">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <img class="cover lazy" src="images/angry_birds.jpg" width="250" height="250">
@@ -127,14 +117,22 @@
             </div>
           </div>
         </div>
+        <div class="col-xs-6 col-sm-3 box grey3">
+          <div class="box_content">
+            <img class="box_mask" src="images/mask.png" width="250" height="158">
+            <h4 class="jdl_program">ANGRY BIRDS<br>TOONS</h4>
+            <p class="hari">SENIN - JUMAT</p>
+            <h1 class="jam">08<br>.00 <p>WIB</p></h1>
+          </div>
+        </div>
         </div>
         
         <div id="5" class="pview yellow">        
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box grey3">
           <div class="box_content">
             <img class="box_mask" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">BIMA SAKTI<br>CHOTA BHEEM</h4>
-            <p class="hari">SENIN - JUMAT</p>
+            <p class="hari">SETIAP HARI</p>
             <h1 class="jam">14<br>.00 <p>WIB</p></h1>
           </div>
         </div>
@@ -152,11 +150,11 @@
         <div class="col-xs-12 col-sm-6 box pull-right">
           <div id="6" class="box_content row pview yellow">
           
-            <div class="col-xs-6 col-sm-6 box gantung kanan">
+            <div class="col-xs-6 col-sm-6 box white gantung kanan">
               <div class="box_content">
-                <img class="box_mask" src="images/mask.png" width="250" height="158">
+                <img class="box_mask" src="images/mask2.png" width="250" height="158">
                 <h4 class="jdl_program">BERNARD BEAR</h4>
-                <p class="hari">SETIAP HARI</p>
+                <p class="hari">SENIN - JUMAT</p>
                 <h1 class="jam">15<br>.00 <p>WIB</p></h1>
               </div>
             </div>
@@ -171,13 +169,13 @@
         </div>
         
         <div id="7" class="pview yellow">
-        <div class="col-xs-6 col-sm-3 box">
+        <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
-            <img class="box_mask" src="images/mask.png" width="250" height="158">
+            <img class="box_mask" src="images/mask2.png" width="250" height="158">
             <h4 class="jdl_program">CURIOUS GEORGE</h4>
             <p class="hari">SENIN - JUMAT</p>
-            <h1 class="jam">08<br>.30 <p>WIB</p></h1>
-            <h1 class="jam jam_2">15<br>.00 <p>WIB</p></h1>
+            <h1 class="jam">15<br>.30 <p>WIB</p></h1>
+            <!--<h1 class="jam jam_2">15<br>.00 <p>WIB</p></h1>-->
           </div>
         </div>
         

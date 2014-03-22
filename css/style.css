@@ -75,7 +75,10 @@ li {
 	background: #000;
 }
 .white {
-	background: #fff;
+	background-color: #fff;
+}
+.grey3 {
+	background-color: #ebeae6;
 }
 
 /*INDEPENDENT CLASS*/
@@ -95,7 +98,8 @@ li {
 }
 
 /*HEADER*/
-#menu_area {
+#menu_area,
+#menu_foot {
 	background: #242b3d;
 }
 #menu_area ul {
@@ -193,8 +197,9 @@ li {
 
 /* S: responsive resixe box */
 .box {
-	background: #fff url(../images/bg_shade.gif) no-repeat left bottom;
-	background-size: contain;
+	background-image: url(../images/bg_shade.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
 	display: inline-block;
 	position: relative;
 	overflow: hidden;
@@ -251,44 +256,44 @@ li {
 .cover {
 	width: 100%;
 	height: auto;
-	background: #000;
 }
 
 /*SQUARE BOX*/
 .jdl_program,
 .hari,
 .jam {
-	margin-left: 21%;
+	margin-left: 15%;
 	margin-right: 5%;
 }
-jdl_program,
+.jdl_program,
 .jam {
-	font-weight: bold;
+	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
 }
 .jdl_program {
 	height: 43px;
 	font-size: 18px;
 	line-height: 18px;
 	margin-bottom: 0;
-	margin-top: 15%;
+	margin-top: 19%;
 }
 .hari {
-	margin-bottom: 3px;
+	margin-bottom: 0;
+	font-size: 15px;
 }
 .jam {
 	font-size: 45px;
+	font-weight: bold;
 	line-height: 35px;
 	letter-spacing: -3px;
 	word-wrap: break-word;
-	margin-top: 0;
-	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
+	margin-top: -2px;
 }
 .jam p {
 	margin-top: -7px;
 	letter-spacing: 0;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: normal;
-	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 .jam_2 {
 	position: absolute;
@@ -388,7 +393,7 @@ jdl_program,
 .scroll {
 	font-size: 12px;
 	margin: 10px 0;
-	height: 233px;
+	height: 422px;
 	overflow: auto;
 }
 
@@ -434,25 +439,27 @@ jdl_program,
 
 /*FOOTER*/
 footer {
-	padding: 25px 10px 20px;
 	font-size: 12px;
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 #member {
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
-	margin: 0 0 0 7.3%;
+	margin: 4.5% 0 0 7.5%;
 }
 #member img {
-	padding: 0 12px 10px;
+	margin: 0 12px 10px;
 }
 #member,
-#menu_foot a {
+#menu_foot a,
+.copy {
 	color: #acacac;
 }
 #menu_foot {
-	margin: 10px 0;
+	padding: 27px 0 27px 40px;
 }
 #menu_foot a {
-	margin: 0 5px;
+	float: left;
+	display: block;
+	width: 132px;
 }
 footer, #menu_foot a:hover {
 	color: #fff;
@@ -463,6 +470,11 @@ footer, #menu_foot a:hover {
 	padding: 0 5px;
 	font-size: 11px;
 	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+}
+.copy {
+	float: right;
+	margin: 7% 7.5% 0 0;
+	font-size: 11px;
 }
 
 /*SLIDER*/
