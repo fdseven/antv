@@ -4,7 +4,8 @@
   <?php  include"includes/head.php"; ?>
 
   <body class="no-js">
-  <div id="overlay"></div>
+  <?php include_once("analyticstracking.php") ?>
+  <div id="overlay" class="visible-xs"></div>
   
   <div id="fb-root"></div>
   <script>(function(d, s, id) {
@@ -21,9 +22,10 @@
     
       <div id="header">
         <ul class="rslides" id="slider">
-          <li><img class="lazy" src="images/banner.jpg" alt="" width="1000" height="400"><!--<p class="caption">This is a caption 1</p>--></li>
-          <li><img class="lazy" src="images/banner2.jpg" alt="" width="1000" height="400"><!--<p class="caption">This is a caption 2</p>--></li>
-          <li><img class="lazy" src="images/banner3.jpg" alt="" width="1000" height="400"><!--<p class="caption">This is a caption 3</p>--></li>
+          <li><img class="lazy" src="images/banner_pesbukers.jpg" alt="" width="1000" height="400"><!--<p class="caption">This is a caption 1</p>--></li>
+          <li><img class="lazy" src="images/banner_campur2.jpg" alt="" width="1000" height="400"><!--<p class="caption">This is a caption 2</p>--></li>
+          <li><img class="lazy" src="images/banner_mahabharata.jpg" alt="" width="1000" height="400"><!--<p class="caption">This is a caption 2</p>--></li>
+          <li><img class="lazy" src="images/banner_worldcup.jpg" alt="" width="1000" height="400"><!--<p class="caption">This is a caption 2</p>--></li>
         </ul>
       </div>
       
@@ -31,10 +33,7 @@
       
         <div id="share" class="col-xs-12 col-sm-3 col-sm-push-6 box">
           <div class="box_content">
-            <a href="#" class="icon icon-facebook"></a>
-            <a href="#" class="icon icon-twitter"></a>
-            <a href="#" class="icon icon-youtube"></a>
-            <a href="#" class="icon icon-gplus"></a>
+            <?php include "includes/social_media_links.php"; ?>
           </div>
         </div>
         
@@ -45,27 +44,27 @@
               <li><a class="kids" href="kids_teen.php">KIDS & TEEN</a></li>
               <li><a class="family" href="family.php">FAMILY</a></li>
               <li><a class="male" href="male.php">MALE</a></li>
-              <li><a href="antvlovers.php">ANTVLOVERS</a></li>
+              <li><a href="#">ANTVEVENTS</a></li>
             </ul>
           </div>
         </div>
         
         <div id="1" class="pview red">
-        <div class="col-xs-6 col-sm-3 col-sm-pull-6 box grey3">
+        <div class="col-xs-6 col-sm-3 col-sm-pull-6 box light_grey2">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">CAMPUR<br>CAMPUR</h4>
             <p class="hari">SETIAP HARI</p>
-            <h1 class="jam">19<br>.30 <p>WIB</p></h1>
+            <h1 class="jam">21<br>.00 <p>WIB</p></h1>
           </div>
         </div>
         
         <div class="col-xs-6 col-sm-3 col-sm-pull-6 box">
           <div class="box_content">
           <img class="cover lazy" src="images/melaney.jpg" width="250" height="250">
-            <div id="a" class="description">
+            <!--<div id="a" class="description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
+            </div>-->
           </div>
         </div>
         </div>
@@ -77,16 +76,12 @@
               <div class="box_content">
                 <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
                 <h4 class="jdl_program">SUPER DEAL</h4>
-                <p class="hari">SENIN - KAMIS</p>
+                <p class="hari">SENIN - JUMAT</p>
                 <h1 class="jam">19<br>.00 <p>WIB</p></h1>
               </div>
             </div>
             
             <img class="cover lazy" src="images/uya.jpg" width="500" height="500">
-            
-            <div id="b" class="description right col-xs-6 col-sm-6">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
             
           </div>
         </div>
@@ -95,18 +90,16 @@
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <img class="cover lazy" src="images/olga.jpg" width="250" height="250">
-            <div id="c" class="description">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
+            
           </div>
         </div>
         
-        <div class="col-xs-6 col-sm-3 box grey3">
+        <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">CATATAN<br>SI OLGA</h4>
-            <p class="hari">JUMAT - MINGGU</p>
-            <h1 class="jam">21<br>.00 <p>WIB</p></h1>
+            <p class="hari">SABTU - MINGGU</p>
+            <h1 class="jam">16<br>.00 <p>WIB</p></h1>
           </div>
         </div>
         </div>
@@ -115,9 +108,7 @@
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <img class="cover lazy" src="images/lensa.jpg" width="250" height="250">
-            <div id="d" class="description">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
+            
           </div>
         </div>
         
@@ -132,21 +123,19 @@
         </div>
         
         <div id="5" class="pview blue">        
-        <div class="col-xs-6 col-sm-3 box grey3">
+        <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">FANTASTIC WORLD CUP</h4>
             <p class="hari">MINGGU</p>
-            <h1 class="jam">23<br>.30 <p>WIB</p></h1>
+            <h1 class="jam">06<br>.00 <p>WIB</p></h1>
           </div>
         </div>
         
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <img class="cover lazy" src="images/bola.jpg" width="250" height="250">
-            <div id="e" class="description">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
+            
           </div>
         </div>
         </div>
@@ -154,20 +143,16 @@
         <div class="col-xs-12 col-sm-6 box pull-right">
           <div id="6" class="box_content row pview red">
           
-            <div class="col-xs-6 col-sm-6 box grey3 gantung kanan">
+            <div class="col-xs-6 col-sm-6 box light_grey2 gantung right">
               <div class="box_content">
                 <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
                 <h4 class="jdl_program">PESBUKERS</h4>
-                <p class="hari">SENIN - KAMIS</p>
+                <p class="hari">SETIAP HARI</p>
                 <h1 class="jam">17<br>.00 <p>WIB</p></h1>
               </div>
             </div>
             
             <img class="cover lazy" src="images/rafi.jpg" width="500" height="500">
-            
-            <div id="f" class="description col-xs-6 col-sm-6">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
             
           </div>
         </div>
@@ -177,7 +162,7 @@
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
             <h4 class="jdl_program">MASHA AND<br>THE BEAR</h4>
-            <p class="hari">SETIAP HARI</p>
+            <p class="hari">SENIN - JUMAT</p>
             <h1 class="jam">16<br>.30 <p>WIB</p></h1>
           </div>
         </div>
@@ -185,9 +170,7 @@
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <img class="cover lazy" src="images/masha.jpg" width="250" height="250">
-            <div id="g" class="description">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
+            
           </div>
         </div>
         </div>
@@ -199,24 +182,26 @@
       
         <div class="col-xs-12 col-sm-4 fixed_height">
           <div class="box_title"><span class="icon icon-youtube"></span> whatsonANTV</div>
-          <iframe width="100%" height="82%" src="//www.youtube.com/embed/pah2IJ0XaGI" frameborder="0" allowfullscreen></iframe>
+          <!--<iframe width="100%" height="82%" src="//www.youtube.com/embed/pah2IJ0XaGI" frameborder="0" allowfullscreen></iframe>-->
+          <iframe width="100%" height="82%" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/nwyObAXMaBU"></iframe>
         </div>
         
         <div class="col-xs-12 col-sm-4 fixed_height">
-          <div class="box_title"><span class="icon icon-facebook"></span> ANTV LOVERS</div>
-            <div class="fb-like-box" data-href="https://www.facebook.com/pages/antv-lovers/152528918100149" data-width="100%" data-height="100%" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+          <div class="box_title"><span class="icon icon-facebook"></span> ANTVLOVERS</div>
+            <div class="fb-like-box" data-href="https://www.facebook.com/pages/ANTVLovers/252369521494578" data-width="100%" data-height="100%" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
         </div>
         
         <div class="col-xs-12 col-sm-4 fixed_height">
           <div class="box_title"><span class="icon icon-twitter2"></span> @whatsonANTV</div>
-          <a class="twitter-timeline" href="https://twitter.com/topikANTV" data-widget-id="440162177152872448">Tweets by @topikANTV</a>
-		  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          <a class="twitter-timeline"  href="https://twitter.com/whatsonANTV"  data-widget-id="440162177152872448">Tweets by @whatsonANTV</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
         
         <div class="col-xs-12 col-sm-4">
           <div class="box_title"><span class="icon icon-pen"></span> Jadwal Hari Ini</div>
-          <div class="scroll">
-            <table id="jadwal" width="100%" border="0" cellspacing="1" cellpadding="2">
+            <iframe width="100%" height="100%" class="scroll" frameborder="0" allowfullscreen="" src="includes/inc_jadwal.php"></iframe>
+             <!--<div class="scroll">
+              <table id="jadwal" width="100%" border="0" cellspacing="1" cellpadding="2">
               <tr>
                 <td class="pull-right">00:30</td>
                 <td>Topik Malam</td>
@@ -302,7 +287,7 @@
                 <td>Topik Pagi</td>
               </tr>
             </table>
-          </div>
+          </div> -->
         </div>
         
         <div class="clearfix visible-xs"></div>

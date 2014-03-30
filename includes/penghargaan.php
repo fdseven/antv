@@ -8,7 +8,7 @@
     	<div class="col-xs-12 col-sm-6">
           <div class="row">
           
-            <div class="col-xs-12 col-sm-12 box">
+            <div class="col-xs-12 col-sm-12 box light_grey2">
               <div class="box_content">
             	<img class="box_mask lazy" src="images/mask.png" width="250" height="158">
                 <h3 class="head_title">PENGHARGAAN</h3>
@@ -22,6 +22,7 @@
                 <p>
                 Baru menginjak satu tahun mengudara, ANTV sudah mendapat kepercayaan untuk menjadi House Broadcast untuk event Thomas dan Uber Cup tahun 1994 di Senayan Jakarta, sebuah prestasi ANTV menjadi penyelenggara siaran yang hasil liputannya didistribusikan ke stasiun-stasiun TV internasional, bahkan setiap tahunnya ANTV selalu berhasil meraih sejumlah penghargaan baik tingkat nasional maupun internasional. Didukung dengan individu yang handal dan professional serta teknologi yang memadai membuat ANTV selalu menjadi stasiun televisi yang membanggakan. Berikut adalah penghargaan-penghargaan yang diraih oleh ANTV. 
                 </p>
+                <p class="visible-xs">&nbsp;</p>
                 </article>
               </div>  
             </div>
@@ -35,6 +36,7 @@
 <p>
 Meraih penghargaan Panasonic Gobel Award 14. Kategori Program Kuis Terfavorit "SUPER FAMILY". Jakarta, 25 Maret 2011
                 </p>
+                <p class="visible-xs">&nbsp;</p>
                 </article>
               </div>  
             </div>
@@ -96,6 +98,7 @@ Meraih penghargaan KPI AWARD 2007, pada tanggal 18 Maret 2008, penghargaan diber
 Meraih Juara Pertama Lomba Karya Jurnalis Olahraga Kategori Televisi diselenggarakan oleh Sirkuit Sentul dalam karya Grand Racing Sirkuit Sentul di Lensa Olahraga, 16-17 Februari 2008.”</p>
 <p>
 Meraih Juara Pertama Lomba Karya Jurnalistik Televisi dalam rangka peringatan hari anti korupsi sedunia diselenggarakan oleh KOMTAK (Komunitas Tionghoa Anti Korupsi) bekerjasama dengan Radio Ramako dan Pertamina dalam karya Liputan Investigasi Praktek Korupsi Lembaga Permasyarakatan Paledang.</p>
+			<p class="visible-xs">&nbsp;</p>
             </article>
           </div>
         </div>
@@ -131,6 +134,7 @@ Meraih penghargaan MURI (Museum Rekor Dunia Indonesia) Kategori Pemrakarsa dan P
 Meraih penghargaan PANASONIC AWARD 2008 Kategori Program Olahraga Favorite LIGA DJARUM INDONESIA yang diselenggarakan oleh Panasonic, pada tanggal 27 Maret 2009.</p>
 <p>
 Meraih penghargaan Anugrah Jurnalistik Pertamina 2008 untuk Program TELISIK. Dengan judul program "Pengoplos dibalik Kisruh Minyak Tanah", Kategori Media Elektronik - Feature Televisi Terbaik, pada tanggal 27 Februari 2009.</p>
+				<p class="visible-xs">&nbsp;</p>
                 </article>
               </div>  
             </div>
@@ -156,6 +160,7 @@ Meraih penghargaan Anugrah Jurnalistik Pertamina 2008 untuk Program TELISIK. Den
 Meraih penghargaan Anugerah Jurnalistik Pertamina 2009 untuk Program TELISIK. Dengan judul program "Licinnya Uang Olie Palsu" (Episode 4 Februari 2009), Kategori Media Elektronik - Feature Televisi Terbaik, pada tanggal 23 April 2009.</p>
 <p>
 Meraih penghargaan Panasonic Gobel Award 13. Kategori Program Olahraga Terfavorit “Djarum ISL”. Jakarta, 26 Maret 2010.</p>
+				<p class="visible-xs">&nbsp;</p>
                 </article>
               </div>  
             </div>
@@ -185,6 +190,7 @@ Meraih penghargaan Panasonic Gobel Award 13. Kategori Program Olahraga Terfavori
 <p>
 Meraih penghargaan Panasonic Gobel Award 14. Kategori Program Kuis Terfavorit "SUPER FAMILY". Jakarta, 25 Maret 2011
                 </p>
+                <p class="visible-xs">&nbsp;</p>
                 </article>
               </div>  
             </div>
@@ -220,6 +226,7 @@ Juara 1 : Kisruh Garam Impor Oleh Herdina Dan Gofur (Tim Telisik)</p>
 Juara 2 : Kampung Lele Dan Olahan Lele Oleh Effendy Rois (Kontributor Solo)</p>
 <p>
 Juara 3 : Desa Rumput Laut Di Nusa Dua, Bali Oleh Alvani Sukri (Kontributor Bali)</p>
+				<p class="visible-xs">&nbsp;</p>
                 </article>
               </div>  
             </div>
@@ -255,6 +262,7 @@ Lembaga Penyiaran Televisi Berjaringan Terbaik, Program Feature untuk program MA
 <p>ANTV mendapatkan penghargaan sebagai Televisi Favorit masyarakat Kota Bandung yang banyak menayangkan siaran olahraga sepak bola oleh KONI Bandung dalam ajang KPID Jawa Barat Award 2013 pada Jum’at, 15 November 2013.</p>
 <p>
 PESBUKERS meraih penghargaan sebagai Program acara komedi terfavorit di ajang Panasonic Gobel Award ke 16 pada tanggal 30 Maret 2013 di Jakarta Convention Center.</p>
+				<p class="visible-xs">&nbsp;</p>
                 </article>
               </div>  
             </div>

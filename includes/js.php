@@ -4,6 +4,7 @@
 <script src="js/jquery.min.js"></script>
 <!--<script src="js/jquery.lazyload.min.js"></script>-->
 <script src="js/responsiveslides.min.js"></script>
-<script src="js/jquery.tap.min.js"></script>
+<script src="js/jquery.smint.js"></script>
+<!--<script src="js/jquery.tap.min.js"></script> -->
 <script src="js/modernizr.js"></script>
 <script src="js/controller.js"></script>

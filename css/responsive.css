@@ -66,6 +66,7 @@
 		display: block;
 		padding: 5px 0;
 		border-bottom: 1px dotted #354255;
+		font-weight: bold;
 	}
 	a.boxclose{
 		font-size: 1.5em;
@@ -92,7 +93,10 @@
 	#penghargaan .box:after,
 	#stasiun_pemancar .box:after,
 	#program .box:after,
-	#press_release .box:after {
+	#press_release .box:after,
+	#galeri .box:after,
+	#hubungi .box:after,
+	#sdm .box:after {
 		padding-top: 0;
 	}
 	#about .box_content,
@@ -100,8 +104,14 @@
 	#penghargaan .box_content,
 	#stasiun_pemancar .box_content,
 	#program .box_content,
-	#press_release .box_content {
+	#press_release .box_content,
+	#galeri .box_content,
+	#hubungi .box_content,
+	#sdm .box_content {
 		position: relative;
+	}
+	.box article {
+		padding-bottom: 0;
 	}
 	#share div {
 		padding: 7px 0 15px;
@@ -114,6 +124,12 @@
 	}
 	#share.top2.box:after {
 		padding: 0;
+	}
+	.pulltop2 {
+		margin-top: 0;
+	}
+	.pview .description {
+		padding: 15px;
 	}
         
 /* Style for overlay and box end*/ 
@@ -134,24 +150,11 @@
 }
 
 @media (min-width: 500px) {
-	#row1 .col-sm-6,
-	#row2 .col-sm-6,
-	#row3 .col-sm-6 {
-    	width: 50%;
-  	}
-  	#row1 .col-sm-pull-6 {
-    	right: 50%;
-  	}
-  	#row1 .col-sm-push-6 {
-    	left: 50%;
-  	}
-	
 	#row_1 .col-sm-3 {
 		width: 25%;
 	}
 	#share .col-sm-3 {
 		width: 50%;
-		
 	}
 }
 
@@ -204,6 +207,13 @@
 	.box_mask {
 		display: none;
 	}
+	#profile_menu.fxd li a {
+	padding: 10px;
+	}
+	.scroll {
+		height: 232px !important;
+	}
+	
 }
 @media (max-width: 479px) {
 	#row4 .col-xs-6 {
@@ -261,6 +271,10 @@
 		margin-bottom: 10px;
 		margin-top: 8%;
 		height: 35px;
+		line-height: 16px;
+	}
+	.jdl_program.tiga {
+		height: auto;
 	}
 	.hari {
 		font-size: 12px;
@@ -278,7 +292,7 @@
 		display: none;
 	}
 	.scroll {
-		height: 232px;
+		height: 228px;
 	}
 }
 
@@ -314,7 +328,7 @@
 	.head_title {
 		padding: 15px 15px 10px;
 	}
-	.box article, .textbox article {
+	.box article {
 		padding-left: 15px;
 		padding-right: 15px;
 	}
@@ -329,7 +343,7 @@
 	.head_title {
 		padding: 15px 15px 10px;
 	}
-	.box article, .textbox article {
+	.box article {
 		padding-left: 15px;
 		padding-right: 15px;
 	}
@@ -344,6 +358,10 @@
 		margin-bottom: 10px;
 		margin-top: 8%;
 		height: 35px;
+	}
+	.jdl_program.tiga {
+		margin-top: 8%;
+		height: auto;
 	}
 	.hari {
 		font-size: 12px;
@@ -361,13 +379,15 @@
 		margin: 0;
 		right: 10%;
 	}
+	#apply a {
+		right: 10px;
+		bottom: 12px;
+		font-size: 11px;
+	}
 }
 @media (min-width: 767px) and (max-width: 800px) {
-	#kiri #jadwal.fixed_height {
-		height: 238px;
-	}
 	.scroll {
-		height: 307px;
+		height: 302px;
 	}
 	h3.head_title {
 		font-size: 18px;
@@ -375,7 +395,7 @@
 	.head_title {
 		padding: 15px 15px 10px;
 	}
-	.box article, .textbox article {
+	.box article {
 		padding-left: 15px;
 		padding-right: 15px;
 	}
@@ -422,8 +442,11 @@
 }
 	
 @media (max-width: 479px) {
-	body {
+	body,
+	.box article,
+	.transmisi {
 		font-size: 14px;
+		line-height: normal;
 	}
 }
 @media (max-width: 549px) {

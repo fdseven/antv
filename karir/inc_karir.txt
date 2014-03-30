@@ -1,0 +1,9 @@
+
+<table width="300" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <p><a href="hrd_apptest.php" target="_blank"><span class="style3">APPLY ONLINE</span></a></p>
+	  <img src="/../inc/batas_HOR.png" width="300" height="6" /><br />
+	  </td>
+  </tr>
+</table>

@@ -3,7 +3,7 @@
   
   <div class="row">
               
-    <div class="col-xs-12 visible-xs box">
+    <div class="col-xs-12 visible-xs box white">
         <h3 class="head_title">TENTANG <span>KAMI</span></h3>
     </div>
     
@@ -34,7 +34,7 @@
     <div class="col-xs-12 col-sm-6 col-sm-pull-6">
       <div class="row">
         
-        <div class="col-xs-12 hidden-xs box">
+        <div class="col-xs-12 hidden-xs box light_grey2">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h3 class="head_title">TENTANG<br><span>KAMI</span></h3>

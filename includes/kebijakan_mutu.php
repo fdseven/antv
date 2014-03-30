@@ -5,10 +5,7 @@
                         
     <div id="share" class="col-xs-12 col-sm-6 hidden-xs box">
       <div class="box_content">
-        <a href="#" class="icon icon-facebook"></a>
-        <a href="#" class="icon icon-twitter"></a>
-        <a href="#" class="icon icon-youtube"></a>
-        <a href="#" class="icon icon-gplus"></a>
+        <?php include "includes/social_media_links.php"; ?>
       </div>
     </div>
     
@@ -65,15 +62,15 @@
       
           <div class="box_content black">
             <ul id="profile_menu">
-              <li><a class="link_about" href="#about">TENTANG KAMI</a></li>
-              <li><a class="link_dk" href="#dewan_komisaris">DEWAN KOMISARIS</a></li>
-              <li><a class="link_dd" href="#dewan_direksi">DEWAN DIREKSI</a></li>
-              <li><a class="link_sm" href="#senior_management">SENIOR MANAGEMENT TEAM</a></li>
-              <li><a class="link_ph" href="#penghargaan">PENGHARGAAN</a></li>
-              <li><a class="link_pm" href="#stasiun_pemancar">STASIUN PEMANCAR</a></li>
-              <li><a class="link_pr" href="#program">PROGRAM ANTV</a></li>
-              <li><a class="link_sdm" href="#sdm">SUMBER DAYA MANUSIA</a></li>
-              <li><a class="link_prs" href="#">PRESS RELEASE</a></li>
+              <li><a id="sTop" href="#">TENTANG KAMI</a></li>
+              <li><a id="s1" href="#">DEWAN KOMISARIS</a></li>
+              <li><a id="s2" href="#">DEWAN DIREKSI</a></li>
+              <li><a id="s3" href="#">SENIOR MANAGEMENT TEAM</a></li>
+              <li><a id="s4" href="#">PENGHARGAAN</a></li>
+              <li><a id="s5" href="#">STASIUN PEMANCAR</a></li>
+              <li><a id="s6" href="#">PROGRAM ANTV</a></li>
+              <li><a id="s7" class="end" href="#">SUMBER DAYA MANUSIA</a></li>
+              <li><a href="#">PRESS RELEASE</a></li>
             </ul>
           </div>
         

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_Division" value="name:div_name;datatype:string" />
+	<infoitem key="UD_RS_Sex" value="name:sex_type;datatype:string" />
+	<infoitem key="UD_RS_Married" value="name:married_type;datatype:string" />
+	<infoitem key="UD_RS_dd" value="name:dd_desc;datatype:string" />
+	<infoitem key="UD_RS_mm" value="name:mm_desc;datatype:string" />
+	<infoitem key="UD_RS_yyyy" value="name:yy_desc;datatype:string" />
+	<infoitem key="UD_RS_Location" value="name:loc_area;datatype:string" />
+	<infoitem key="UD_RS_Province" value="name:prov_area;datatype:string" />
+	<infoitem key="UD_RS_EduType" value="name:edu_desc;datatype:string" />
+	<infoitem key="UD_RS_YearStudy" value="name:y1_desc;datatype:string" />
+	<infoitem key="UD_RS_YearWork" value="name:y2_desc;datatype:string" />
+</info>

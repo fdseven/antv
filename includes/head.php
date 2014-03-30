@@ -16,6 +16,15 @@
   
   <!-- Custom styles for fonts -->
   <link href="css/fonts.css" rel="stylesheet">
+  
+  <!--[if IE 9]>
+  <style>/* this style block is for IE9 */
+  /*<link href="css/ie.css" rel="stylesheet">*/
+  </style>
+  <![endif]-->
+  <!--[if lte IE 8]>
+  <link href="ie-fixes.css" type="text/css" rel="stylesheet" />
+  <![endif]-->
 
   <!-- Just for debugging purposes. Don't actually copy this line! -->
   <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->

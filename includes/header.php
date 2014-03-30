@@ -4,11 +4,11 @@
       <a href="javascript:void(0);" id="menu" class="visible-xs"><span class="icon icon-menu"></span></a>
       <a href="index.php"><img src="images/logo.png" width="162" height="63"></a>
     </div>
-    <nav id="menu_area" class="col-xs-12 col-sm-6">
+    <nav id="menu_area" class="col-xs-12 col-sm-6 accordion">
       <a href="javascript:void(0);" id="close" class="visible-xs"><span class="icon icon-close"></span></a>
       <ul>
         <li><a href="index.php">HOME</a></li>
-        <li><a href="tentang_kami.php">TENTANG KAMI</a></li>
+        <li><a href="tentang_kami.php">TENTANG KAMI</a>
         <li><a href="press_release.php">PRESS RELEASE</a></li>
         <li><a href="galeri.php">GALERI</a></li>
         <li><a href="karir.php">KARIR</a></li>
@@ -19,7 +19,7 @@
         <li><a href="kids_teen.php">KIDS & TEEN</a></li>
         <li><a href="family.php">FAMILY</a></li>
         <li><a href="male.php">MALE</a></li>
-        <li><a href="antvlovers.php">ANTVLOVERS</a></li>
+        <li><a href="#">ANTVEVENTS</a></li>
       </ul>
     </nav>
   </div>

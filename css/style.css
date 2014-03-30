@@ -12,35 +12,33 @@ header {
 	width: 100%;
 }
 a,
+.callbacks_nav,
 .icon,
-#accordion .title {
-	transition: color 200ms linear 0s, background-color 300ms cubic-bezier(0.23, 1, 0.32, 1) 0s;
+.accordion .title,
+#profile_menu {
+	transition: color 200ms linear 0.1s, background-color 300ms cubic-bezier(0.23, 1, 0.32, 1) 0.1s;
 }
 a:hover {
 	text-decoration: none;
 }
+ul.list,
+ol.list {
+	padding: 0 0 0 12px;
+}
+ul.list li {
+	margin: 0;
+}
 ol {
 	padding: 0 0 0 17px;
+}
+ol.list li {
+	margin: 3px 0;
 }
 li {
 	margin: 10px 0;
 }
-#main {
-	background: #000;
-}
 .row {
 	position: relative;
-}
-.no_scroll {
-	overflow: hidden;
-}
-.tutup {
-	/* background: rgba(236, 24, 105, 0.5); */
-	position: fixed;
-	top: 0;
-    bottom: 0;
-	z-index: 2;
-    width: 100%;
 }
 
 /*FONT & BACKGROUND COLOR*/
@@ -53,22 +51,21 @@ li {
 .yellow {
 	color: #efa300;
 }
-.grey,
-.grey .head_title {
+.violet {
+	color: #7f298c;
+}
+.grey {
 	color: #fff;
 	background: #53565b;
 }
-.grey2,
-.grey2 .head_title {
+.grey2 {
 	background: #74787f;
 }
-.light_grey,
-.light_grey .head_title {
+.light_grey {
 	color: #333;
 	background: #c5c5c5;
 }
-.light_grey2,
-.light_grey2 .head_title {
+.light_grey2 {
 	background: #ebeae6;
 }
 .black {
@@ -77,11 +74,31 @@ li {
 .white {
 	background-color: #fff;
 }
-.grey3 {
-	background-color: #ebeae6;
+
+/*FONT-STYLE*/
+.jdl_program,
+.jam,
+.pview .description h4,
+.accordion .title {
+	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
+}
+#menu_area ul li,
+#kanal_menu li,
+#profile_menu li,
+.jam p,
+.head_title span,
+.box article,
+.pview .description,
+.transmisi,
+footer,
+#menu_foot span {
+	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 
 /*INDEPENDENT CLASS*/
+#main {
+	background: #000;
+}
 #main_nav {
 	min-height: 50px;
 }
@@ -93,8 +110,33 @@ li {
 .pulltop {
 	margin-top: -50%;
 }
-#share.top2 {
-	display: none;
+.pulltop2 {
+	margin-top: -25%;
+}
+.right {
+	right: 0px;
+}
+.bottom {
+	bottom: 0px;
+	top: 50% !important;
+}
+.no_scroll {
+	overflow: hidden;
+}
+.tutup {
+	/* background: rgba(236, 24, 105, 0.5); */
+	position: fixed;
+	top: 0;
+    bottom: 0;
+	z-index: 3;
+    width: 100%;
+}
+#apply a {
+	position: absolute;
+	right: 20px;
+	bottom: 15px;
+	color: #CC2C2E;
+	z-index: 2;
 }
 
 /*HEADER*/
@@ -106,13 +148,16 @@ li {
 	margin: 30px 0 0 14%;
 	padding: 0;
 }
+#menu_area ul li ul {
+	margin: 0 0 10px 15px;
+	font-size: 12px;
+}
 #menu_area ul li,
 #kanal_menu li,
 #profile_menu li {
 	list-style: none;
 	padding: 0;
 	margin: 0;
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 #menu_area ul li a,
 #profile_menu li a {
@@ -121,12 +166,15 @@ li {
 	display: inline-block;
 }
 #menu_area ul li a:hover,
-#profile_menu li a:hover {
+#profile_menu li a:hover,
+#profile_menu li a.active {
 	color: #ffca23;
+	text-decoration: none;
 }
-#share.top {
+#share.top,
+#share.top2 {
 		display: none;
-	}
+}
 #share.box {
 	background: #000;
 }
@@ -152,7 +200,7 @@ li {
 }
 #kanal_menu li a.female,
 #menu_area li a.female {
-	color: #C258CE;
+	color: #cf40de;
 }
 #kanal_menu li a.kids,
 #menu_area li a.kids {
@@ -171,9 +219,29 @@ li {
 }
 #profile_menu {
 	padding: 0 0 0 35px;
+	position: absolute;
+	top: 0;
 }
 #profile_menu li a {
 	font-size: 12px;
+}
+#profile_menu.fxd {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	width: 100%;
+	padding: 0;
+	background: rgba(0,0,0,0.8);
+	display: table;
+	text-align: center;
+}
+#profile_menu.fxd li {
+	display: inline-block;
+}
+#profile_menu.fxd li a {
+	padding: 15px 10px;
+	font-size: 11px;
 }
 #main_nav,
 #logo_area,
@@ -224,9 +292,13 @@ li {
 .box.box6:after {
 	padding-top: 600%;
 }
+.box.land:after {
+	padding-top: 50%;
+}
 /* E: responsive resize box */
 
 #row_1 .box_content,
+#galeri .box_content,
 #share .box_content
  {
 	overflow: visible;
@@ -235,9 +307,6 @@ li {
 	position: absolute;
 	top: 0;
 	z-index: 2;
-}
-.gantung.kanan {
-	right: 0;
 }
 .box_content {
 	position: absolute;
@@ -265,16 +334,16 @@ li {
 	margin-left: 15%;
 	margin-right: 5%;
 }
-.jdl_program,
-.jam {
-	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
-}
 .jdl_program {
 	height: 43px;
 	font-size: 18px;
 	line-height: 18px;
 	margin-bottom: 0;
 	margin-top: 19%;
+}
+.jdl_program.tiga {
+	margin-top: 11%;
+	height: 63px;
 }
 .hari {
 	margin-bottom: 0;
@@ -293,7 +362,6 @@ li {
 	letter-spacing: 0;
 	font-size: 15px;
 	font-weight: normal;
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 .jam_2 {
 	position: absolute;
@@ -306,17 +374,14 @@ li {
 	margin: 0;
 	color: #53565b;
 }
-.head_title span {
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
-}
-.black .head_title {
+.black .head_title,
+.grey .head_title {
 	color: #fff;
 }
-.box article,
-.textbox article {
-	padding: 0 27px 10px;
+.box article {
+	padding: 0 27px 15px;
 	line-height: 1.2;
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+	font-size: 11px;
 }
 
 /*hover box*/
@@ -325,8 +390,7 @@ li {
 	overflow: auto;
 	top: 0px;
 	bottom: 0px;
-	padding: 15px;
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
+	padding: 20px;
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
     opacity: 0;
@@ -337,8 +401,8 @@ li {
     	-ms-transition: all 0.4s ease-in-out;
     		transition: all 0.4s ease-in-out;
 }
-.pview .description.right {
-	right: 0px;
+.land .description {
+	width: 50%;
 }
 .red .description {
 	background: rgba(236, 24, 105, 0.95);
@@ -349,10 +413,16 @@ li {
 .yellow .description {
 	background: rgba(239, 163, 0, 0.95);
 }
+.violet .description {
+	background: rgba(126, 40, 139, 0.95);
+}
 .pview:hover .description {
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
     opacity: 1;
+}
+#galeri .description {
+	background: rgba(0,0,0,0.7);
 }
 .pview .cover {
 	-webkit-transition: all 0.2s linear;
@@ -362,11 +432,11 @@ li {
     		transition: all 0.2s linear;
 }
 .pview:hover .cover {
-	-webkit-transform: scale(1.1,1.1);
-       -moz-transform: scale(1.1,1.1);
-    	 -o-transform: scale(1.1,1.1);
-    	-ms-transform: scale(1.1,1.1);
-    		transform: scale(1.1,1.1);
+	-webkit-transform: scale(1.2,1.2);
+       -moz-transform: scale(1.2,1.2);
+    	 -o-transform: scale(1.2,1.2);
+    	-ms-transform: scale(1.2,1.2);
+    		transform: scale(1.2,1.2);
 }
 /*END: SQUARE BOX*/
 
@@ -393,54 +463,52 @@ li {
 .scroll {
 	font-size: 12px;
 	margin: 10px 0;
-	height: 422px;
+	height: 417px;
 	overflow: auto;
 }
 
 /*ACCORDION*/
-#accordion ul {
+.accordion ul {
 	padding: 0;
 	margin: 0;
 }
-#accordion .title {
+.accordion .title {
 	color: #54565c;
 	margin-left: -20px;
     margin-top: 0;
     padding: 0 0 0 20px;
 	cursor: pointer;
-	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
 	background: url(../images/arrow.png) no-repeat left 1px;
 }
-#accordion .title:hover,
-#accordion .buka {
+.accordion .title:hover,
+.accordion .buka {
 	color: #FFCA23;
 }
-#accordion .buka {
+.accordion .buka {
 	background: url(../images/arrow.png) no-repeat left -13px;
 }
-#accordion li {
+.accordion li {
 	list-style: none;
 	margin: 0;
 	padding: 0 0 0 20px;
 }
-#accordion li ul {
+.accordion li div {
 	display: none;
 	margin: 0 0 10px;
+	overflow: auto;
 }
-#accordion li ul li {
+.accordion li div a {
 	padding: 3px 0;
-}
-#accordion li ul li a {
+	display: inline-block;
 	color: #fff;
 }
-#accordion li ul li a:hover {
+.accordion li div a:hover {
 	color: #1FA9DB;
 }
 
 /*FOOTER*/
 footer {
 	font-size: 12px;
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 #member {
 	margin: 4.5% 0 0 7.5%;
@@ -469,7 +537,6 @@ footer, #menu_foot a:hover {
 	display: block;
 	padding: 0 5px;
 	font-size: 11px;
-	font-family: "Gotham-Light", Arial, Helvetica, sans-serif;
 }
 .copy {
 	float: right;
@@ -477,6 +544,20 @@ footer, #menu_foot a:hover {
 	font-size: 11px;
 }
 
+.transmisi {
+	margin: 0 27px 15px;
+	font-size: 11px;
+}
+.transmisi th {
+	padding: 0 0 10px;
+}
+.satelit {
+	margin: 20px 0 0;
+}
+.satelit div {
+	padding: 2px 0;
+}
+	
 /*SLIDER*/
 /*! http://responsiveslides.com v1.54 by @viljamis */
 
@@ -550,9 +631,9 @@ footer, #menu_foot a:hover {
 .callbacks_nav {
 	position: absolute;
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
-	top: 52%;
+	top: 54%;
 	left: 0;
-	opacity: 0.7;
+	opacity: 0.4;
 	z-index: 3;
 	text-indent: -9999px;
 	overflow: hidden;
@@ -560,6 +641,10 @@ footer, #menu_foot a:hover {
 	height: 61px;
 	width: 38px;
 	margin-top: -45px;
+	background: url(../images/nav_banner.gif) no-repeat left top;
+}
+.callbacks_nav:hover {
+	opacity: 0.7;
 }
 .callbacks_nav:active {
 	opacity: 1.0;
