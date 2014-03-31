@@ -22,9 +22,10 @@ body {
 #jadwal {
 	font-family: "Gotham-Medium", Arial, Helvetica, sans-serif;
 	font-size: 12px;
-}
-#jadwal td {
-	padding: 0 5px;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
 }
 -->
 </style>
@@ -45,7 +46,7 @@ mysql_select_db("$db_name")or die("cannot select DB");
 $sql="SELECT * FROM $tbl_name WHERE date=CURRENT_DATE()";
 $result=mysql_query($sql);
 
-echo "<div id='jadwal' style='width: 100%; height: 100%; overflow: auto; -webkit-overflow-scrolling: touch;'>";
+echo "<div id='jadwal'>";
 // Start looping rows in mysql database.
 while($rows=mysql_fetch_array($result)){
 ?>

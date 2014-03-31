@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document for opera mobile */
+
+[data-icon]:before {
+  font-family: Arial, Helvetica, sans-serif;
+  content: "";
+}
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.icon {
+}
+.icon-facebook:before {
+  content: url(../images/icon_fb.png);
+}
+.icon-twitter:before {
+  content: url(../images/icon_tw.png);
+}
+.icon-twitter2:before {
+  content: url(../images/icon_tw2.png);
+}
+.icon-youtube:before {
+  content: url(../images/icon_yutub.png);
+}
+.icon-gplus:before {
+  content: url(../images/icon_gplus.png);
+}
+.icon-pen:before {
+  content: url(../images/icon_pen.png);
+}
+.icon-menu:before {
+  content: url(../images/icon_menu.png);
+}
+.icon-close:before {
+  content: url(../images/icon_close.png);
+}
+#jadwal,
+.scroll {
+	overflow: scroll;
+}

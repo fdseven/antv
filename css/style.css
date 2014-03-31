@@ -456,6 +456,10 @@ footer,
 
 /*JADWAL*/
 #jadwal {
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	-webkit-overflow-scrolling: touch;
 }
 #jadwal td {
 	padding: 2px 5px;

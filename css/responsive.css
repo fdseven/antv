@@ -44,6 +44,7 @@
 	#menu .icon,
 	#close .icon {
 		padding: 0;
+		margin: 0;
 		width: 31px;
 		height: 31px;
 	}
@@ -179,6 +180,7 @@
 	}
 	#share div .icon {
 		font-size: 40px;
+		width: 50px;
 	}
 	#share div.middle {
 		display: none;

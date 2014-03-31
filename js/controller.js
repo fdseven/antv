@@ -5,6 +5,13 @@
 	delay: 2000
 });*/
 
+if (Modernizr.fontface) {
+    //document.write('Browser says @font-face IS supported');
+} else {
+    document.write('Browser says @font-face NOT supported');
+	$("body").before("<link href='css/opera-mobile.css' rel='stylesheet'>");
+}
+
 $("#slider").responsiveSlides({
 	auto: true,
 	pager: false,
@@ -34,7 +41,7 @@ $(function() {
 		$("#overlay").addClass("tutup");                   		
 		$("#menu_area").show();
 		$('#menu_area').animate({'right':'0px'},400,function(){
-		});            
+		}); 
 	});
 	
 	$('#close').click(function(){
