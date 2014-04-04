@@ -40,7 +40,7 @@
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">CAHAYA<br>HATI</h4>
             <p class="hari">SENIN - JUMAT</p>
-            <h1 class="jam">04<br>.00 <p>WIB</p></h1>
+            <h1 class="jam">03<br>.30 <p>WIB</p></h1>
           </div>
         </div>
         
@@ -59,7 +59,7 @@
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
             <h4 class="jdl_program">CAMPUR<br>CAMPUR</h4>
-            <p class="hari">SETIAP HARI</p>
+            <p class="hari">SENIN - SABTU</p>
             <h1 class="jam">21<br>.00 <p>WIB</p></h1>
           </div>
         </div>
