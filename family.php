@@ -94,7 +94,7 @@
           <div class="box_content">
             <img class="box_mask" src="images/mask.png" width="250" height="158">
             <h4 class="jdl_program">JEJAK<br>PARANORMAL</h4>
-            <p class="hari">SABTU</p>
+            <p class="hari">SABTU - MINGGU</p>
             <h1 class="jam">22<br>.00 <p>WIB</p></h1>
           </div>
         </div>

@@ -65,7 +65,7 @@
         <div id="2" class="pview yellow">        
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
-          <img class="cover lazy" src="images/tsubasa.jpg" width="250" height="250">
+          <img class="cover lazy" src="images/oddbods.jpg" width="250" height="250">
             
           </div>
         </div>
@@ -73,9 +73,9 @@
         <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
             <img class="box_mask" src="images/mask2.png" width="250" height="158">
-            <h4 class="jdl_program">CAPTAIN<br>TSUBASA</h4>
-            <p class="hari">SETIAP HARI</p>
-            <h1 class="jam">13<br>.00 <p>WIB</p></h1>
+            <h4 class="jdl_program">ODDBODS</h4>
+            <p class="hari">SENIN - JUMAT</p>
+            <h1 class="jam">15<br>.10 <p>WIB</p></h1>
           </div>
         </div>
         </div>
