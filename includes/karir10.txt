@@ -1,0 +1,19 @@
+<h5 class="head_title"><span>CAMERA</span> <br class="hidden-xs">PERSON</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Bertanggung jawab dalam menyiapkan kebutuhan camera dan kelengkapannya sesuai jenis dan jumlah yang telah ditentukan, serta melaksanakan penataan gambar dengan benar sesuai arahan Director / User.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria / wanita maksimal 27 tahun</li>
+  <li>Pendidikan minimal D3 semua jurusan</li>
+  <li>Pengalaman Min 2 th di posisi sejenis dalam industri media</li>
+  <li>Memiliki pengetahuan tentang camera dan teknik pengambilan gambar</li>
+  <li>Memiliki pengetahuan teknis penggunaan lighting, audio-video, editing</li>
+  <li>Mampu bekerja di bawah tekanan</li>
+  <li>Mampu bekerja secara individu dan team</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

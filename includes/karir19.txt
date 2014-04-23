@@ -1,0 +1,22 @@
+<h5 class="head_title"><span>GRAPHIC</span> <br class="hidden-xs"> EDITOR</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Menjamin ketersediaan Material Graphics ataupun Info Graphics serta menyediakan template untuk program acara News, Sports and Current Affairs.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria usia maksimal 30 tahun</li>
+  <li>Pendidikan min S1 Design Graphic / Komunikasi Visual</li>
+  <li>Pengalaman min 1th di posisi sejenis dalam industri televisi</li>
+  <li>Fresh graduate diprerbolehkan untuk melamar</li>
+  <li>Memiliki Pengetahuan Design Graphics, Computer Graphics System dan Info Graphics</li>
+  <li>Memiliki pemahaman 2D & 3D Designing Concept</li>
+  <li>Memiliki Kemampuan Konsep desain</li>
+  <li>Menguasai Komputer (Computer Graphics)</li>
+  <li>Memiliki pemahaman dan kemampuan dalam mengevaluasi efektivitas penyajian Info Graphics di dalam menjelaskan materi berita.</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

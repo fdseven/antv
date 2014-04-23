@@ -1,0 +1,20 @@
+<h5 class="head_title"><span>COMMUNITY</span> <br class="hidden-xs">STAFF</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Bertanggungjawab terhadap semua kegiatan sosial media perusahaan mulai dari melakukan update media sosial perusahaan setiap hari, mengembangkan dan mengelola komunitas serta memantau dan memoderator semua kegiatan komunitas. Membuat catatan dan memberikan informasi kepada program maker mengenai kritik, saran, masukan & komplain terhadap sebuah program atau siaran.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria/Wanita usia 22 – 26 th</li>
+  <li>Pendidikan Min D3 semua jurusan</li>
+  <li>Familiar menggunakan social media</li>
+  <li>Terbiasa menggunakan social media</li>
+  <li>Memiliki kemampuan networking yang luas</li>
+  <li>Mampu berpikir kreatif</li>
+  <li>Loyal terhadap pekerjaan</li>
+  <li>Bertanggung jawab dan mempunyai komitmen terhadap perusahaan</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

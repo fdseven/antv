@@ -1,0 +1,22 @@
+<h5 class="head_title"><span>ADMINISTRATION</span> <br class="hidden-xs">STAFF</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Mengorganisir kegiatan harian dan melaksanakan semua tugas-tugas administratif yang berkaitan dengan segala kegiatan dan keperluan dari suatu departemen. 
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria / Wanita usia maksimal 27 th</li>
+  <li>Pendidikan min D3 / S1 semua jurusan</li>
+  <li>Pengalaman min 1th di posisi sejenis</li>
+  <li>Fresh graduate diperbolehkan untuk melamar</li>
+  <li>Menguasai Ms.Office</li>
+  <li>Teliti, Rapi dan Fokus pada detail</li>
+  <li>Jujur dan Loyal terhadap pekerjaan</li>
+  <li>Mampu bekerjasama dengan berbagai macam orang</li>
+  <li>Memiliki kemampuan komunikasi yang baik</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

@@ -1,0 +1,41 @@
+<h5 class="head_title"><span>PRESENTER /</span> <br class="hidden-xs"> REPORTER</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+<ol class="list">
+  <li>
+	Membuat transkrip verbatim dan time-coding wawancara dengan narasumber.
+  </li>
+  <li>
+	Membuat naskah audio-visual sesuai dengan Rancangan Akhir Alur Cerita yang ditetapkan.
+  </li>
+  <li>
+	Menyelesaikan laporan pertanggungjawaban budget peliputan bersama dengan Camera Person.
+  </li>
+  <li>
+	Melakukan riset, check call, korespondensi dengan pihak berwenang, dan pendekatan terhadap narasumber. 
+  </li>
+  <li>
+	Melakukan penggalian informasi di lapangan, pengembangan cerita (story development), serta visualisasi topik sesuai wishlist.
+  </li>
+  <li>
+	Melakukan pencarian talent, penyediaan properti, dan wardrobe sesuai dengan budget yang tersedia bersama dengan Camera Person
+  </li>
+</ol>
+
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria/Wanita usia maksimal 30 tahun</li>
+  <li>Pendidikan Minimal S1 Semua Jurusan</li>
+  <li>Pengalaman Minimal 2 - 3 th sebagai Supervisor di industri sejenis (bidang Marketing Communication / EO / CSR)</li>
+  <li>Memiliki kemampuan networking yang luas</li>
+  <li>Memiliki kemampuan komunikasi dan kerjasama yang baik</li>
+  <li>Mengikuti perkembangan situasi sosial</li>
+  <li>Bertanggungjawab dan mempunyai komitmen terhadap perusahaan</li>
+  <li>Memiliki jiwa kepemimpinan</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

@@ -1,0 +1,32 @@
+<h5 class="head_title"><span>MANAGER /</span> <br class="hidden-xs"> CORPORATE</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+<ol class="list">
+  <li>
+	Mengawasi dan memastikan pelaksanakan seluruh bentuk kegiatan publikasi dan media coverage serta kegiatan – kegiatan internal dan kegiatan sosial / CSR yang terkait dengan seluruh informasi korporasi dan program-program di ANTV, mulai dari memonitor pelaksanaan rancangan budget operasional, melakukan inovasi dalam pengembangan program dan publikasi yang baru
+  </li>
+  <li>
+	Melakukan fungsi penilaian kerja, serta program pengembangan kompetensi dan pengetahuan terhadap bawahan serta menyetujui pembagian jadwal kerja dan mengawasi kinerja bawahan. 
+  </li>
+  <li>
+	Memperluas jaringan dan menjaga hubungan baik dengan seluruh jaringan media instansi pemerintah, donatur, pemirsa dan masyarakat sekitar demi kelancaran hubungan kerjasama
+  </li>
+</ol>
+
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria/Wanita usia maksimal 30 tahun</li>
+  <li>Pendidikan Minimal S1 Semua Jurusan</li>
+  <li>Pengalaman Minimal 5 th sebagai Manager di industri sejenis (bidang Marketing Communication / CSR)</li>
+  <li>Memiliki kemampuan networking yang luas</li>
+  <li>Memiliki kemampuan komunikasi dan kerjasama yang baik</li>
+  <li>Mengikuti perkembangan situasi sosial</li>
+  <li>Bertanggungjawab dan mempunyai komitmen terhadap perusahaan</li>
+  <li>Memiliki jiwa kepemimpinan</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

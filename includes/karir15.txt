@@ -1,0 +1,22 @@
+<h5 class="head_title"><span>TRAINING</span> <br class="hidden-xs">STAFF</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Melayani permintaan user terhadap pemenuhan kebutuhan dalam rangka pengembangan dan pelatihan karyawan, mulai dari membuat perencanaan budget, membuat konsep dan template serta melakukan administrasi surat-menyurat yang terkait dengan kepentingan program pengembangan dan pelatihan karyawan, serta menjalin hubungan baik serta berkoordinasi dengan vendor-vendor training.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria / Wanita usia maksimal 25 tahun</li>
+  <li>Pendidikan min D3 Semua Jurusan</li>
+  <li>Pengalaman min 1th di posisi sejenis dalam industri televisi</li>
+  <li>Fresh graduate diprerbolehkan untuk melamar</li>
+  <li>Memiliki networking yang luas terutama dengan vendor-vendor training</li>
+  <li>Memiliki kemampuan komunikasi dan negosiasi yang baik</li>
+  <li>Menguasai microsoft office</li>
+  <li>Teliti, Tekun , Terbiasa bekerja dengan data dan Fokus pada detail</li>
+  <li>Mampu bekerjasama dan senang menjalin relasi dengan berbagai macam orang</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi dan lapangan</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

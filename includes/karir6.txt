@@ -1,0 +1,20 @@
+<h5 class="head_title"><span>INTERNAL</span> <br class="hidden-xs">RELATIONS</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Bertanggung jawab untuk pelaksanaan seluruh aktifitas kegiatan internal yang berhubungan dengan informasi dan program mengenai corporate ANTV dan bertanggung jawab dalam mengumpulkan berita serta informasi yang terkait dengan perusahaan, program dan industri Broadcast secara keseluruhan.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria/ Wanita usia Max 28 tahun</li>
+  <li>Berpenampilan menarik</li>
+  <li>Pendidikan minimal S1 Semua Jurusan</li>
+  <li>Pengalaman di bidang media marketing, communication, EO ataupun Agency</li>
+  <li>Fresh Graduate diperbolehkan melamar</li>
+  <li>Memiliki kemampuan komunikasi yang baik</li>
+  <li>Memiliki kemampuan networking yang luas</li>
+  <li>Menguasai microsoft office</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

@@ -1,0 +1,20 @@
+<h5 class="head_title"><span>ACCOUNT</span> <br class="hidden-xs">EXECUTIVE</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Mencari agency/advertiser/brand yang berminat untuk menggunakan program-program ANTV kemudian melakukan penjualan dan penawaran program yang diinginkan guna mendapat pencapaian target yang telah ditetapkan oleh perusahaan, memfasilitas keinginan klien dengan kebutuhan penjualan program, menjalin hubungan baik dengan agency/advertiser/brand.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria/Wanita usia maksimal 30th</li>
+  <li>Pendidikan minimal S1 semua jurusan</li>
+  <li>Pengalaman minimal 1th di posisi sejenis dan di industri yang sama (media)</li>
+  <li>Memiliki kemampuan networking yang luas</li>
+  <li>Sanggup berpikir dan bekerja dengan target dan deadline yang dekat</li>
+  <li>Memiliki kemampuan komunikasi dan negosisasi yang baik</li>
+  <li>Bertanggungjawab dan mempunyai komitmen terhadap perusahaan</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

@@ -1,0 +1,4 @@
+<li><img class="lazy" src="images/banner_pesbukers.jpg" alt="" width="1000" height="400"></li>
+<li><img class="lazy" src="images/banner_campur2.jpg" alt="" width="1000" height="400"></li>
+<li><img class="lazy" src="images/banner_mahabharata.jpg" alt="" width="1000" height="400"></li>
+<li><img class="lazy" src="images/banner_worldcup.jpg" alt="" width="1000" height="400"></li>

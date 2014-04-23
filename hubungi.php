@@ -45,76 +45,32 @@
         <div class="col-xs-6 col-sm-3 hidden-xs box">
           <div class="box_content black">
             <ul id="kanal_menu">
-              <li><a class="female" href="female.php">FEMALE</a></li>
-              <li><a class="kids" href="kids_teen.php">KIDS & TEEN</a></li>
-              <li><a class="family" href="family.php">FAMILY</a></li>
-              <li><a class="male" href="male.php">MALE</a></li>
-              <li><a href="#">ANTVEVENTS</a></li>
+              <?php include"includes/kanal_menu.txt"; ?>
             </ul>
           </div>
         </div>
         
         <div class="col-xs-12 col-sm-3 box">
           <div class="box_content light_grey">
-            <h5 class="head_title"><span>CORPORATE</span> <br class="hidden-xs">COMMUNICATIONS</h5>
-            <article>
-            <p>
-            Komplek Rasuna Epicentrum Lot 9<br>
-            Jl. H.R. Rasuna Said, Karet Kuningan<br>
-            Setiabudi, Jakarta Selatan - Indonesia 12940</p>
-            <p>
-            Tel (021) 561 015 55<br>
-            Fax (021) 299 417 86<br>
-            Email humas@an.tv</p>
-            </article>
+            <?php include"includes/kontak_corporate_communication.txt"; ?>
           </div>
         </div>
         
         <div class="col-xs-12 col-sm-3 box">
           <div class="box_content light_grey2">
-            <h5 class="head_title"><span>SALES &</span> <br class="hidden-xs">MARKETING</h5>
-            <article>
-            <p>
-            Komplek Rasuna Epicentrum Lot 9<br>
-            Jl. H.R. Rasuna Said, Karet Kuningan<br>
-            Setiabudi, Jakarta Selatan - Indonesia 12940</p>
-            <p>
-            Tel (021) 561 015 55<br>
-            Fax (021) 299 416 68/69</p>
-            </article>
+            <?php include"includes/kontak_sales_marketing.txt"; ?>
           </div>
         </div>
         
         <div class="col-xs-12 col-sm-3 box">
           <div class="box_content light_grey">
-            <h5 class="head_title"><span>NEWS &</span> <br class="hidden-xs">CURRENT AFFAIR</h5>
-            <article>
-            <p>
-            Komplek Rasuna Epicentrum Lot 9<br>
-            Jl. H.R. Rasuna Said, Karet Kuningan<br>
-            Setiabudi, Jakarta Selatan - Indonesia 12940</p>
-            <p>
-            Tel (021) 561 015 55<br>
-            Fax (021) 299 417 88<br>
-            Email topik@an.tv<br>
-            Twitter @topikantv<br>
-            Facebook Topik ANTV</p>
-            </article>
+            <?php include"includes/kontak_news_current_affair.txt"; ?>
           </div>
         </div>
         
         <div class="col-xs-12 col-sm-3 box">
           <div class="box_content light_grey2">
-            <h5 class="head_title">PRODUCTION</h5>
-            <article>
-            <p>
-            Komplek Rasuna Epicentrum Lot 9<br>
-            Jl. H.R. Rasuna Said, Karet Kuningan<br>
-            Setiabudi, Jakarta Selatan - Indonesia 12940</p>
-            <p>
-            Tel (021) 561 015 55<br>
-            Fax (021) 299 416 65</p>
-            </article>
+            <?php include"includes/kontak_production.txt"; ?>
           </div>
         </div>
       

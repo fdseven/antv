@@ -1,0 +1,23 @@
+<h5 class="head_title"><span>GRAPHIC</span> <br class="hidden-xs">DESIGNER</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Membuat konsep, mengembangkan serta mengeksekusi desain grafis untuk project Promo On Air dan untuk keperluan media cetak (Off Air) sesuai dengan brand dan standard yang telah ditetapkan.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria/Wanita usia maksimal 29 tahun</li>
+  <li>Pendidikan Minimal D3 / S1 jurusan design/ komunikasi visual</li>
+  <li>Pengalaman min 1 th di posisi sejenis</li>
+  <li>Memiliki pengetahuan tentang teori komunikasi visual</li>
+  <li>Menguasai Graphic Design Principles</li>
+  <li>Menguasai Adobe CS, C4D / 3D Max</li>
+  <li>Berjiwa muda dan kreatif</li>
+  <li>Teliti dan Fokus pada detail</li>
+  <li>Mengikuti perkembangan trend di indtustri TV</li>
+  <li>Memiliki kemampuan komunikasi dan kerjasama yang baik</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi.</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

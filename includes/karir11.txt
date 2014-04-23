@@ -1,0 +1,21 @@
+<h5 class="head_title"><span>INTERNAL</span><br class="hidden-xs"> AUDITOR</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Melakukan program pemeriksaan atau Audit Program atas pelaksanaan Standart Operating Prosedure, mulai dari mengevaluasi hasil temuan dari proses Audit tsb, membuat daftar temuannya, menyiapkan Audit Reporting dan melakukan review untuk kemudian mengkomunikasikannya dengan unit terkait guna memberikan rekomendasi dan mencari langkah perbaikan yang tepat serta melakukan Audit Operasional sesuai dengan kebutuhan dan jadwal yang ditetapkan.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria/Wanita usia maksimal 25 thn</li>
+  <li>Pendidikan minimal S1 Semua Jurusan</li>
+  <li>Maksimal pengalaman 1 th sbg Internal Auditor/ Accounting / Compliance</li>
+  <li>Fresh Graduate diperbolehkan untuk melamar</li>
+  <li>Sanggup berpikir dan bekerja dengan deadline yang ketat</li>
+  <li>Memiliki kemampuan Problem Solving yang tinggi</li>
+  <li>Mampu bekerja dibawah tekanan</li>
+  <li>Teliti dan fokus pada detail</li>
+  <li>Mampu bekerja dalam tim dan dengan minimum supervisi</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

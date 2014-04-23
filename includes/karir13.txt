@@ -1,0 +1,22 @@
+<h5 class="head_title"><span>IT</span> <br class="hidden-xs">Jr. PROGRAMMER</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Melayani dan memastikan terpenuhinya permintaan / kebutuhan user terkait program dan aplikasi, melakukan pengembangan program yang terkait, melakukan pemeriksaan dan membuat back-up seluruh daily system Back Office serta back-up Database setiap hari, serta melakukan pemeriksaan kondisi Broadcast Management System secara berkala
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria / Wanita usia maksimal 26 th</li>
+  <li>Pendidikan min S1 IT / Manajemen Informatika</li>
+  <li>Pengalaman min 2th di posisi sejenis dalam industri televisi</li>
+  <li>Berpengalaman dalam mengerjakan project Software / Aplikasi yang mempergunakan database maupun non database (interfacing)</li>
+  <li>Menguasai VB Script (ASP, Visual Basic, .Net) ataupun PHP dan Javascript</li>
+  <li>Memiliki pengetahuan tentang Oracle (8 or Higher)</li>
+  <li>Teliti, Tekun dan Fokus pada detail</li>
+  <li>Jujur dan Loyal terhadap pekerjaan</li>
+  <li>Mampu bekerjasama dengan berbagai macam orang</li>
+  <li>Bersedia shifting</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

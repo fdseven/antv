@@ -1,0 +1,21 @@
+<h5 class="head_title"><span>ON AIR</span> <br class="hidden-xs">OPERATOR</h5>
+<article>
+<h5><strong>Responsibility :</strong></h5>
+Melakukan pengoperasian peralatan untuk siaran semua materi yang telah dijadwalkan agar dapat tayang dengan baik sesuai dengan kualitas yang telah ditentukan, memastikan kesiapan fasilitas back-up berjalan dengan baik untuk mengantisipasi jika terjadi kegagalan pada peralatan utama siaran, memastikan program yang akan ditayangkan memiliki cue sheet yang benar dan telah lulus sensor serta monitoring kualitas audio dan video selama siaran berlangsung agar dapat diterima pemirsa dengan baik.
+<h5><strong>Requirements :</strong></h5>
+<ul class="list">
+  <li>Pria / Wanita usia maksimal 25 tahun</li>
+  <li>Pendidikan min D3 Teknik / IT</li>
+  <li>Pengalaman min 1th di posisi sejenis dalam industri televisi</li>
+  <li>Fresh graduate diprerbolehkan untuk melamar</li>
+  <li>Memiliki pengetahuan penggunaan alat-alat brodcast</li>
+  <li>Menguasai microsoft office</li>
+  <li>Teliti, Tekun dan Fokus pada detail</li>
+  <li>Mampu bekerjasama dan senang menjalin relasi dengan berbagai macam orang</li>
+  <li>Bersedia shifting</li>
+</ul>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

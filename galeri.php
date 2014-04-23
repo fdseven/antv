@@ -32,11 +32,7 @@
         <div class="col-xs-6 col-sm-3 col-sm-push-6 hidden-xs box">
           <div class="box_content black">
             <ul id="kanal_menu">
-              <li><a class="female" href="female.php">FEMALE</a></li>
-              <li><a class="kids" href="kids_teen.php">KIDS & TEEN</a></li>
-              <li><a class="family" href="family.php">FAMILY</a></li>
-              <li><a class="male" href="male.php">MALE</a></li>
-              <li><a href="#">ANTVEVENTS</a></li>
+              <?php include"includes/kanal_menu.txt"; ?>
             </ul>
           </div>
         </div>

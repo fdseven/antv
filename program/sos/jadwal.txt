@@ -1,0 +1,5 @@
+<h4 class="jdl_program hidden-xs">SEPUTAR OBROLAN<br>SELEBRITIS</h4>
+<h4 class="jdl_program tiga visible-xs">SEPUTAR OBROLAN<br>SELEBRITIS</h4>
+<!--<p class="hari">SENIN - KAMIS</p>-->
+<p class="hari">SENIN - JUMAT</p>
+<h1 class="jam">12<br>.00 <p>WIB</p></h1>

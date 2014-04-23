@@ -35,11 +35,7 @@
         <div class="col-xs-6 col-sm-3 col-sm-push-6 hidden-xs box">
           <div class="box_content black">
             <ul id="kanal_menu">
-              <li><a class="female" href="female.php">FEMALE</a></li>
-              <li><a class="kids" href="kids_teen.php">KIDS & TEEN</a></li>
-              <li><a class="family" href="family.php">FAMILY</a></li>
-              <li><a class="male" href="male.php">MALE</a></li>
-              <li><a href="#">ANTVEVENTS</a></li>
+              <?php include"includes/kanal_menu.txt"; ?>
             </ul>
           </div>
         </div>
@@ -56,8 +52,7 @@
             
             <h5 class="head_title"><span>PROFIL</span> <br class="hidden-xs">PERUSAHAAN</h5>
             <article>
-              <p>PT Cakrawala Andalas Televisi atau yang lebih dikenal dengan sebutan ANTV hadir sebagai stasiun televisi swasta di Indonesia yang menyajikan beragam tayangan hiburan yang berkualitas, menarik serta menambah wawasan dan pengetahuan masyarakat Indonesia. Awalnya ANTV adalah stasiun televisi lokal yang siaran di wilayah Lampung dan sekitarnya.</p>
-              <p>Dengan izin siaran lokal ANTV mengudara selama lima jam sehari, kemudian ANTV mendapat Izin Siaran Nasional dari Menteri Penerangan RI dengan No. 207/RTF/K/I/1993 tgl 30 Januari 1993. Sepuluh hari setelah izin tersebut keluar ANTV dapat melakukan siaran secara nasional. Tepat 1 Maret 1993 untuk pertama kalinya ANTV memproduksi program sendiri berupa liputan berita aktual jalannya Sidang Umum DPR/MPR. Saat itu ANTV berhasil melakukan siaran langsung meliput jalannya kegiatan penting kenegaraan. Momen istimewa itu yang dijadikan sebagai hari lahirnya ANTV, kini lebih dari 19 tahun ANTV menemani masyarakat pemirsanya dengan program-program terbaik.</p>
+              <?php include"includes/profil_perusahaan.txt"; ?>
               <p class="visible-xs">&nbsp;</p>
             </article>
     
@@ -68,7 +63,7 @@
           <div class="box_content grey grey2">
             <h5 class="head_title">VISI</h5>
             <article>
-            Menjadi saluran televisi keluarga terbaik untuk seluruh keluarga Indonesia
+            <?php include"includes/visi.txt"; ?>
             <p class="visible-xs">&nbsp;</p>
             </article>
           </div>
@@ -84,7 +79,7 @@
           <div class="box_content grey">
             <h5 class="head_title">MISI</h5>
             <article>
-            Misi yang akan dilakukan oleh ANTV untuk dapat mencapai visi tersebut adalah sebagai berikut: Memberikan program-program berkualitas terbaik setiap anggota keluarga untuk mendukung pengembangan karakter Bangsa Indonesia dengan spirit kreatifitas dan inovasi kekuatan kerjasama tim dan tata kelola perusahaan.
+			<?php include"includes/misi.txt"; ?>
             <p class="visible-xs">&nbsp;</p>
             </article>
           </div>
@@ -100,16 +95,7 @@
         <div class="box_content grey grey2">
           <h5 class="head_title"><span>KEBIJAKAN</span> <br class="hidden-xs">MUTU</h5>
           <article>
-            PT. Cakrawala Andalas Televisi berkomitmen terhadap kebijakan mutu dengan melakukan peningkatan yang bekelanjutan dalam :
-            <p>
-            <ol>
-              <li>Mengupayakan yang terbaik untuk memuaskan pelanggan</li>
-              <li> Memberdayakan kemampuan karyawan ke arah profesionalisme</li>
-              <li>Menerapkan ISO 9001 : 2008</li>
-              <li> Mengintegrasikan semua proses dalam unit agar tercapai efisiensi dan efektifitas yang optimal</li>
-              <li>Melakukan peninjauan dan perbaikan Standard Operating Procedure secara berkesinambungan agar ANTV dapat beroperasi lebih efisien </li>
-            </ol>
-            </p>
+            <?php include"includes/kebijakan_mutu.txt"; ?>
             <p class="visible-xs">&nbsp;</p>
           </article>
         </div>
