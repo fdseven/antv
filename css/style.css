@@ -388,12 +388,14 @@ footer,
 .pview .description {
 	position: absolute;
 	overflow: auto;
-	top: 0px;
+	left: 50%;
+	top: 0;
 	bottom: 0px;
-	padding: 20px;
+	width: 0;
+	/*padding: 20px;
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
-    opacity: 0;
+    opacity: 0;*/
 	color: #fff;
     -webkit-transition: all 0.4s ease-in-out;
        -moz-transition: all 0.4s ease-in-out;
@@ -417,9 +419,12 @@ footer,
 	background: rgba(126, 40, 139, 0.95);
 }
 .pview:hover .description {
-	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	/*-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
     filter: alpha(opacity=100);
-    opacity: 1;
+    opacity: 1;*/
+	width: 100%;
+	left: 0;
+	padding: 20px;
 }
 #galeri .description {
 	background: rgba(0,0,0,0.7);

@@ -31,25 +31,25 @@
 
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/female.jpg" width="250" height="250">
+        <img class="cover" src="head_banner/female.jpg" width="250" height="250">
       </div>
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/kids.jpg" width="250" height="250">
+        <img class="cover" src="head_banner/kids.jpg" width="250" height="250">
       </div>
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/family.jpg" width="250" height="250">
+        <img class="cover" src="head_banner/family.jpg" width="250" height="250">
       </div>  
     </div>
     
     <div class="col-xs-6 col-sm-6 box">
       <div class="box_content">
-        <img class="cover" src="images/male.jpg" width="250" height="250">
+        <img class="cover" src="head_banner/male.jpg" width="250" height="250">
       </div>  
     </div>
     

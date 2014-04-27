@@ -1,0 +1,3 @@
+<h4 class="jdl_program">SINEMA<br>SPESIAL</h4>
+<p class="hari">SENIN - JUMAT</p>
+<h1 class="jam">22<br>.00 <p>WIB</p></h1>

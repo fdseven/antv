@@ -1,0 +1,4 @@
+<h4 class="jdl_program">CURIOUS GEORGE</h4>
+<p class="hari">SENIN - JUMAT</p>
+<h1 class="jam">15<br>.30 <p>WIB</p></h1>
+<!--<h1 class="jam jam_2">15<br>.00 <p>WIB</p></h1>-->

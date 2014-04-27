@@ -129,7 +129,7 @@
 	.pulltop2 {
 		margin-top: 0;
 	}
-	.pview .description {
+	.pview:hover .description {
 		padding: 15px;
 	}
         

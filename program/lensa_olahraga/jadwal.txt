@@ -1,0 +1,4 @@
+<h4 class="jdl_program hidden-xs">LENSA OLAHRAGA<br>PAGI</h4>
+<h4 class="jdl_program tiga visible-xs">LENSA OLAHRAGA<br>PAGI</h4>
+<p class="hari">SETIAP HARI</p>
+<h1 class="jam">05<br>.30 <p>WIB</p></h1>

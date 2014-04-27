@@ -11,7 +11,7 @@
       <?php include"includes/header.php"; ?>
     
       <div id="header">
-        <img class="cover" src="images/banner_tentang_kami.jpg" width="1000" height="400">
+        <img class="cover" src="head_banner/banner_corporate2.jpg" width="1000" height="400">
       </div>
       
       <div id="hubungi" class="row">
@@ -147,39 +147,15 @@
           </div>
         </div>
         
-        <div class="col-xs-12 col-sm-3 box box4">
+        <div class="col-xs-12 col-sm-6 box">
           <div class="box_content grey grey2">
             <?php include"includes/karir17.txt"; ?>
-          </div>
-        </div>
-        
-        <div class="col-xs-12 col-sm-3 box box4">
-          <div class="box_content grey">
-            <?php include"includes/karir18.txt"; ?>
           </div>
         </div>
         
         <div class="col-xs-12 col-sm-6 box land">
           <div class="box_content grey">
             <img class="cover" src="images/karir2.jpg" width="500" height="250">
-          </div>
-        </div>
-        
-        <div class="col-xs-12 col-sm-3 box box3">
-          <div class="box_content grey grey2">
-            <?php include"includes/karir19.txt"; ?>
-          </div>
-        </div>
-        
-        <div class="col-xs-12 col-sm-3 box box3">
-          <div class="box_content grey">
-            <?php include"includes/karir20.txt"; ?>
-          </div>
-        </div>
-        
-        <div class="col-xs-12 col-sm-3 box box4">
-          <div class="box_content grey">
-            <?php include"includes/karir21.txt"; ?>
           </div>
         </div>
       

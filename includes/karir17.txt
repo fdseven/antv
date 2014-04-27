@@ -1,30 +1,39 @@
-<h5 class="head_title"><span>SUPERVISOR EXTERNAL</span> <br class="hidden-xs"> & INTERNAL RELATIONS</h5>
+<h5 class="head_title"><span>PRESENTER /</span> REPORTER</h5>
 <article>
 <h5><strong>Responsibility :</strong></h5>
 <ol class="list">
   <li>
-	Merencanakan, mengorganisir dan menyelenggarakan kegiatan-kegiatan internal yang berkaitan dengan program maupun corporate seperti menangani keluhan, menjawab pertanyaan media dan permasalahan komunikasi yang terkait dengan pihak eksternal serta follow-up bagaimana bentuk penyelesaiannya.
-  </li>
-  <li>Merencanakan, mengorganisir dan menyelenggarakan kegiatan-kegiatan eksternal yang berhubungan dengan corporate seperti kegiatan yang berhubungan dengan pers, pemerintah, maupun corporate lainnya.
+	Membuat transkrip verbatim dan time-coding wawancara dengan narasumber.
   </li>
   <li>
-  Menjalin relasi dengan seluruh media, dan memastikan kelancaran permintaan dan koordinasi mengenai pemberitaan hal-hal yang terkait dengan ANTV.
+	Membuat naskah audio-visual sesuai dengan Rancangan Akhir Alur Cerita yang ditetapkan.
   </li>
-  <li>Bertanggungjawab untuk mengelola dan mengorganisir seluruh kegiatan sosial yang terkait dengan program CSR ANTV serta mampu berkoordinasi dengan masyarakat sekitar, donatur, pemirsa, maupun pemerintah daerah guna menjaga kelancaran hubungan kerjasama. 
+  <li>
+	Menyelesaikan laporan pertanggungjawaban budget peliputan bersama dengan Camera Person.
+  </li>
+  <li>
+	Melakukan riset, check call, korespondensi dengan pihak berwenang, dan pendekatan terhadap narasumber. 
+  </li>
+  <li>
+	Melakukan penggalian informasi di lapangan, pengembangan cerita (story development), serta visualisasi topik sesuai wishlist.
+  </li>
+  <li>
+	Melakukan pencarian talent, penyediaan properti, dan wardrobe sesuai dengan budget yang tersedia bersama dengan Camera Person
   </li>
 </ol>
 
 <h5><strong>Requirements :</strong></h5>
 <ul class="list">
-  <li>Pria/Wanita usia maksimal 30 tahun</li>
-  <li>Pendidikan Minimal S1 Semua Jurusan</li>
-  <li>Pengalaman Minimal 2 - 3 th sebagai Supervisor di industri sejenis (bidang Marketing Communication / EO / CSR)</li>
-  <li>Memiliki kemampuan networking yang luas</li>
+  <li>Pria/Wanita usia maksimal 28 tahun</li>
+  <li>Berpenampilan menarik</li>
+  <li>Fresh graduate atau pengalaman min 1 tahun di posisi sejenis dalam industri media</li>
+  <li>Pendidikan min S1 semua jurusan</li>
   <li>Memiliki kemampuan komunikasi dan kerjasama yang baik</li>
-  <li>Mengikuti perkembangan situasi sosial</li>
-  <li>Bertanggungjawab dan mempunyai komitmen terhadap perusahaan</li>
-  <li>Memiliki jiwa kepemimpinan</li>
-  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
+  <li>Menyukai pekerjaan sebagai jurnalis</li>
+  <li>Memiliki kemampuan menulis</li>
+  <li>Tertarik bekerja di industri media televisi dan menyukai pekerjaan yang dinamis</li>
+  <li>Memiliki kepribadian yang enerjik dan kreatif</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi dan lapangan</li>
 </ul>
 
 <p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>

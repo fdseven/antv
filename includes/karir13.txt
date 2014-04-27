@@ -1,19 +1,20 @@
-<h5 class="head_title"><span>IT</span> <br class="hidden-xs">Jr. PROGRAMMER</h5>
+<h5 class="head_title"><span>QUANTITATIVE</span> <br class="hidden-xs">RESEARCH EXECUTIVE</h5>
 <article>
 <h5><strong>Responsibility :</strong></h5>
-Melayani dan memastikan terpenuhinya permintaan / kebutuhan user terkait program dan aplikasi, melakukan pengembangan program yang terkait, melakukan pemeriksaan dan membuat back-up seluruh daily system Back Office serta back-up Database setiap hari, serta melakukan pemeriksaan kondisi Broadcast Management System secara berkala
+Melakukan seluruh proses analisa kuantitatif, penelitian serta penyediaan data kuantitatif berdasarkakan hasil  research, untuk kemudian dapat dilakukan evaluasi dan dilakukan pengembangan.
 <h5><strong>Requirements :</strong></h5>
 <ul class="list">
-  <li>Pria / Wanita usia maksimal 26 th</li>
-  <li>Pendidikan min S1 IT / Manajemen Informatika</li>
-  <li>Pengalaman min 2th di posisi sejenis dalam industri televisi</li>
-  <li>Berpengalaman dalam mengerjakan project Software / Aplikasi yang mempergunakan database maupun non database (interfacing)</li>
-  <li>Menguasai VB Script (ASP, Visual Basic, .Net) ataupun PHP dan Javascript</li>
-  <li>Memiliki pengetahuan tentang Oracle (8 or Higher)</li>
-  <li>Teliti, Tekun dan Fokus pada detail</li>
-  <li>Jujur dan Loyal terhadap pekerjaan</li>
-  <li>Mampu bekerjasama dengan berbagai macam orang</li>
-  <li>Bersedia shifting</li>
+  <li>Pria / Wanita usia maksimal 30 th</li>
+  <li>Pendidikan min S1 jurusan Statistik/Sosial Kemasyarakatan/Televisi/Komunikasi</li>
+  <li>Pengalaman 1th di bidang riset kuantitatif di industri sejenis</li>
+  <li>Fresh graduate diperbolehkan untuk melamar</li>
+  <li>Memiliki kemampuan analisa data dan estimasi trend program dan masyarakat</li>
+  <li>Menguasai metodologi riset kuantitatif</li>
+  <li>Memiliki pengetahuan dasar mengenai broadcasting</li>
+  <li>Mengikuti perkembangan trend dan kompetisi di industri televisi</li>
+  <li>Teliti, tekun, terbiasa bekerja dengan data dan fokus pada detail</li>
+  <li>Memiliki kemampuan komunikasi dan kerjasama yang baik</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
 </ul>
 
 <p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>

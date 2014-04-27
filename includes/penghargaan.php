@@ -43,13 +43,13 @@ Meraih penghargaan Panasonic Gobel Award 14. Kategori Program Kuis Terfavorit "S
             
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 hidden-xs box">
               <div class="box_content">
-                <img class="cover" src="images/awards_11_1.jpg" width="250" height="250">
+                <img class="cover" src="images/awards/awards_11_1.jpg" width="250" height="250">
               </div>  
             </div>
             
             <div class="col-xs-6 col-xs-push-3 col-sm-12 col-sm-push-0 hidden-xs box">
               <div class="box_content">
-                <img class="cover" src="images/awards_11_2.jpg" width="250" height="250">
+                <img class="cover" src="images/awards/awards_11_2.jpg" width="250" height="250">
               </div>  
             </div>
             
@@ -103,7 +103,7 @@ Meraih Juara Pertama Lomba Karya Jurnalistik Televisi dalam rangka peringatan ha
           </div>
         </div>
         
-        <img class="cover" src="images/awards_l.jpg" width="500" height="250">
+        <img class="cover" src="images/awards/awards_l.jpg" width="500" height="250">
       
       </div>
     </div>
@@ -141,7 +141,7 @@ Meraih penghargaan Anugrah Jurnalistik Pertamina 2008 untuk Program TELISIK. Den
             
             <div class="col-xs-6 col-xs-push-3 col-sm-12 box col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/awards_09_1.jpg" width="250" height="250">
+                <img class="cover" src="images/awards/awards_09_1.jpg" width="250" height="250">
               </div>  
             </div>
           
@@ -167,7 +167,7 @@ Meraih penghargaan Panasonic Gobel Award 13. Kategori Program Olahraga Terfavori
             
             <div class="col-xs-6 col-xs-push-3 col-sm-12 box col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/awards_10_1.jpg" width="250" height="250">
+                <img class="cover" src="images/awards/awards_10_1.jpg" width="250" height="250">
               </div>  
             </div>
           
@@ -197,13 +197,13 @@ Meraih penghargaan Panasonic Gobel Award 14. Kategori Program Kuis Terfavorit "S
             
             <div class="col-xs-6 visible-xs box">
               <div class="box_content">
-                <img class="cover" src="images/awards_11_1.jpg" width="250" height="250">
+                <img class="cover" src="images/awards/awards_11_1.jpg" width="250" height="250">
               </div>  
             </div>
             
             <div class="col-xs-6 visible-xs box">
               <div class="box_content">
-                <img class="cover" src="images/awards_11_2.jpg" width="250" height="250">
+                <img class="cover" src="images/awards/awards_11_2.jpg" width="250" height="250">
               </div>  
             </div>
             
@@ -233,7 +233,7 @@ Juara 3 : Desa Rumput Laut Di Nusa Dua, Bali Oleh Alvani Sukri (Kontributor Bali
             
             <div class="col-xs-6 col-xs-push-3 col-sm-12 box col-sm-push-0 box">
               <div class="box_content">
-                <img class="cover" src="images/awards_12_1.jpg" width="250" height="250">
+                <img class="cover" src="images/awards/awards_12_1.jpg" width="250" height="250">
               </div>  
             </div>
             

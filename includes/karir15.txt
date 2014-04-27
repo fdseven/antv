@@ -1,19 +1,18 @@
-<h5 class="head_title"><span>TRAINING</span> <br class="hidden-xs">STAFF</h5>
+<h5 class="head_title"><span>VIDEO</span> <br class="hidden-xs"> PERSON</h5>
 <article>
 <h5><strong>Responsibility :</strong></h5>
-Melayani permintaan user terhadap pemenuhan kebutuhan dalam rangka pengembangan dan pelatihan karyawan, mulai dari membuat perencanaan budget, membuat konsep dan template serta melakukan administrasi surat-menyurat yang terkait dengan kepentingan program pengembangan dan pelatihan karyawan, serta menjalin hubungan baik serta berkoordinasi dengan vendor-vendor training.
+Melakukan persiapan dan melakukan pengecekan terhadap semua peralatan yang dipergunakan baik pada sebelum, pada saat maupun setelah melaksanakan produksi / program meliputi pemeriksaan terhadap materi kaset yang akan digunakan serta menjaga level video dan kalibrasi warna dari setiap kamera.
 <h5><strong>Requirements :</strong></h5>
 <ul class="list">
-  <li>Pria / Wanita usia maksimal 25 tahun</li>
-  <li>Pendidikan min D3 Semua Jurusan</li>
-  <li>Pengalaman min 1th di posisi sejenis dalam industri televisi</li>
+  <li>Pria usia maksimal 26 tahun</li>
+  <li>Pendidikan min D3 Semua Jurusan, diutamakan jurusan ilmu perpustakaan atau kearsipan</li>
+  <li>Pengalaman min 2th di posisi sejenis dalam industri televisi</li>
   <li>Fresh graduate diprerbolehkan untuk melamar</li>
-  <li>Memiliki networking yang luas terutama dengan vendor-vendor training</li>
-  <li>Memiliki kemampuan komunikasi dan negosiasi yang baik</li>
-  <li>Menguasai microsoft office</li>
-  <li>Teliti, Tekun , Terbiasa bekerja dengan data dan Fokus pada detail</li>
-  <li>Mampu bekerjasama dan senang menjalin relasi dengan berbagai macam orang</li>
-  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi dan lapangan</li>
+  <li>Memiki pengetahuan tentang penggunaan alat VTR</li>
+  <li>Menguasai teknik administrasi perpustakaan kaset (sistem dan prosedur)</li>
+  <li>Teliti, Tekun dan Fokus pada detail</li>
+  <li>Mampu bekerjasama dengan berbagai macam orang</li>
+  <li>Bersedia shifting</li>
 </ul>
 
 <p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>

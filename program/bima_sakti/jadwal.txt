@@ -1,0 +1,3 @@
+<h4 class="jdl_program">BIMA SAKTI<br>CHOTA BHEEM</h4>
+<p class="hari">SETIAP HARI</p>
+<h1 class="jam">14<br>.00 <p>WIB</p></h1>

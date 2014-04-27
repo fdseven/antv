@@ -43,7 +43,7 @@
         </div>
         
         <!--S:CAMPUR-CAMPUR-->
-        <div id="1" class="pview red">
+        <div class="pview red">
         <div class="col-xs-6 col-sm-3 col-sm-pull-6 box light_grey2">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
@@ -61,7 +61,7 @@
         
         <!--S:SUPER DEAL-->
         <div class="col-xs-12 col-sm-6 box">
-          <div id="2" class="box_content row pview red">
+          <div class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box white gantung">
               <div class="box_content">
@@ -77,7 +77,7 @@
         <!--E:SUPER DEAL-->
         
         <!--S:CATATAN SI OLGA-->
-        <div id="3" class="pview red">
+        <div class="pview red">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <?php include"program/catatan_si_olga/banner_deskripsi.txt"; ?>
@@ -94,7 +94,7 @@
         <!--E:CATATAN SI OLGA-->
         
         <!--S:MATA LENSA-->
-        <div id="4" class="pview blue">
+        <div class="pview blue">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <?php include"program/mata_lensa/banner_deskripsi.txt"; ?>
@@ -111,7 +111,7 @@
         <!--E:MATA LENSA-->
         
         <!--S:FANTASTIC WORLDCUP-->
-        <div id="5" class="pview blue">        
+        <div class="pview blue">        
         <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask.png" width="250" height="158">
@@ -129,7 +129,7 @@
         
         <!--S:PESBUKERS-->
         <div class="col-xs-12 col-sm-6 box pull-right">
-          <div id="6" class="box_content row pview red">
+          <div class="box_content row pview red">
           
             <div class="col-xs-6 col-sm-6 box light_grey2 gantung right">
               <div class="box_content">
@@ -145,7 +145,7 @@
         <!--E:PESBUKERS-->
         
         <!--S:MASHA-->
-        <div id="7" class="pview yellow">
+        <div class="pview yellow">
         <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
@@ -277,8 +277,8 @@
         
         <div class="clearfix visible-xs"></div>
         <div class="col-sm-8 white">
-          <img class="cover lazy" src="images/banner_bot1.jpg" width="667" height="250">
-          <img class="cover lazy" src="images/banner_bot2.jpg" width="667" height="250">
+          <img class="cover lazy" src="head_banner/banner_bot1.jpg" width="667" height="250">
+          <img class="cover lazy" src="head_banner/banner_bot2.jpg" width="667" height="250">
         </div>
       
       </div>

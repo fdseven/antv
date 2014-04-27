@@ -11,7 +11,7 @@
       <?php include"includes/header.php"; ?>
     
       <div id="header">
-        <img class="cover" src="images/banner_female.jpg" width="1000" height="150">
+        <img class="cover" src="head_banner/banner_female.jpg" width="1000" height="150">
       </div>
       
       <div id="row_1" class="row">
@@ -30,7 +30,7 @@
           </div>
         </div>
         
-        <div id="1" class="pview violet">
+        <div class="pview violet">
         <div class="col-xs-6 col-sm-3 col-sm-pull-6 box white">
           <div class="box_content">
             <img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
@@ -49,7 +49,7 @@
         </div>
         
         <!--S:TRAVELLEZZA-->
-        <div id="2" class="pview violet">              
+        <div class="pview violet">              
         <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
             <img class="box_mask" src="images/mask.png" width="250" height="158">
@@ -66,7 +66,7 @@
         
         <!--S:SOS-->
         <div class="col-xs-12 col-sm-6 box pull-right">
-          <div id="3" class="box_content row pview violet">
+          <div class="box_content row pview violet">
           
             <div class="col-xs-6 col-sm-6 box white gantung right">
               <div class="box_content">
@@ -83,7 +83,7 @@
         
         <!--S:MAHABHARATA-->
         <div class="col-xs-12 col-sm-6 box">
-          <div id="4" class="box_content row pview violet">
+          <div class="box_content row pview violet">
           
             <div class="col-xs-6 col-sm-6 box white gantung">
               <div class="box_content">
@@ -99,7 +99,7 @@
         <!--E:MAHABHARATA-->
         
         <!--S:TOPIK PAGI-->
-        <div id="5" class="pview violet">
+        <div class="pview violet">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
             <?php include"program/topik_pagi/banner_deskripsi.txt"; ?>
@@ -114,7 +114,7 @@
         </div>
         <!--E:TOPIK PAGI-->
         
-        <div id="6" class="pview violet">        
+        <div class="pview violet">        
         <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
             <!--<img class="box_mask lazy" src="images/mask2.png" width="250" height="158">
@@ -132,7 +132,7 @@
         </div>
         </div>
         
-        <div id="7" class="pview violet">
+        <div class="pview violet">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <img class="cover lazy" src="images/antv.jpg" width="250" height="250">

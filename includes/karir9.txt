@@ -1,17 +1,19 @@
-<h5 class="head_title"><span>TELEPHONE</span> <br class="hidden-xs">OPERATOR</h5>
-<article>            
+<h5 class="head_title"><span>GRAPHIC</span> <br class="hidden-xs"> EDITOR</h5>
+<article>
 <h5><strong>Responsibility :</strong></h5>
-Bertanggungjawab terhadap kelancaran seluruh operasional komunikasi melalui telefon baik panggilan internal maupun eksternal dan membantu atas permintaan panggilan incoming maupun outgoing.
+Menjamin ketersediaan Material Graphics ataupun Info Graphics serta menyediakan template untuk program acara News, Sports and Current Affairs.
 <h5><strong>Requirements :</strong></h5>
 <ul class="list">
-  <li>Pria / wanita maksimal 27 tahun</li>
-  <li>Pendidikan minimal D3 Semua Jurusan</li>
-  <li>Pengalaman minimal 1 tahun di bidang yang sama</li>
-  <li>Fresh Graduate diperbolehkan untuk melamar</li>
-  <li>Mempunyai kemampuan berkomunikasi yang baik</li>
-  <li>Mampu bekerja di bawah tekanan</li>
-  <li>Mampu bekerja secara individu dan team</li>
-  <li>Bersedia shifting</li>
+  <li>Pria usia maksimal 30 tahun</li>
+  <li>Pendidikan min S1 Design Graphic / Komunikasi Visual</li>
+  <li>Pengalaman min 1th di posisi sejenis dalam industri televisi</li>
+  <li>Fresh graduate diprerbolehkan untuk melamar</li>
+  <li>Memiliki Pengetahuan Design Graphics, Computer Graphics System dan Info Graphics</li>
+  <li>Memiliki pemahaman 2D & 3D Designing Concept</li>
+  <li>Memiliki Kemampuan Konsep desain</li>
+  <li>Menguasai Komputer (Computer Graphics)</li>
+  <li>Memiliki pemahaman dan kemampuan dalam mengevaluasi efektivitas penyajian Info Graphics di dalam menjelaskan materi berita.</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
 </ul>
 
 <p>Kirim Lamaran Lengkap Ke E-mail : recruitment@an.tv / hr@an.tv</p>
