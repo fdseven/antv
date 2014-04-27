@@ -23,6 +23,7 @@
           </div>
         </div>
       
+        <!--S:MASHA-->
         <div class="col-xs-12 col-sm-6 box">
           <div class="box_content row pview yellow">
           
@@ -37,6 +38,7 @@
 
           </div>
         </div>
+        <!--E:MASHA-->
       
         <div id="share" class="col-xs-12 col-sm-3 box middle">
           <div class="box_content">
@@ -52,6 +54,7 @@
           </div>
         </div>
         
+        <!--S:ODDBODS-->
         <div class="pview yellow">        
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
@@ -66,7 +69,9 @@
           </div>
         </div>
         </div>
+        <!--E:ODDBODS-->
         
+        <!--S:TOM & JERRY-->
         <div class="pview yellow">        
         <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
@@ -81,13 +86,16 @@
           </div>
         </div>
         </div>
+        <!--E:TOM & JERRY-->
         
+        <!--S:ANGRY BIRDS-->
         <div class="pview yellow">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
           <?php include"program/angry_birds/banner_deskripsi.txt"; ?>
           </div>
         </div>
+        
         <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
             <img class="box_mask" src="images/mask.png" width="250" height="158">
@@ -95,7 +103,9 @@
           </div>
         </div>
         </div>
+        <!--E:ANGRY BIRDS-->
         
+        <!--S:BIMA SAKTI-->
         <div class="pview yellow">        
         <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
@@ -110,7 +120,9 @@
           </div>
         </div>
         </div>
+        <!--E:BIMA SAKTI-->
         
+        <!--S:BERNARD BEAR-->
         <div class="col-xs-12 col-sm-6 box pull-right">
           <div class="box_content row pview yellow">
           
@@ -125,7 +137,9 @@
             
           </div>
         </div>
+        <!--E:BERNARD BEAR-->
         
+        <!--S:CURIOUS GEORGE-->
         <div class="pview yellow">
         <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
@@ -140,6 +154,7 @@
           </div>
         </div>
         </div>
+        <!--E:CURIOUS GEORGE-->
       
       </div>
       <!--END: #row_1-->

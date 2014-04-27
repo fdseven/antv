@@ -30,6 +30,7 @@
           </div>
         </div>
         
+        <!--S:TOTAL FOOTBALL-->
         <div class="pview blue">
         <div class="col-xs-6 col-sm-3 col-sm-pull-6 box light_grey2">
           <div class="box_content">
@@ -44,7 +45,9 @@
           </div>
         </div>
         </div>
+        <!--E:TOTAL FOOTBALL-->
         
+        <!--S:FIFA WORLDCUP-->
         <div class="col-xs-12 col-sm-6 box">
           <div class="box_content row pview blue">
           
@@ -59,7 +62,9 @@
             
           </div>
         </div>
+        <!--E:FIFA WORLDCUP-->
         
+        <!--S:ANGKER BANGET-->
         <div class="pview blue"> 
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
@@ -74,7 +79,9 @@
           </div>
         </div>
         </div>
+        <!--E:ANGKER BANGET-->
         
+        <!--S:LENSA OLAHRAGA-->
         <div class="col-xs-12 col-sm-6 box pull-right">
           <div class="box_content row pview blue">
           
@@ -89,7 +96,9 @@
             
           </div>
         </div>
+        <!--E:LENSA OLAHRAGA-->
         
+        <!--S:MATA LENSA-->
         <div class="pview blue">
         <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
@@ -104,7 +113,9 @@
           </div>
         </div>        
         </div>
+        <!--E:MATA LENSA-->
         
+        <!--S:FANTASTIC WORLDCUP-->
         <div class="pview blue">        
         <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
@@ -119,7 +130,9 @@
           </div>
         </div>
         </div>
+        <!--E:FANTASTIC WORLDCUP-->
         
+        <!--S:KAMPIUN-->
         <div class="pview blue">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
@@ -134,6 +147,7 @@
           </div>
         </div>
         </div>
+        <!--S:KAMPIUN-->
       
       </div>
       <!--END: #row_1-->

@@ -30,6 +30,7 @@
           </div>
         </div>
         
+        <!--S:CAHAYA HATI-->
         <div class="pview red">
         <div class="col-xs-6 col-sm-3 col-sm-pull-6 box light_grey2">
           <div class="box_content">
@@ -44,7 +45,9 @@
           </div>
         </div>
         </div>
+        <!--E:CAHAYA HATI-->
         
+        <!--S:CAMPUR-CAMPUR-->
         <div class="pview red">
         <div class="col-xs-6 col-sm-3 box white">
           <div class="box_content">
@@ -59,7 +62,9 @@
           </div>
         </div>
         </div>
+        <!--E:CAMPUR-CAMPUR-->
         
+        <!--S:PESBUKERS-->
         <div class="col-xs-12 col-sm-6 box pull-right">
           <div class="box_content row pview red">
           
@@ -74,7 +79,9 @@
             
           </div>
         </div>
+        <!--E:CAHAYA HATI-->
         
+        <!--S:JEJAK PARANORMAL-->
         <div class="pview red">        
         <div class="col-xs-6 col-sm-3 box light_grey2">
           <div class="box_content">
@@ -89,7 +96,9 @@
           </div>
         </div>
         </div>
+        <!--E:JEJAK PARANORMAL-->
         
+        <!--S:SUPER DEAL-->
         <div class="col-xs-12 col-sm-6 box">
           <div class="box_content row pview red">
           
@@ -104,7 +113,9 @@
             
           </div>
         </div>
+        <!--E:SUPER DEAL-->
         
+        <!--S:CATATAN SI OLGA-->
         <div class="pview red">
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
@@ -119,7 +130,9 @@
           </div>
         </div>
         </div>
+        <!--E:CATATAN SI OLGA-->
         
+        <!--S:SINEMA SPESIAL-->
         <div class="pview red">        
         <div class="col-xs-6 col-sm-3 box">
           <div class="box_content">
@@ -134,6 +147,7 @@
           </div>
         </div>
         </div>
+        <!--E:SINEMA SPESIAL-->
       
       </div>
       <!--END: #row_1-->
