@@ -1,3 +1,3 @@
 <h4 class="jdl_program">CAMPUR<br>CAMPUR</h4>
 <p class="hari">SENIN - SABTU</p>
-<h1 class="jam">21<br>.00 <p>WIB</p></h1>
+<h1 class="jam">21<br>.15 <p>WIB</p></h1>

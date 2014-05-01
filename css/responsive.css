@@ -292,6 +292,7 @@
 	}
 	.jam p {
 		margin-top: -5px;
+		margin-bottom: -5px;
 	}
 	.box_mask {
 		display: none;
@@ -302,6 +303,9 @@
 }
 
 @media (min-width: 500px) and (max-width: 640px) {
+	.hari_2 {
+	margin: 0;
+	}
 	.jam {
 		line-height: 25px;
 		font-size: 30px;
@@ -371,6 +375,9 @@
 	.hari {
 		font-size: 12px;
 	}
+	.hari_2 {
+	margin: 0;
+	}
 	.jam {
 		line-height: 25px;
 		font-size: 30px;
@@ -378,6 +385,7 @@
 	}
 	.jam p {
 		margin-top: -5px;
+		margin-bottom: 0;
 	}
 	.jam_2 {
 		bottom: -5%;
@@ -410,8 +418,11 @@
 	.jam_2 {
 		bottom: -7%;
 		font-size: 35px;
-		margin: 0;
+		/*margin: 0;*/
 		right: 5%;
+	}
+	.jam p {
+		margin-bottom: -20px;
 	}
 }
 @media (min-width: 768px) and (max-width: 950px) {

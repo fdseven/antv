@@ -1,3 +1,7 @@
 <h4 class="jdl_program">MAHABHARATA</h4>
-<p class="hari">SETIAP HARI</p>
-<h1 class="jam">20<br>.30 <p>WIB</p></h1>
+<p class="hari">SENIN - SABTU</p>
+<h1 class="jam">20<br>.45 <p>WIB</p></h1>
+<div class="jdwl_2">
+<p class="hari hari_2">MINGGU</p>
+<h1 class="jam jam_2">19<br>.00 <p>WIB</p></h1>
+</div>
