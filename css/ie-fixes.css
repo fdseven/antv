@@ -7,3 +7,24 @@
 	font-family: "Gotham-Bold", Arial, Helvetica, sans-serif;
 }
 
+@font-face {
+	font-family: 'MontserratRegular';
+	src: url('../fonts/MontserratRegular.eot');
+	src: local('MontserratRegular'), url('../fonts/MontserratRegular.woff') format('woff'), url('../fonts/MontserratRegular.ttf') format('truetype');
+}
+/* Font downloaded from FontsForWeb.com */
+
+body,
+#menu_area ul li,
+#kanal_menu li,
+#profile_menu li,
+.jam p,
+.head_title span,
+.box article,
+.pview .description,
+.transmisi,
+footer,
+#menu_foot span {
+	font-family: "MontserratRegular", Arial, Helvetica, sans-serif;
+}
+

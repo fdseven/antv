@@ -23,7 +23,7 @@
   </style>
   <![endif]-->
   <!--[if lte IE 8]>
-  <link href="ie-fixes.css" type="text/css" rel="stylesheet" />
+  <link href="css/ie-fixes.css" type="text/css" rel="stylesheet" />
   <![endif]-->
 
   <!-- Just for debugging purposes. Don't actually copy this line! -->
